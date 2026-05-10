@@ -31,12 +31,12 @@ export default function HomePage() {
       <section
         className="relative py-16 lg:py-24"
         style={{
-          backgroundImage: 'url(/hero-boardroom.jpg)',
+          backgroundImage: 'url(/hero-professional.jpg)',
           backgroundSize: 'cover',
-          backgroundPosition: 'center center',
+          backgroundPosition: 'center 20%',
         }}
       >
-        <div className="absolute inset-0 bg-gray-900/75" />
+        <div className="absolute inset-0 bg-gray-900/50" />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-5 gap-12 items-center">
             <div className="lg:col-span-3">
