@@ -41,7 +41,7 @@ export default function ContactPage() {
                     <span className="text-orange-500 text-xl">📞</span>
                     <div>
                       <p className="text-sm text-gray-500">Phone</p>
-                      <a href={`tel:${siteConfig.phone.replace(/\s/g, '')}`} className="font-bold text-gray-900 hover:text-orange-500 transition-colors">{siteConfig.phone}</a>
+                      hello@cover4you.co.nz
                     </div>
                   </div>
                   <div className="flex items-center gap-3">

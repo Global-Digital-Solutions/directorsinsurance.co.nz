@@ -60,7 +60,7 @@ export default function DisclaimerPage() {
 
             <section>
               <h2 className="text-xl font-bold text-gray-900 mb-3">Contact</h2>
-              <p>For questions about this disclaimer, contact us at <a href="mailto:hello@cover4you.co.nz" className="text-orange-500 hover:underline">hello@cover4you.co.nz</a> or <a href={`tel:${siteConfig.phone.replace(/\s/g, '')}`} className="text-orange-500 hover:underline">{siteConfig.phone}</a>.</p>
+              <p>For questions about this disclaimer, contact us at <a href="mailto:hello@cover4you.co.nz" className="text-orange-500 hover:underline">hello@cover4you.co.nz</a>.</p>
             </section>
           </div>
         </div>

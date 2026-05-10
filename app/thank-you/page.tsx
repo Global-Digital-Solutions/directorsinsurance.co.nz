@@ -30,12 +30,6 @@ export default function ThankYouPage() {
             </ol>
           </div>
           <div className="flex flex-wrap justify-center gap-4 mb-8">
-            <a
-              href={`tel:${siteConfig.phone.replace(/\s/g, '')}`}
-              className="inline-flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-6 py-3 rounded-xl transition-colors"
-            >
-              📞 Call Now: {siteConfig.phone}
-            </a>
           </div>
           <Link href="/" className="text-orange-500 hover:text-orange-600 text-sm font-medium transition-colors">
             ← Return to Home

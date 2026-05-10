@@ -112,9 +112,6 @@ export default function AboutPage() {
               <Link href="/contact/" className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-xl transition-colors">
                 Get Free Quote →
               </Link>
-              <a href={`tel:${siteConfig.phone.replace(/\s/g, '')}`} className="inline-block bg-gray-700 hover:bg-gray-600 text-white font-bold px-8 py-3 rounded-xl transition-colors">
-                Call {siteConfig.phone}
-              </a>
             </div>
           </section>
         </div>

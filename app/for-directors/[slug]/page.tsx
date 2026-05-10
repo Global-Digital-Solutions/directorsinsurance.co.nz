@@ -46,8 +46,16 @@ export default async function DirectorTypePage({ params }: Props) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
 
       {/* Hero */}
-      <div className="bg-gray-900 border-b border-gray-700">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+      <div
+        className="relative border-b border-gray-700"
+        style={{
+          backgroundImage: 'url(/hero-office-1.jpg)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center 25%',
+        }}
+      >
+        <div className="absolute inset-0 bg-gray-900/85" />
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
           <nav className="text-sm text-gray-400 mb-4">
             <Link href="/" className="hover:text-white">Home</Link>
             <span className="mx-2">›</span>

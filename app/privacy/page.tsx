@@ -58,7 +58,7 @@ export default function PrivacyPage() {
 
             <section>
               <h2 className="text-xl font-bold text-gray-900 mb-3">7. Contact</h2>
-              <p>For privacy-related enquiries, contact us at <a href="mailto:hello@cover4you.co.nz" className="text-orange-500 hover:underline">hello@cover4you.co.nz</a> or call <a href="tel:0988559549" className="text-orange-500 hover:underline">{siteConfig.phone}</a>.</p>
+              <p>For privacy-related enquiries, contact us at <a href="mailto:hello@cover4you.co.nz" className="text-orange-500 hover:underline">hello@cover4you.co.nz</a>.</p>
             </section>
           </div>
         </div>
