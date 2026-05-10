@@ -1,8 +1,0 @@
-:HL["/_next/static/chunks/0ii7-7anltsrs.css","style"]
-:HL["https://ui-avatars.com/api/?name=Chubb&background=003087&color=fff&size=80","image"]
-:HL["https://ui-avatars.com/api/?name=AIG&background=C41E3A&color=fff&size=80","image"]
-:HL["https://ui-avatars.com/api/?name=QBE&background=0055A5&color=fff&size=80","image"]
-:HL["https://ui-avatars.com/api/?name=BI&background=1a1a2e&color=fff&size=80","image"]
-:HL["https://ui-avatars.com/api/?name=Vero&background=e63946&color=fff&size=80","image"]
-:HL["https://ui-avatars.com/api/?name=Gallagher&background=00539C&color=fff&size=80","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"compare","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"CUVy1_ryw2cm9Eo3P9Pwe"}
