@@ -78,7 +78,7 @@ export default function ContactPage() {
           <div className="grid lg:grid-cols-5 gap-12 items-start">
 
             {/* LEFT — trust + copy */}
-            <div className="lg:col-span-2 space-y-8">
+            <div className="lg:col-span-3 space-y-8">
 
               {/* Intro copy */}
               <div>
@@ -131,7 +131,7 @@ export default function ContactPage() {
             </div>
 
             {/* RIGHT — form */}
-            <div className="lg:col-span-3">
+            <div className="lg:col-span-2">
               <div className="bg-white rounded-2xl shadow-lg border border-gray-100 p-8">
                 <div className="mb-6">
                   <h2 className="text-2xl font-extrabold text-gray-900 mb-1">Request a Quote</h2>
