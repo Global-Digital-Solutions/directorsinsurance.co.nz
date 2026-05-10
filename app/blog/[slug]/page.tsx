@@ -152,21 +152,30 @@ export default async function BlogPostPage({ params }: Props) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
 
-      <div className="bg-gray-900 border-b border-gray-700">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+      <div
+        className="relative border-b border-gray-700"
+        style={{
+          backgroundImage: 'url(/hero-team.png)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center 30%',
+          minHeight: '380px',
+        }}
+      >
+        <div className="absolute inset-0 bg-gray-900/85" />
+        <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-28 flex flex-col justify-end" style={{ minHeight: '380px' }}>
           <nav className="text-sm text-gray-400 mb-4">
             <Link href="/" className="hover:text-white">Home</Link>
             <span className="mx-2">›</span>
-            <Link href="/blog/" className="hover:text-white">Blog</Link>
+            <Link href="/blog/" className="hover:text-white">Resources</Link>
             <span className="mx-2">›</span>
-            <span className="text-white">{post.title}</span>
+            <span className="text-white line-clamp-1">{post.title}</span>
           </nav>
-          <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4">
+          <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4 w-fit">
             {post.category}
           </span>
-          <h1 className="text-4xl font-extrabold text-white mb-4 leading-tight">{post.title}</h1>
-          <p className="text-gray-300 text-lg mb-6">{post.excerpt}</p>
-          <div className="flex items-center gap-4 text-sm text-gray-400">
+          <h1 className="text-3xl lg:text-5xl font-extrabold text-white mb-4 leading-tight">{post.title}</h1>
+          <p className="text-gray-300 text-lg mb-6 max-w-2xl">{post.excerpt}</p>
+          <div className="flex flex-wrap items-center gap-4 text-sm text-gray-400">
             <span>By {post.author}</span>
             <span>·</span>
             <span>{new Date(post.date).toLocaleDateString('en-NZ', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
@@ -184,7 +193,7 @@ export default async function BlogPostPage({ params }: Props) {
 
               <div className="mt-10 bg-orange-50 rounded-2xl p-8 border border-orange-100">
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Need D&amp;O Insurance?</h3>
-                <p className="text-gray-600 mb-4">Connect with a licensed D&amp;O broker for No obligation.</p>
+                <p className="text-gray-600 mb-4">Connect with a licensed D&amp;O broker — no obligation, quick turnaround.</p>
                 <Link href="/contact/" className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-6 py-3 rounded-xl transition-colors">
                   Get a Quote →
                 </Link>
