@@ -13,7 +13,7 @@
   <url><loc>https://directorsinsurance.co.nz/disclaimer/</loc><lastmod>2026-05-10</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <!-- Blog index -->
   <url><loc>https://directorsinsurance.co.nz/blog/</loc><lastmod>2026-05-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <!-- Blog posts -->
+  <!-- Blog posts - original 9 -->
   <url><loc>https://directorsinsurance.co.nz/blog/directors-duties-nz-companies-act/</loc><lastmod>2026-05-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://directorsinsurance.co.nz/blog/do-insurance-cost-nz-2026/</loc><lastmod>2026-04-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://directorsinsurance.co.nz/blog/startup-founders-do-insurance/</loc><lastmod>2026-04-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -23,6 +23,13 @@
   <url><loc>https://directorsinsurance.co.nz/blog/do-insurance-claims-examples-nz/</loc><lastmod>2026-03-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://directorsinsurance.co.nz/blog/trustee-liability-nz-charities/</loc><lastmod>2026-03-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://directorsinsurance.co.nz/blog/run-off-cover-directors-leaving-boards/</loc><lastmod>2026-03-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <!-- Blog posts - new 7 (authority content) -->
+  <url><loc>https://directorsinsurance.co.nz/blog/ai-governance-director-liability-nz/</loc><lastmod>2026-05-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://directorsinsurance.co.nz/blog/esg-director-responsibility-nz/</loc><lastmod>2026-05-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://directorsinsurance.co.nz/blog/litigation-funding-class-actions-nz-directors/</loc><lastmod>2026-05-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://directorsinsurance.co.nz/blog/ports-of-auckland-hswa-directors/</loc><lastmod>2026-05-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://directorsinsurance.co.nz/blog/do-insurance-exclusions-explained/</loc><lastmod>2026-05-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://directorsinsurance.co.nz/blog/side-a-side-b-side-c-do-insurance/</loc><lastmod>2026-05-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <!-- Coverage types -->
   <url><loc>https://directorsinsurance.co.nz/coverage/directors-and-officers/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://directorsinsurance.co.nz/coverage/management-liability/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -35,7 +42,7 @@
   <url><loc>https://directorsinsurance.co.nz/for-directors/listed-company-directors/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://directorsinsurance.co.nz/for-directors/trustees-and-charities/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://directorsinsurance.co.nz/for-directors/ceo-and-senior-management/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- Landing pages -->
+  <!-- Landing pages - original 12 -->
   <url><loc>https://directorsinsurance.co.nz/directors-insurance/cheap/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://directorsinsurance.co.nz/directors-insurance/best/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://directorsinsurance.co.nz/directors-insurance/compare/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -48,4 +55,11 @@
   <url><loc>https://directorsinsurance.co.nz/directors-insurance/cost/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://directorsinsurance.co.nz/directors-insurance/online/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://directorsinsurance.co.nz/directors-insurance/sme/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <!-- Landing pages - new 6 -->
+  <url><loc>https://directorsinsurance.co.nz/directors-insurance/trustee-liability-nz/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://directorsinsurance.co.nz/directors-insurance/management-liability-insurance/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://directorsinsurance.co.nz/directors-insurance/professional-indemnity-directors/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://directorsinsurance.co.nz/directors-insurance/startup-founder-insurance/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://directorsinsurance.co.nz/directors-insurance/listed-company-do-insurance/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://directorsinsurance.co.nz/directors-insurance/charity-board-insurance/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
