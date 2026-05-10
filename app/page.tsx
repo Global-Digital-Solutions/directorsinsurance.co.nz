@@ -31,15 +31,15 @@ export default function HomePage() {
       <section
         className="relative py-16 lg:py-24"
         style={{
-          backgroundImage: 'url(https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=1920&q=80)',
+          backgroundImage: 'url(https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=1920&q=80)',
           backgroundSize: 'cover',
           backgroundPosition: 'center top',
         }}
       >
         <div className="absolute inset-0 bg-gray-900/82" />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid lg:grid-cols-2 gap-12 items-center">
-            <div>
+          <div className="grid lg:grid-cols-5 gap-12 items-center">
+            <div className="lg:col-span-3">
               <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-6">
                 Specialist D&amp;O Insurance
               </span>
@@ -72,8 +72,10 @@ export default function HomePage() {
                 </Link>
               </div>
             </div>
-            <div>
-              <QuoteForm />
+            <div className="lg:col-span-2 flex justify-end">
+              <div className="w-full max-w-sm">
+                <QuoteForm />
+              </div>
             </div>
           </div>
         </div>
