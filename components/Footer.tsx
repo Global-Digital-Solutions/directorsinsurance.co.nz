@@ -27,9 +27,6 @@ export default function Footer() {
             </Link>
             <div className="text-sm text-gray-400 space-y-1">
               <p>
-                <a href={`tel:${siteConfig.phone.replace(/\s/g, '')}`} className="hover:text-white transition-colors">
-                  📞 {siteConfig.phone}
-                </a>
               </p>
               <p>
                 <a href={`mailto:${siteConfig.email}`} className="hover:text-white transition-colors">

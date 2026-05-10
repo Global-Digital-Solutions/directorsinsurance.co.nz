@@ -208,12 +208,6 @@ export default async function DirectorTypePage({ params }: Props) {
                   >
                     Get Free Quote →
                   </Link>
-                  <a
-                    href={`tel:${siteConfig.phone.replace(/\s/g, '')}`}
-                    className="inline-block bg-gray-700 hover:bg-gray-600 text-white font-bold px-8 py-3 rounded-xl transition-colors"
-                  >
-                    Call {siteConfig.phone}
-                  </a>
                 </div>
               </div>
             </div>

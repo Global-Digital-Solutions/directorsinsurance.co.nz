@@ -256,9 +256,6 @@ export default function HomePage() {
             <Link href="/contact/" className="bg-white text-orange-600 hover:bg-orange-50 font-bold px-8 py-3 rounded-xl transition-colors">
               Get Free Quote →
             </Link>
-            <a href={`tel:${siteConfig.phone.replace(/\s/g, '')}`} className="bg-orange-600 hover:bg-orange-700 text-white font-bold px-8 py-3 rounded-xl transition-colors border border-orange-400">
-              Call {siteConfig.phone}
-            </a>
           </div>
         </div>
       </section>

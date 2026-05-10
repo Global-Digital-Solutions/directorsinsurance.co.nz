@@ -67,7 +67,7 @@ export default function QuoteForm({ compact = false }: QuoteFormProps) {
       if (!res.ok) throw new Error('Submission failed')
       router.push('/thank-you/')
     } catch {
-      setError('Something went wrong. Please call us on ' + siteConfig.phone + ' or try again.')
+      setError('Something went wrong. Please try again or email hello@cover4you.co.nz')
       setLoading(false)
     }
   }
