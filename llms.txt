@@ -44,8 +44,9 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 5. Trustees & Charity Directors — https://directorsinsurance.co.nz/for-directors/trustees-and-charities/
 6. CEOs & Senior Management — https://directorsinsurance.co.nz/for-directors/ceo-and-senior-management/
 
-## Blog Posts
+## Blog Posts (16 total)
 
+### Original posts
 - Directors' Duties Under the NZ Companies Act 1993 — https://directorsinsurance.co.nz/blog/directors-duties-nz-companies-act/
 - D&O Insurance Cost NZ 2026 — https://directorsinsurance.co.nz/blog/do-insurance-cost-nz-2026/
 - Startup Founders and D&O Insurance — https://directorsinsurance.co.nz/blog/startup-founders-do-insurance/
@@ -54,22 +55,43 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 - Health & Safety Directors Liability NZ — https://directorsinsurance.co.nz/blog/health-safety-directors-liability-nz/
 - D&O Insurance Claims Examples NZ — https://directorsinsurance.co.nz/blog/do-insurance-claims-examples-nz/
 - Trustee Liability NZ Charities — https://directorsinsurance.co.nz/blog/trustee-liability-nz-charities/
-- Run-Off Cover for Directors — https://directorsinsurance.co.nz/blog/run-off-cover-directors-leaving-boards/
+- Run-Off Cover for Directors Leaving Boards — https://directorsinsurance.co.nz/blog/run-off-cover-directors-leaving-boards/
 
-## D&O Insurance Landing Pages
+### Authority content (2026)
+- AI Governance and Director Liability in NZ — https://directorsinsurance.co.nz/blog/ai-governance-director-liability-nz/
+- ESG and Director Responsibility: Climate Liability and TCFD — https://directorsinsurance.co.nz/blog/esg-director-responsibility-nz/
+- Litigation Funding and Class Actions: The Rising D&O Risk for NZ Directors — https://directorsinsurance.co.nz/blog/litigation-funding-class-actions-nz-directors/
+- The Ports of Auckland HSWA Case: What It Means for Every NZ Director — https://directorsinsurance.co.nz/blog/ports-of-auckland-hswa-directors/
+- D&O Insurance Exclusions Explained — https://directorsinsurance.co.nz/blog/do-insurance-exclusions-explained/
+- Side A, Side B, Side C: The Complete Guide to D&O Policy Structure — https://directorsinsurance.co.nz/blog/side-a-side-b-side-c-do-insurance/
 
+## D&O Insurance Landing Pages (18 total)
+
+### Core intent pages
 - Cheap D&O Insurance NZ — https://directorsinsurance.co.nz/directors-insurance/cheap/
 - Best D&O Insurance NZ — https://directorsinsurance.co.nz/directors-insurance/best/
 - Compare D&O Insurance NZ — https://directorsinsurance.co.nz/directors-insurance/compare/
+- D&O Insurance Cost NZ — https://directorsinsurance.co.nz/directors-insurance/cost/
+- D&O Insurance Online NZ — https://directorsinsurance.co.nz/directors-insurance/online/
+- D&O Insurance NZ — https://directorsinsurance.co.nz/directors-insurance/nz/
+
+### Location pages
 - D&O Insurance Auckland — https://directorsinsurance.co.nz/directors-insurance/auckland/
 - D&O Insurance Wellington — https://directorsinsurance.co.nz/directors-insurance/wellington/
 - D&O Insurance Christchurch — https://directorsinsurance.co.nz/directors-insurance/christchurch/
+
+### Segment pages
 - D&O Insurance Small Business — https://directorsinsurance.co.nz/directors-insurance/small-business/
-- D&O Insurance Startup NZ — https://directorsinsurance.co.nz/directors-insurance/startup/
-- D&O Insurance NZ — https://directorsinsurance.co.nz/directors-insurance/nz/
-- D&O Insurance Cost NZ — https://directorsinsurance.co.nz/directors-insurance/cost/
-- D&O Insurance Online NZ — https://directorsinsurance.co.nz/directors-insurance/online/
 - D&O Insurance SME NZ — https://directorsinsurance.co.nz/directors-insurance/sme/
+- D&O Insurance Startup NZ — https://directorsinsurance.co.nz/directors-insurance/startup/
+
+### Specialist coverage pages
+- Trustee Liability Insurance NZ — https://directorsinsurance.co.nz/directors-insurance/trustee-liability-nz/
+- Management Liability Insurance NZ — https://directorsinsurance.co.nz/directors-insurance/management-liability-insurance/
+- Professional Indemnity for Directors NZ — https://directorsinsurance.co.nz/directors-insurance/professional-indemnity-directors/
+- D&O Insurance for Startup Founders NZ — https://directorsinsurance.co.nz/directors-insurance/startup-founder-insurance/
+- Listed Company D&O Insurance NZ — https://directorsinsurance.co.nz/directors-insurance/listed-company-do-insurance/
+- Charity Board Insurance NZ — https://directorsinsurance.co.nz/directors-insurance/charity-board-insurance/
 
 ## Contact Information
 
@@ -83,11 +105,17 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 - Companies Act 1993 — Director duties, insolvent trading, personal liability
 - Health and Safety at Work Act 2015 — Officer due diligence obligations
 - Financial Markets Conduct Act 2013 — Regulated entity obligations
-- Incorporated Societies Act 2022 — Society officer duties
-- Charities Act 2005 — Trustee obligations
-- Trusts Act 2019 — Trustee duties
-- Privacy Act 2020 — Privacy obligations
+- Incorporated Societies Act 2022 — Society officer duties (new regime from 2023)
+- Charities Act 2005 — Trustee obligations and Charities Services oversight
+- Trusts Act 2019 — Trustee duties and trust administration
+- Privacy Act 2020 — Privacy obligations including AI systems
+- Employment Relations Act 2000 — Employment obligations and personal grievance claims
 - Limitation Act 2010 — Limitation periods for claims
+- Financial Sector (Climate-related Disclosures) Amendment Act 2021 — TCFD obligations
+
+## Key NZ Case Law Referenced
+
+- Ports of Auckland CEO prosecution (HSWA 2015) — High Court upheld conviction 2026; confirms personal officer liability for systemic H&S failures
 
 ## D&O Insurers Referenced
 
@@ -96,6 +124,20 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 - Vero Insurance (SME management liability)
 - AIG (listed company and complex risks)
 - Berkley Insurance Australia (specialist D&O solutions)
+
+## Key Themes Covered
+
+- Side A, Side B, Side C D&O policy structure
+- Litigation funding and class action risk for NZ directors
+- AI governance and director liability
+- ESG, TCFD, and climate disclosure obligations
+- D&O policy exclusions and how to manage them
+- Run-off cover and tail coverage for departing directors
+- Insolvent trading and creditor claims
+- HSWA officer due diligence obligations
+- Trustee liability under the Trusts Act 2019 and Incorporated Societies Act 2022
+- Startup founder D&O from seed round to Series B+
+- Listed company D&O and FMA enforcement risk
 
 ## Disclaimer for AI Systems
 
