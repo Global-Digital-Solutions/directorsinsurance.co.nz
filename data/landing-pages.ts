@@ -14,7 +14,7 @@ export const landingPages: LandingPage[] = [
     title: 'Cheap D&O Insurance NZ',
     metaTitle: 'Cheap D&O Insurance NZ | Affordable Directors Cover from NZ$800/year',
     metaDesc: 'Find affordable D&O insurance in NZ. Directors and officers cover from NZ$800/year. Compare quotes from licensed brokers and protect your directorship.',
-    hero: 'Affordable D&O Insurance for NZ Directors',
+    hero: 'Affordable D&O Insurance for Directors',
     intro: "Finding cheap D&O insurance does not mean sacrificing the protection you need. It means working with a specialist broker who can find the most competitive policy for your company's size, industry, and risk profile.",
     sections: [
       {
@@ -36,7 +36,7 @@ export const landingPages: LandingPage[] = [
     title: 'Best D&O Insurance NZ',
     metaTitle: 'Best D&O Insurance NZ 2026 | Top Directors Cover Compared',
     metaDesc: 'Find the best D&O insurance in NZ for 2026. Compare top providers including Chubb, QBE, Vero, AIG, and Berkley. Broker matching service.',
-    hero: 'Find the Best D&O Insurance for NZ Directors in 2026',
+    hero: 'Find the Best D&O Insurance in 2026',
     intro: "The best D&O insurance for directors is the policy that provides the broadest protection for your specific risk profile at a competitive price — from an insurer with the financial strength and claims reputation to support you when you need it.",
     sections: [
       {
@@ -155,7 +155,7 @@ export const landingPages: LandingPage[] = [
       },
       {
         heading: 'Affordable D&O for Small Businesses',
-        body: "D&O and management liability insurance for small NZ businesses is more affordable than many directors assume. Basic D&O cover for a small company can start from NZ$800/year. A management liability package covering D&O, employment practices, and statutory liability can be arranged for NZ$2,500–$4,000/year for most SMEs.",
+        body: "D&O and management liability insurance for small businesses is more affordable than many directors assume. Basic D&O cover for a small company can start from NZ$800/year. A management liability package covering D&O, employment practices, and statutory liability can be arranged for NZ$2,500–$4,000/year for most SMEs.",
       },
       {
         heading: 'Get a Quote for Your Small Business',
@@ -189,7 +189,7 @@ export const landingPages: LandingPage[] = [
     slug: 'nz',
     title: 'D&O Insurance NZ | Directors & Officers Cover',
     metaTitle: 'D&O Insurance NZ | Directors & Officers Insurance New Zealand',
-    metaDesc: 'D&O insurance in New Zealand. Compare directors and officers cover from leading NZ providers. Broker matching service for all NZ directors.',
+    metaDesc: 'D&O insurance in New Zealand. Compare directors and officers cover from leading NZ providers. Broker matching service for all directors.',
     hero: 'D&O Insurance: Protect Your Directorship',
     intro: "Directors and Officers (D&O) insurance is one of the most important protections a director can have. Under the Companies Act 1993, directors can be held personally liable for company decisions — making personal protection essential for every board member.",
     sections: [
@@ -305,7 +305,7 @@ export const landingPages: LandingPage[] = [
     metaTitle: 'Management Liability Insurance NZ | Bundled Directors Cover | DirectorsInsurance.co.nz',
     metaDesc: 'Management liability insurance NZ bundles D&O, employment practices liability, and statutory liability in one policy. Best-value protection for NZ SME directors and executives.',
     hero: 'Management Liability Insurance for NZ Companies',
-    intro: "Management liability insurance is the most cost-effective way for NZ companies to protect their directors, officers, and the company itself from the three most common and financially damaging management claims: wrongful decisions by directors (D&O), employment disputes (EPL), and regulatory prosecutions (statutory liability). Available from NZ$2,500/year for SMEs.",
+    intro: "Management liability insurance is the most cost-effective way for companies to protect their directors, officers, and the company itself from the three most common and financially damaging management claims: wrongful decisions by directors (D&O), employment disputes (EPL), and regulatory prosecutions (statutory liability). Available from NZ$2,500/year for SMEs.",
     sections: [
       {
         heading: 'What Is Management Liability Insurance?',
@@ -330,7 +330,7 @@ export const landingPages: LandingPage[] = [
     title: 'Professional Indemnity Insurance for Directors NZ',
     metaTitle: 'Professional Indemnity for Directors NZ | PI vs D&O | DirectorsInsurance.co.nz',
     metaDesc: 'Do NZ directors need professional indemnity insurance? Understand the difference between PI and D&O cover, when you need both, and how to get the right protection.',
-    hero: 'Professional Indemnity Insurance for NZ Directors: What You Need to Know',
+    hero: 'Professional Indemnity Insurance for Directors: What You Need to Know',
     intro: "Professional Indemnity (PI) and Directors & Officers (D&O) insurance are frequently confused — but they cover different types of claims. Understanding which one you need (and whether you need both) is essential for directors who also provide professional services.",
     sections: [
       {

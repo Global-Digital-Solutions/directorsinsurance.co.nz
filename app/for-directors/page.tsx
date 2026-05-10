@@ -20,7 +20,7 @@ export default function ForDirectorsPage() {
             <span className="text-white">For Directors</span>
           </nav>
           <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4">Director Types</span>
-          <h1 className="text-4xl font-extrabold text-white mb-4">D&amp;O Insurance for Every Type of NZ Director</h1>
+          <h1 className="text-4xl font-extrabold text-white mb-4">D&amp;O Insurance for Every Type of Director</h1>
           <p className="text-gray-300 text-xl max-w-2xl leading-relaxed">
             Different directors carry different risks. Find D&amp;O cover tailored to your specific role, responsibilities, and company type.
           </p>

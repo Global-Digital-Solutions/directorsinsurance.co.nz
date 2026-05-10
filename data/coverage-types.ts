@@ -148,15 +148,15 @@ D&O insurance is a claims-made product. It only responds to claims made during t
     fromPrice: 'NZ$1,200/year',
     description:
       'Management liability insurance is a broader package that bundles D&O cover with employment practices liability (EPL), crime cover, and statutory liability into a single policy. It protects the company as an entity and its management team from a wide range of managerial liability risks.',
-    longDesc: `Management liability (ML) insurance is the most practical choice for the majority of New Zealand companies. Where standalone D&O insurance covers only director liability claims, a management liability package combines four essential covers that address the real and frequent claim types that companies face: director liability, employment disputes, fraud and theft, and regulatory penalties.
+    longDesc: `Management liability (ML) insurance is the most practical choice for the majority of companies. Where standalone D&O insurance covers only director liability claims, a management liability package combines four essential covers that address the real and frequent claim types that companies face: director liability, employment disputes, fraud and theft, and regulatory penalties.
 
-The employment practices liability (EPL) component alone makes ML packages essential for any company with employees. Personal grievance claims — alleging unjustified dismissal, constructive dismissal, discrimination, or harassment — are among the most common claims faced by New Zealand businesses. These claims frequently name individual directors personally, particularly in smaller companies where the line between board decisions and operational management is blurred.
+The employment practices liability (EPL) component alone makes ML packages essential for any company with employees. Personal grievance claims — alleging unjustified dismissal, constructive dismissal, discrimination, or harassment — are among the most common claims faced by businesses. These claims frequently name individual directors personally, particularly in smaller companies where the line between board decisions and operational management is blurred.
 
 Crime cover addresses an often-overlooked risk: employee fraud and theft. Research consistently shows that businesses are most vulnerable to fraud from trusted insiders. A management liability policy's crime component covers the company's direct losses from employee dishonesty, computer fraud, and forgery — losses that can be significant in companies that handle client funds or operate with limited financial controls.
 
 The statutory liability component covers fines and legal defence costs arising from unintentional breaches of New Zealand legislation — including the Companies Act 1993, the Health and Safety at Work Act 2015, and the Financial Markets Conduct Act 2013. WorkSafe prosecutions of individual directors are increasing in frequency, and the legal costs of defending a five-day Health and Safety hearing can exceed $150,000.
 
-For most NZ private companies with employees, a management liability package represents considerably better value than purchasing D&O, EPL, and statutory liability as separate standalone policies.`,
+For most private companies with employees, a management liability package represents considerably better value than purchasing D&O, EPL, and statutory liability as separate standalone policies.`,
     whatCovers: [
       {
         title: 'Directors & Officers Liability (D&O)',
@@ -347,9 +347,9 @@ For companies that provide software, technology platforms, or digital services, 
     fromPrice: 'NZ$400/year',
     description:
       'Statutory liability insurance covers directors and officers against fines and legal costs arising from unintentional breaches of New Zealand legislation. This includes the Companies Act 1993, the Health and Safety at Work Act 2015, the Financial Markets Conduct Act 2013, and the Resource Management Act.',
-    longDesc: `Statutory liability insurance is among the most misunderstood — and most undervalued — components of a director insurance programme. Most directors focus on civil liability (D&O claims from shareholders and creditors) but underestimate their exposure to regulatory prosecution under New Zealand's extensive and increasingly enforced regulatory framework.
+    longDesc: `Statutory liability insurance is among the most misunderstood — and most undervalued — components of a director insurance programme. Most directors focus on civil liability (D&O claims from shareholders and creditors) but underestimate their exposure to regulatory prosecution under our extensive and increasingly enforced regulatory framework.
 
-New Zealand has strict statutory obligations imposed on directors and officers under a wide range of legislation. The Health and Safety at Work Act 2015 alone creates personal due diligence obligations for officers of every business — with fines of up to NZ$600,000 and imprisonment of up to five years for the most serious breaches. WorkSafe NZ has significantly increased its prosecution of individual officers in recent years, and the number of successful HSWA prosecutions naming directors personally has grown substantially.
+There are strict statutory obligations imposed on directors and officers under a wide range of legislation. The Health and Safety at Work Act 2015 alone creates personal due diligence obligations for officers of every business — with fines of up to NZ$600,000 and imprisonment of up to five years for the most serious breaches. WorkSafe NZ has significantly increased its prosecution of individual officers in recent years, and the number of successful HSWA prosecutions naming directors personally has grown substantially.
 
 Beyond health and safety, directors face personal exposure under the Financial Markets Conduct Act 2013 (disclosure obligations), the Companies Act 1993 (director duties and reporting obligations), the Resource Management Act 1991 (environmental compliance), the Privacy Act 2020 (data governance obligations for officers), and numerous sector-specific statutes.
 

@@ -118,7 +118,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <span className="inline-block bg-orange-100 text-orange-600 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4">For Directors</span>
-            <h2 className="text-3xl font-extrabold text-gray-900 mb-4">D&amp;O Cover for Every Type of NZ Director</h2>
+            <h2 className="text-3xl font-extrabold text-gray-900 mb-4">D&amp;O Cover for Every Type of Director</h2>
             <p className="text-gray-600 text-lg max-w-2xl mx-auto">Different directors carry different risks. Find cover tailored to your specific role and responsibilities.</p>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">

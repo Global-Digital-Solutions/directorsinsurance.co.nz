@@ -19,7 +19,7 @@ export const providers: Provider[] = [
     name: 'QBE Insurance',
     logo: '/providers/qbe.svg',
     specialty: 'Management Liability Packages',
-    description: 'QBE provides tailored management liability packages for NZ businesses of all sizes. Their policies combine D&O, EPL, statutory liability, and crime cover, with a strong reputation for claims handling in the ANZ market.',
+    description: 'QBE provides tailored management liability packages for businesses of all sizes. Their policies combine D&O, EPL, statutory liability, and crime cover, with a strong reputation for claims handling in the ANZ market.',
   },
   {
     slug: 'vero',

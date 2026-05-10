@@ -262,7 +262,7 @@ The scale of D&O protection required for listed company directors is significant
     name: 'Trustees & Charity Directors',
     icon: '❤️',
     description: 'Trustees of charitable trusts and incorporated societies carry personal liability for their governance decisions under the Charities Act 2005 and the Incorporated Societies Act 2022. Many assume their volunteer status protects them — it does not.',
-    longDesc: `Serving on a charity board or as a trustee is one of the most meaningful governance roles available — and one of the most misunderstood from a liability perspective. The persistent myth is that volunteer trustees are protected from personal liability by the nature of their role. New Zealand law is clear: they are not.
+    longDesc: `Serving on a charity board or as a trustee is one of the most meaningful governance roles available — and one of the most misunderstood from a liability perspective. The persistent myth is that volunteer trustees are protected from personal liability by the nature of their role. law is clear: they are not.
 
 The Incorporated Societies Act 2022 fundamentally changed the liability landscape for incorporated society officers. Where the old 1908 Act was largely silent on officer duties, the 2022 Act introduced formal, Companies Act-style duties: the duty to act in good faith, in the best interests of the society, and to exercise reasonable care, diligence, and skill. These duties are owed to the society and, through it, to its members and beneficiaries. Breach of these duties can result in personal liability.
 
@@ -322,7 +322,7 @@ The good news is that charity and not-for-profit management liability insurance 
     name: 'CEOs & Senior Management',
     icon: '💼',
     description: 'Chief executives and senior managers who are not formally directors can still be personally liable as "officers" under the Companies Act 1993 and the Health and Safety at Work Act 2015. D&O and management liability policies typically extend to cover officers as well as directors.',
-    longDesc: `The personal liability exposure of chief executives and senior managers is a consistently underappreciated governance issue. Many CEOs and senior managers assume that personal liability is the domain of the board — that their role is to manage, while the directors bear governance responsibility. New Zealand law does not support this distinction.
+    longDesc: `The personal liability exposure of chief executives and senior managers is a consistently underappreciated governance issue. Many CEOs and senior managers assume that personal liability is the domain of the board — that their role is to manage, while the directors bear governance responsibility. law does not support this distinction.
 
 The Companies Act 1993 defines "officer" broadly to include persons who exercise significant management responsibilities, including chief executives. The Health and Safety at Work Act 2015 goes further, explicitly imposing due diligence obligations on "officers" — a category that includes CEOs and senior managers with significant influence over the management of the business. The HSWA's officer due diligence obligation is personal, active, and enforceable.
 

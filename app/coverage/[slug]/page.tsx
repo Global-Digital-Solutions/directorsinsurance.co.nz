@@ -80,7 +80,7 @@ export default async function CoverageSlugPage({ params }: Props) {
           <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4">
             Coverage Type
           </span>
-          <h1 className="text-4xl font-extrabold text-white mb-4">{coverage.name} Insurance NZ</h1>
+          <h1 className="text-4xl font-extrabold text-white mb-4">{coverage.name} Insurance</h1>
           <p className="text-gray-300 text-xl leading-relaxed max-w-3xl">
             {coverage.description}
           </p>
@@ -109,7 +109,7 @@ export default async function CoverageSlugPage({ params }: Props) {
               {coverage.longDesc && (
                 <section>
                   <h2 className="text-2xl font-extrabold text-gray-900 mb-6">
-                    What Is {coverage.name} Insurance in New Zealand?
+                    What Is {coverage.name} Insurance?
                   </h2>
                   <div className="prose prose-gray max-w-none text-gray-600 leading-relaxed space-y-4">
                     {coverage.longDesc.split('\n\n').map((para, i) => (
@@ -254,7 +254,7 @@ export default async function CoverageSlugPage({ params }: Props) {
               {coverage.regulatoryContext && (
                 <section className="bg-blue-50 border border-blue-100 rounded-2xl p-8">
                   <h2 className="text-xl font-extrabold text-gray-900 mb-4">
-                    Regulatory Context: Why This Cover Matters in New Zealand
+                    Regulatory Context
                   </h2>
                   <p className="text-gray-700 leading-relaxed">{coverage.regulatoryContext}</p>
                 </section>
