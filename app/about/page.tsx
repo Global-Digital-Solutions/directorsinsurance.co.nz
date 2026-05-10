@@ -21,7 +21,7 @@ const differences = [
   },
   {
     icon: '🆓',
-    title: 'Truly Free Service',
+    title: 'Our Service',
     desc: 'There is no catch. We are paid a referral fee by brokers — you pay nothing extra and the competition between brokers keeps pricing competitive.',
   },
   {
@@ -110,7 +110,7 @@ export default function AboutPage() {
             <p className="text-gray-400 mb-6">Connect with a specialist D&amp;O insurance broker — it takes 2 minutes and costs nothing.</p>
             <div className="flex flex-wrap justify-center gap-4">
               <Link href="/contact/" className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-xl transition-colors">
-                Get Free Quote →
+                Get a Quote →
               </Link>
             </div>
           </section>

@@ -89,7 +89,7 @@ export default async function CoverageSlugPage({ params }: Props) {
               <span className="text-orange-500">✓</span> From {coverage.fromPrice}
             </span>
             <span className="inline-flex items-center gap-2 bg-orange-500/10 border border-orange-400/20 text-orange-300 text-sm px-4 py-2 rounded-full">
-              <span className="text-orange-500">✓</span> Free broker matching
+              <span className="text-orange-500">✓</span> Broker matching
             </span>
             <span className="inline-flex items-center gap-2 bg-orange-500/10 border border-orange-400/20 text-orange-300 text-sm px-4 py-2 rounded-full">
               <span className="text-orange-500">✓</span> Licensed advisers only
@@ -305,7 +305,7 @@ export default async function CoverageSlugPage({ params }: Props) {
                     href="/contact/"
                     className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-xl transition-colors"
                   >
-                    Get Free Quote →
+                    Get a Quote →
                   </Link>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default async function CoverageSlugPage({ params }: Props) {
                 <h3 className="font-bold text-white mb-4">Why Use Our Service?</h3>
                 <ul className="space-y-3">
                   {[
-                    'Free broker matching — no cost to you',
+                    'Broker matching — no cost to you',
                     'Licensed financial advisers only',
                     'Multiple insurer quotes compared',
                     'D&O specialists — not generalist brokers',

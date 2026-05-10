@@ -77,10 +77,10 @@ export default function QuoteForm({ compact = false }: QuoteFormProps) {
       {!compact && (
         <div className="mb-6">
           <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-3">
-            Free Quote
+            Get a Quote
           </span>
           <h2 className="text-2xl font-extrabold text-white mb-2">Get Your D&amp;O Insurance Quote</h2>
-          <p className="text-gray-400 text-sm">Connect with a licensed D&amp;O broker in minutes — no obligation.</p>
+          <p className="text-gray-400 text-sm">Connect with a licensed D&amp;O broker in minutes — No obligation.</p>
         </div>
       )}
       {compact && (
@@ -184,7 +184,7 @@ export default function QuoteForm({ compact = false }: QuoteFormProps) {
           disabled={loading}
           className="w-full bg-orange-500 hover:bg-orange-600 disabled:bg-orange-800 text-white font-bold py-3 rounded-lg transition-colors text-sm"
         >
-          {loading ? 'Submitting...' : 'Get My Free Quote →'}
+          {loading ? 'Submitting...' : 'Get a Quote →'}
         </button>
       </form>
 

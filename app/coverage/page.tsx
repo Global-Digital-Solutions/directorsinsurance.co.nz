@@ -62,7 +62,7 @@ export default function CoveragePage() {
             <h2 className="text-2xl font-extrabold text-white mb-4">Not Sure Which Cover You Need?</h2>
             <p className="text-gray-400 mb-6">A specialist D&amp;O broker can assess your specific situation and recommend the right combination of cover.</p>
             <Link href="/contact/" className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-xl transition-colors">
-              Get Free Broker Advice →
+              Get Broker Advice →
             </Link>
           </div>
         </div>

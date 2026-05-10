@@ -35,7 +35,7 @@ export const landingPages: LandingPage[] = [
     slug: 'best',
     title: 'Best D&O Insurance NZ',
     metaTitle: 'Best D&O Insurance NZ 2026 | Top Directors Cover Compared',
-    metaDesc: 'Find the best D&O insurance in NZ for 2026. Compare top providers including Chubb, QBE, Vero, AIG, and Berkley. Free broker matching service.',
+    metaDesc: 'Find the best D&O insurance in NZ for 2026. Compare top providers including Chubb, QBE, Vero, AIG, and Berkley. Broker matching service.',
     hero: 'Find the Best D&O Insurance for NZ Directors in 2026',
     intro: "The best D&O insurance for directors is the policy that provides the broadest protection for your specific risk profile at a competitive price — from an insurer with the financial strength and claims reputation to support you when you need it.",
     sections: [
@@ -57,9 +57,9 @@ export const landingPages: LandingPage[] = [
     slug: 'compare',
     title: 'Compare D&O Insurance NZ',
     metaTitle: 'Compare D&O Insurance NZ | Get Quotes from Multiple Providers',
-    metaDesc: 'Compare D&O insurance quotes from multiple NZ providers. Free broker matching to find the best directors cover for your company. Expert advice, no obligation.',
+    metaDesc: 'Compare D&O insurance quotes from multiple NZ providers. Broker matching to find the best directors cover for your company. Expert advice, no obligation.',
     hero: 'Compare D&O Insurance Quotes',
-    intro: 'Comparing D&O insurance requires looking beyond price to assess coverage quality, policy terms, and insurer financial strength. Our free broker matching service connects you with specialist brokers who do this comparison on your behalf.',
+    intro: 'Comparing D&O insurance requires looking beyond price to assess coverage quality, policy terms, and insurer financial strength. Our broker matching service connects you with specialist brokers who do this comparison on your behalf.',
     sections: [
       {
         heading: 'What to Compare in a D&O Policy',
@@ -67,11 +67,11 @@ export const landingPages: LandingPage[] = [
       },
       {
         heading: 'How Our Comparison Service Works',
-        body: "Our free service connects you with specialist D&O brokers who access quotes from Chubb, QBE, Vero, AIG, Berkley, and other specialist insurers. The broker:\n\n1. Assesses your company's risk profile\n2. Obtains competing quotes from multiple insurers\n3. Compares policy terms as well as price\n4. Recommends the best option for your needs\n5. Arranges cover and provides ongoing advice",
+        body: "Our service connects you with specialist D&O brokers who access quotes from Chubb, QBE, Vero, AIG, Berkley, and other specialist insurers. The broker:\n\n1. Assesses your company's risk profile\n2. Obtains competing quotes from multiple insurers\n3. Compares policy terms as well as price\n4. Recommends the best option for your needs\n5. Arranges cover and provides ongoing advice",
       },
       {
         heading: 'Getting Started',
-        body: "Submit your details using our free quote form and we will match you with a specialist D&O insurance broker within 24 hours. The broker will contact you to discuss your requirements and provide comparative quotes. There is no cost to you — the broker is remunerated by the insurer.",
+        body: "Submit your details using our quote form and we will match you with a specialist D&O insurance broker within 24 hours. The broker will contact you to discuss your requirements and provide comparative quotes. There is no cost to you — the broker is remunerated by the insurer.",
       },
     ],
   },
@@ -159,7 +159,7 @@ export const landingPages: LandingPage[] = [
       },
       {
         heading: 'Get a Quote for Your Small Business',
-        body: "Submit your details using our free quote form and we will match you with a specialist broker who understands SME D&O requirements. You will receive comparative quotes from multiple insurers within 24 hours.",
+        body: "Submit your details using our quote form and we will match you with a specialist broker who understands SME D&O requirements. You will receive comparative quotes from multiple insurers within 24 hours.",
       },
     ],
   },
@@ -167,7 +167,7 @@ export const landingPages: LandingPage[] = [
     slug: 'startup',
     title: 'D&O Insurance for Startups NZ',
     metaTitle: 'D&O Insurance for Startups NZ | Founder and Director Cover',
-    metaDesc: 'D&O insurance for NZ startup founders and directors. Meet investor requirements and protect yourself from claims as your company scales. Free broker matching.',
+    metaDesc: 'D&O insurance for NZ startup founders and directors. Meet investor requirements and protect yourself from claims as your company scales. Broker matching.',
     hero: 'D&O Insurance for NZ Startup Founders and Directors',
     intro: "New Zealand startup founders who are directors face significant personal liability from investor claims, employment disputes, and regulatory scrutiny — often without the corporate governance infrastructure of established companies. D&O insurance is increasingly required by investors as a condition of funding.",
     sections: [
@@ -189,7 +189,7 @@ export const landingPages: LandingPage[] = [
     slug: 'nz',
     title: 'D&O Insurance NZ | Directors & Officers Cover',
     metaTitle: 'D&O Insurance NZ | Directors & Officers Insurance New Zealand',
-    metaDesc: 'D&O insurance in New Zealand. Compare directors and officers cover from leading NZ providers. Free broker matching service for all NZ directors.',
+    metaDesc: 'D&O insurance in New Zealand. Compare directors and officers cover from leading NZ providers. Broker matching service for all NZ directors.',
     hero: 'D&O Insurance: Protect Your Directorship',
     intro: "Directors and Officers (D&O) insurance is one of the most important protections a director can have. Under the Companies Act 1993, directors can be held personally liable for company decisions — making personal protection essential for every board member.",
     sections: [
@@ -225,7 +225,7 @@ export const landingPages: LandingPage[] = [
       },
       {
         heading: 'Get Accurate Pricing',
-        body: "The only way to get accurate D&O pricing for your specific company is to obtain quotes from multiple insurers through a specialist broker. Our free service connects you with specialist D&O brokers who can provide comparative quotes within 24 hours.",
+        body: "The only way to get accurate D&O pricing for your specific company is to obtain quotes from multiple insurers through a specialist broker. Our service connects you with specialist D&O brokers who can provide comparative quotes within 24 hours.",
       },
     ],
   },
@@ -235,7 +235,7 @@ export const landingPages: LandingPage[] = [
     metaTitle: 'D&O Insurance Online NZ | Quick Directors Cover Quotes',
     metaDesc: 'Get D&O insurance online in NZ. Quick broker matching for directors and officers cover. Submit your details online and receive quotes within 24 hours.',
     hero: 'Get D&O Insurance Online',
-    intro: "Getting D&O insurance online is straightforward through our free broker matching service. Submit your company details using our online form and we will match you with a specialist D&O broker who can provide comparative quotes quickly.",
+    intro: "Getting D&O insurance online is straightforward through our broker matching service. Submit your company details using our online form and we will match you with a specialist D&O broker who can provide comparative quotes quickly.",
     sections: [
       {
         heading: 'How the Online Process Works',
@@ -247,7 +247,7 @@ export const landingPages: LandingPage[] = [
       },
       {
         heading: 'Start Your Online Application',
-        body: "Use our free quote form to get started. A specialist D&O broker will contact you within 24 hours to discuss your requirements and provide competitive quotes from the leading NZ D&O insurers.",
+        body: "Use our quote form to get started. A specialist D&O broker will contact you within 24 hours to discuss your requirements and provide competitive quotes from the leading NZ D&O insurers.",
       },
     ],
   },
@@ -269,7 +269,7 @@ export const landingPages: LandingPage[] = [
       },
       {
         heading: 'Get SME D&O Cover',
-        body: "Submit your details using our free quote form and we will match you with a specialist D&O broker who understands SME requirements. Comparative quotes from multiple insurers within 24 hours.",
+        body: "Submit your details using our quote form and we will match you with a specialist D&O broker who understands SME requirements. Comparative quotes from multiple insurers within 24 hours.",
       },
     ],
   },
@@ -425,7 +425,7 @@ export const landingPages: LandingPage[] = [
       },
       {
         heading: 'Cost of Charity Board Insurance in NZ',
-        body: "Charity board insurance is among the most affordable types of D&O cover — reflecting the smaller scale and lower-risk profile of most NZ charities:\n\n- **Small charities (under NZ$500K revenue, no staff):** NZ$400–$700/year\n- **Medium charities (NZ$500K–$2M, 1–10 staff):** NZ$700–$1,500/year\n- **Large charities / NGOs (NZ$2M+, significant staff):** NZ$1,500–$5,000/year\n\nFor most NZ charities, the annual premium is a fraction of the cost of defending even one employment or governance claim. Contact our specialist brokers for a free quote.",
+        body: "Charity board insurance is among the most affordable types of D&O cover — reflecting the smaller scale and lower-risk profile of most NZ charities:\n\n- **Small charities (under NZ$500K revenue, no staff):** NZ$400–$700/year\n- **Medium charities (NZ$500K–$2M, 1–10 staff):** NZ$700–$1,500/year\n- **Large charities / NGOs (NZ$2M+, significant staff):** NZ$1,500–$5,000/year\n\nFor most NZ charities, the annual premium is a fraction of the cost of defending even one employment or governance claim. Contact our specialist brokers for a quote.",
       },
     ],
   },

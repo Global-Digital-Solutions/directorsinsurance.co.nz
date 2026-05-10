@@ -19,10 +19,10 @@ export default function ContactPage() {
             <span className="mx-2">›</span>
             <span className="text-white">Contact</span>
           </nav>
-          <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4">Free Quote</span>
+          <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4">Get a Quote</span>
           <h1 className="text-4xl font-extrabold text-white mb-4">Get a Free D&amp;O Insurance Quote</h1>
           <p className="text-gray-300 text-xl leading-relaxed max-w-2xl">
-            Connect with a specialist D&amp;O insurance broker in minutes. No obligation, no cost.
+            Connect with a specialist D&amp;O insurance broker in minutes. No obligation.
           </p>
         </div>
       </div>

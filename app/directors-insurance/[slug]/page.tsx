@@ -86,7 +86,7 @@ export default async function DirectorsInsuranceLandingPage({ params }: Props) {
                 <p className="text-gray-600 mb-6">Connect with a specialist D&amp;O insurance broker for competitive quotes from multiple providers.</p>
                 <div className="flex flex-wrap gap-4">
                   <Link href="/contact/" className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-6 py-3 rounded-xl transition-colors">
-                    Get Free Quote →
+                    Get a Quote →
                   </Link>
                 </div>
               </div>

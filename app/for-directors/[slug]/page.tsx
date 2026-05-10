@@ -207,14 +207,14 @@ export default async function DirectorTypePage({ params }: Props) {
                   Get D&amp;O Cover for {director.name}
                 </h2>
                 <p className="text-gray-400 mb-6">
-                  Connect with a specialist broker who understands the unique risk profile of {director.name.toLowerCase()}. Free, no-obligation quote within 24 hours.
+                  Connect with a specialist broker who understands the unique risk profile of {director.name.toLowerCase()}. No-obligation quote within 24 hours.
                 </p>
                 <div className="flex flex-wrap justify-center gap-4">
                   <Link
                     href="/contact/"
                     className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-xl transition-colors"
                   >
-                    Get Free Quote →
+                    Get a Quote →
                   </Link>
                 </div>
               </div>

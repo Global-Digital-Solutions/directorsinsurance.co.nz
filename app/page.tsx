@@ -11,7 +11,7 @@ import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
   title: 'D&O Insurance NZ | Directors & Officers Insurance | DirectorsInsurance.co.nz',
-  description: 'Compare D&O insurance. Directors and officers cover from NZ$800/year. Free quotes from licensed brokers — protect your directorship today.',
+  description: 'Compare D&O insurance. Directors and officers cover from NZ$800/year. Quotes from licensed brokers — protect your directorship today.',
   alternates: { canonical: siteConfig.url + '/' },
 }
 
@@ -65,7 +65,7 @@ export default function HomePage() {
               </div>
               <div className="flex flex-wrap gap-4">
                 <Link href="/contact/" className="bg-orange-500 hover:bg-orange-600 text-white font-bold px-6 py-3 rounded-xl transition-colors text-sm">
-                  Get Free Quote →
+                  Get a Quote →
                 </Link>
                 <Link href="/coverage/" className="bg-gray-700 hover:bg-gray-600 text-white font-bold px-6 py-3 rounded-xl transition-colors text-sm">
                   Explore Coverage
@@ -150,7 +150,7 @@ export default function HomePage() {
           <div className="text-center mb-12">
             <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4">How It Works</span>
             <h2 className="text-3xl font-extrabold text-white mb-4">Get D&amp;O Cover in 3 Simple Steps</h2>
-            <p className="text-gray-400 text-lg max-w-2xl mx-auto">Our free service connects you with the right D&amp;O broker quickly — so you can focus on your board, not the paperwork.</p>
+            <p className="text-gray-400 text-lg max-w-2xl mx-auto">Our service connects you with the right D&amp;O broker quickly — so you can focus on your board, not the paperwork.</p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             {steps.map((s) => (
@@ -165,7 +165,7 @@ export default function HomePage() {
           </div>
           <div className="text-center mt-10">
             <Link href="/contact/" className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-xl transition-colors">
-              Start Now — It&apos;s Free
+              Get Started
             </Link>
           </div>
         </div>
@@ -250,11 +250,11 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-extrabold text-white mb-4">Protect Your Directorship Today</h2>
           <p className="text-orange-100 text-lg mb-8">
-            Join directors who trust our free broker matching service to find the right D&amp;O cover. No obligation — connect with a licensed specialist today.
+            Join directors who trust our broker matching service to find the right D&amp;O cover. No obligation — connect with a licensed specialist today.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link href="/contact/" className="bg-white text-orange-600 hover:bg-orange-50 font-bold px-8 py-3 rounded-xl transition-colors">
-              Get Free Quote →
+              Get a Quote →
             </Link>
           </div>
         </div>

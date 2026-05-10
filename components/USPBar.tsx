@@ -6,8 +6,8 @@ const usps = [
   },
   {
     icon: '🆓',
-    title: 'Free Quote Service',
-    desc: 'No cost, no obligation — ever',
+    title: 'Broker Matching',
+    desc: 'Connected to NZ D&O specialists',
   },
   {
     icon: '🇳🇿',

@@ -58,7 +58,7 @@ export default function FAQsPage() {
             <p className="text-gray-600 mb-6">Our specialist D&amp;O brokers can answer your specific questions about directors insurance. Connect with a broker for free.</p>
             <div className="flex flex-wrap justify-center gap-4">
               <Link href="/contact/" className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-xl transition-colors">
-                Get Free Quote →
+                Get a Quote →
               </Link>
             </div>
           </div>

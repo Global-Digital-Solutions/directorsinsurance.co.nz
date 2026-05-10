@@ -207,7 +207,7 @@ As the company grows and raises capital, policy limits should be reviewed and in
 
 ## Get Started
 
-Use our free broker matching service to connect with a specialist D&O insurance broker who understands the startup environment. We will match you with a broker who can structure appropriate cover for your stage of growth.`,
+Use our broker matching service to connect with a specialist D&O insurance broker who understands the startup environment. We will match you with a broker who can structure appropriate cover for your stage of growth.`,
   },
   {
     slug: 'management-liability-vs-do-insurance',

@@ -5,7 +5,7 @@ import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
   title: 'D&O Insurance for NZ Directors | By Director Type',
-  description: 'Find D&O insurance tailored to your director type — SME directors, startup founders, NEDs, listed company directors, trustees, and CEOs. Free broker matching.',
+  description: 'Find D&O insurance tailored to your director type — SME directors, startup founders, NEDs, listed company directors, trustees, and CEOs. Broker matching.',
   alternates: { canonical: `${siteConfig.url}/for-directors/` },
 }
 
@@ -58,7 +58,7 @@ export default function ForDirectorsPage() {
               <h2 className="text-2xl font-extrabold text-gray-900 mb-4">Not Sure What Cover You Need?</h2>
               <p className="text-gray-600 mb-6">A specialist D&amp;O broker can assess your specific director role and recommend the most appropriate protection for your personal liability exposure.</p>
               <Link href="/contact/" className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-xl transition-colors">
-                Get Free Broker Advice →
+                Get Broker Advice →
               </Link>
             </div>
           </div>

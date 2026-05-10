@@ -6,7 +6,7 @@ import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
   title: 'Compare D&O Insurance NZ | Directors Cover Comparison',
-  description: 'Compare D&O insurance providers and coverage types. Chubb, QBE, Vero, AIG, Berkley compared. Free broker matching for directors.',
+  description: 'Compare D&O insurance providers and coverage types. Chubb, QBE, Vero, AIG, Berkley compared. Broker matching for directors.',
   alternates: { canonical: `${siteConfig.url}/compare/` },
 }
 
@@ -88,7 +88,7 @@ export default function ComparePage() {
             <h2 className="text-2xl font-extrabold text-white mb-4">Get a Personalised D&amp;O Comparison</h2>
             <p className="text-gray-400 mb-6">Our specialist brokers compare multiple insurers on your behalf — free of charge.</p>
             <Link href="/contact/" className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-xl transition-colors">
-              Get Free Quote →
+              Get a Quote →
             </Link>
           </section>
         </div>
