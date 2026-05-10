@@ -4,7 +4,7 @@ import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
   title: 'Thank You | Quote Request Received',
-  description: 'Your D&O insurance quote request has been received. A specialist NZ broker will contact you within 24 hours.',
+  description: 'Your D&O insurance quote request has been received. A specialist broker will contact you within 24 hours.',
   robots: { index: false, follow: false },
 }
 
@@ -18,7 +18,7 @@ export default function ThankYouPage() {
           </div>
           <h1 className="text-3xl font-extrabold text-gray-900 mb-4">Thank You — Quote Request Received</h1>
           <p className="text-gray-600 text-lg leading-relaxed mb-6">
-            Your D&amp;O insurance enquiry has been received. A specialist NZ insurance broker will contact you within 24 hours to discuss your requirements and provide competitive quotes.
+            Your D&amp;O insurance enquiry has been received. A specialist insurance broker will contact you within 24 hours to discuss your requirements and provide competitive quotes.
           </p>
           <div className="bg-orange-50 rounded-xl p-6 mb-8 text-left border border-orange-100">
             <h2 className="font-bold text-gray-900 mb-3">What happens next?</h2>

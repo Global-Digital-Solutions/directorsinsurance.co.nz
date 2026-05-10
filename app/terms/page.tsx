@@ -33,7 +33,7 @@ export default function TermsPage() {
 
             <section>
               <h2 className="text-xl font-bold text-gray-900 mb-3">2. Nature of Service</h2>
-              <p>The Website is an information and referral service only. It does not provide financial advice or sell insurance products. All insurance advice and quotations are provided by licensed NZ insurance brokers to whom you may be referred.</p>
+              <p>The Website is an information and referral service only. It does not provide financial advice or sell insurance products. All insurance advice and quotations are provided by licensed insurance brokers to whom you may be referred.</p>
             </section>
 
             <section>

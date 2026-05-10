@@ -26,7 +26,7 @@ export const providers: Provider[] = [
     name: 'Vero Insurance',
     logo: '/providers/vero.svg',
     specialty: 'SME Management Liability',
-    description: 'Vero offers competitive management liability solutions for SME directors and officers in New Zealand. Their packaged products are accessible for smaller companies that need broad cover without complex policy structures.',
+    description: 'Vero offers competitive management liability solutions for SME directors and officers. Their packaged products are accessible for smaller companies that need broad cover without complex policy structures.',
   },
   {
     slug: 'aig',

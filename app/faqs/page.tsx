@@ -5,7 +5,7 @@ import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
   title: 'D&O Insurance FAQs NZ | Directors Insurance Questions Answered',
-  description: 'Answers to common D&O insurance questions for NZ directors. What is D&O, how much does it cost, what does it cover, and more.',
+  description: 'Answers to common D&O insurance questions for directors. What is D&O, how much does it cost, what does it cover, and more.',
   alternates: { canonical: `${siteConfig.url}/faqs/` },
 }
 
@@ -37,7 +37,7 @@ export default function FAQsPage() {
           <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4">Common Questions</span>
           <h1 className="text-4xl font-extrabold text-white mb-4">D&amp;O Insurance FAQs</h1>
           <p className="text-gray-300 text-xl leading-relaxed max-w-2xl">
-            Answers to the most common questions NZ directors have about D&amp;O and management liability insurance.
+            Answers to the most common questions directors have about D&amp;O and management liability insurance.
           </p>
         </div>
       </div>

@@ -5,7 +5,7 @@ import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
   title: 'D&O Insurance Blog NZ | Directors Insurance Guides & News',
-  description: 'NZ D&O insurance guides, legal updates, and advice for directors. Directors duties, management liability, run-off cover, and more.',
+  description: 'D&O insurance guides, legal updates, and advice for directors. Directors duties, management liability, run-off cover, and more.',
   alternates: { canonical: `${siteConfig.url}/blog/` },
 }
 
@@ -24,7 +24,7 @@ export default function BlogPage() {
           </span>
           <h1 className="text-4xl font-extrabold text-white mb-4">D&amp;O Insurance Blog</h1>
           <p className="text-gray-300 text-xl max-w-2xl leading-relaxed">
-            Expert guides, legal updates, and practical advice to help NZ directors make informed insurance decisions.
+            Expert guides, legal updates, and practical advice to help directors make informed insurance decisions.
           </p>
         </div>
       </div>

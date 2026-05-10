@@ -83,7 +83,7 @@ export default async function DirectorsInsuranceLandingPage({ params }: Props) {
 
               <div className="bg-orange-50 rounded-2xl p-8 border border-orange-100">
                 <h2 className="text-xl font-bold text-gray-900 mb-3">Get a Free D&amp;O Quote</h2>
-                <p className="text-gray-600 mb-6">Connect with a specialist NZ D&amp;O insurance broker for competitive quotes from multiple providers.</p>
+                <p className="text-gray-600 mb-6">Connect with a specialist D&amp;O insurance broker for competitive quotes from multiple providers.</p>
                 <div className="flex flex-wrap gap-4">
                   <Link href="/contact/" className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-6 py-3 rounded-xl transition-colors">
                     Get Free Quote →

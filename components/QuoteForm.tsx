@@ -80,7 +80,7 @@ export default function QuoteForm({ compact = false }: QuoteFormProps) {
             Free Quote
           </span>
           <h2 className="text-2xl font-extrabold text-white mb-2">Get Your D&amp;O Insurance Quote</h2>
-          <p className="text-gray-400 text-sm">Connect with a licensed NZ D&amp;O broker in minutes — no obligation.</p>
+          <p className="text-gray-400 text-sm">Connect with a licensed D&amp;O broker in minutes — no obligation.</p>
         </div>
       )}
       {compact && (

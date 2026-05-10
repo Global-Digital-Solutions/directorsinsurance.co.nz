@@ -28,7 +28,7 @@ export default function PrivacyPage() {
           <div className="space-y-8 text-gray-700 leading-relaxed">
             <section>
               <h2 className="text-xl font-bold text-gray-900 mb-3">1. Who We Are</h2>
-              <p>DirectorsInsurance.co.nz (&ldquo;we&rdquo;, &ldquo;us&rdquo;, &ldquo;our&rdquo;) is an insurance referral service operated in New Zealand. Our contact email is <a href="mailto:hello@cover4you.co.nz" className="text-orange-500 hover:underline">hello@cover4you.co.nz</a>.</p>
+              <p>DirectorsInsurance.co.nz (&ldquo;we&rdquo;, &ldquo;us&rdquo;, &ldquo;our&rdquo;) is an insurance referral service operated. Our contact email is <a href="mailto:hello@cover4you.co.nz" className="text-orange-500 hover:underline">hello@cover4you.co.nz</a>.</p>
             </section>
 
             <section>
@@ -43,7 +43,7 @@ export default function PrivacyPage() {
 
             <section>
               <h2 className="text-xl font-bold text-gray-900 mb-3">4. Sharing Your Information</h2>
-              <p>When you submit a quote request, your information is shared with one or more licensed NZ insurance brokers who will contact you to discuss your insurance needs. These brokers are bound by their own privacy obligations under the Privacy Act 2020.</p>
+              <p>When you submit a quote request, your information is shared with one or more licensed insurance brokers who will contact you to discuss your insurance needs. These brokers are bound by their own privacy obligations under the Privacy Act 2020.</p>
             </section>
 
             <section>

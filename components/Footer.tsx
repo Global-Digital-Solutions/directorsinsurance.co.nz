@@ -17,7 +17,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed mb-4">
-              NZ&apos;s specialist D&amp;O insurance referral service. Connecting directors with licensed NZ insurance brokers.
+              NZ&apos;s specialist D&amp;O insurance referral service. Connecting directors with licensed insurance brokers.
             </p>
             <Link
               href="/contact/"
@@ -118,7 +118,7 @@ export default function Footer() {
       <div className="border-t border-gray-700">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <p className="text-gray-500 text-xs leading-relaxed mb-4">
-            <strong className="text-gray-400">Disclaimer:</strong> DirectorsInsurance.co.nz is an information and referral service only. We connect you with licensed NZ insurance brokers and advisers who are regulated under the Financial Markets Conduct Act 2013 (FMCA). DirectorsInsurance.co.nz itself is not a registered financial adviser and does not provide financial advice. All insurance recommendations and quotations are provided by the referred licensed advisers, not by this website. See our{' '}
+            <strong className="text-gray-400">Disclaimer:</strong> DirectorsInsurance.co.nz is an information and referral service only. We connect you with licensed insurance brokers and advisers who are regulated under the Financial Markets Conduct Act 2013 (FMCA). DirectorsInsurance.co.nz itself is not a registered financial adviser and does not provide financial advice. All insurance recommendations and quotations are provided by the referred licensed advisers, not by this website. See our{' '}
             <Link href="/disclaimer/" className="hover:text-orange-400 underline">full disclaimer</Link>.
           </p>
           <div className="flex flex-wrap items-center justify-between gap-4">

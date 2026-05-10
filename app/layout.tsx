@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     default: 'D&O Insurance NZ | Directors & Officers Insurance | DirectorsInsurance.co.nz',
     template: '%s | DirectorsInsurance.co.nz',
   },
-  description: 'Compare D&O insurance in New Zealand. Directors and officers cover from NZ$800/year. Free quotes from licensed NZ brokers — protect your directorship today.',
+  description: 'Compare D&O insurance. Directors and officers cover from NZ$800/year. Free quotes from licensed brokers — protect your directorship today.',
   keywords: ['D&O insurance NZ', 'directors and officers insurance New Zealand', 'management liability NZ', 'director insurance NZ', 'D&O cover NZ'],
   authors: [{ name: 'DirectorsInsurance.co.nz' }],
   creator: 'DirectorsInsurance.co.nz',
@@ -20,12 +20,12 @@ export const metadata: Metadata = {
     url: siteConfig.url,
     siteName: siteConfig.name,
     title: 'D&O Insurance NZ | Directors & Officers Insurance',
-    description: 'Compare D&O insurance in NZ. Free quotes from licensed brokers. Protect your directorship.',
+    description: 'Compare D&O insurance. Free quotes from licensed brokers. Protect your directorship.',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'D&O Insurance NZ | DirectorsInsurance.co.nz',
-    description: 'Compare D&O insurance in NZ. Free quotes from licensed brokers.',
+    description: 'Compare D&O insurance. Free quotes from licensed brokers.',
   },
   robots: {
     index: true,
@@ -54,7 +54,7 @@ const orgSchema = {
     '@type': 'Country',
     name: 'New Zealand',
   },
-  description: 'NZ D&O insurance comparison and referral service — connecting directors with licensed insurance brokers.',
+  description: 'D&O insurance comparison and referral service — connecting directors with licensed insurance brokers.',
 }
 
 const websiteSchema = {

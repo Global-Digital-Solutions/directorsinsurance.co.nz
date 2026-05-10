@@ -5,12 +5,12 @@ export interface FAQ {
 
 export const faqs: FAQ[] = [
   {
-    q: 'What is D&O insurance and do I need it as a NZ director?',
-    a: 'Directors and Officers (D&O) insurance protects you personally against claims made against you in your capacity as a director or officer of a company. Under the Companies Act 1993, NZ directors can be held personally liable for wrongful acts, reckless trading, and breaches of director duties. If you are a director of any NZ company — large or small — D&O cover is strongly recommended to protect your personal assets.',
+    q: 'What is D&O insurance and do I need it as a director?',
+    a: 'Directors and Officers (D&O) insurance protects you personally against claims made against you in your capacity as a director or officer of a company. Under the Companies Act 1993, directors can be held personally liable for wrongful acts, reckless trading, and breaches of director duties. If you are a director of any company — large or small — D&O cover is strongly recommended to protect your personal assets.',
   },
   {
-    q: 'How much does D&O insurance cost in New Zealand?',
-    a: 'D&O insurance costs in NZ vary depending on the company\'s size, industry, revenue, and risk profile. For a small private company with revenue under $5M, basic D&O cover can start from around NZ$800–$1,500 per year. For listed companies or complex risks, premiums can reach tens of thousands of dollars annually. A broker can provide precise quotes based on your specific situation.',
+    q: 'How much does D&O insurance cost?',
+    a: 'D&O insurance costs vary depending on the company\'s size, industry, revenue, and risk profile. For a small private company with revenue under $5M, basic D&O cover can start from around NZ$800–$1,500 per year. For listed companies or complex risks, premiums can reach tens of thousands of dollars annually. A broker can provide precise quotes based on your specific situation.',
   },
   {
     q: 'What is the difference between D&O and management liability insurance?',
@@ -49,7 +49,7 @@ export const faqs: FAQ[] = [
     a: 'Yes. The Health and Safety at Work Act 2015 (HSWA) imposes duties on "officers" of a PCBU (person conducting a business or undertaking). Directors and senior managers are officers under the HSWA and must exercise "due diligence" to ensure the company complies with its health and safety obligations. Failure to do so can result in personal prosecution, fines of up to NZ$600,000, and in serious cases, imprisonment. Statutory liability insurance covers legal defence costs for such proceedings.',
   },
   {
-    q: 'How do I get D&O insurance in New Zealand?',
-    a: 'The best way to get D&O or management liability insurance in New Zealand is through a specialist insurance broker. Brokers have access to multiple insurers — including Chubb, QBE, Vero, AIG, and Berkley — and can compare policy terms and pricing on your behalf. They will assess your specific risk profile and recommend the right level of cover. Use our free referral service to connect with a specialist NZ D&O broker today.',
+    q: 'How do I get D&O insurance?',
+    a: 'The best way to get D&O or management liability insurance is through a specialist insurance broker. Brokers have access to multiple insurers — including Chubb, QBE, Vero, AIG, and Berkley — and can compare policy terms and pricing on your behalf. They will assess your specific risk profile and recommend the right level of cover. Use our free referral service to connect with a specialist D&O broker today.',
   },
 ]

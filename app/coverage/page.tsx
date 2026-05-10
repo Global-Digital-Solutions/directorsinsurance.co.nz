@@ -5,7 +5,7 @@ import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
   title: 'D&O Insurance Coverage Types NZ | Directors Cover Options',
-  description: 'Compare D&O insurance coverage types in NZ — directors and officers, management liability, professional indemnity, and statutory liability. Free broker quotes.',
+  description: 'Compare D&O insurance coverage types — directors and officers, management liability, professional indemnity, and statutory liability. Free broker quotes.',
   alternates: { canonical: `${siteConfig.url}/coverage/` },
 }
 
@@ -20,9 +20,9 @@ export default function CoveragePage() {
             <span className="text-white">Coverage</span>
           </nav>
           <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4">Coverage Types</span>
-          <h1 className="text-4xl font-extrabold text-white mb-4">D&amp;O Insurance Coverage Types in NZ</h1>
+          <h1 className="text-4xl font-extrabold text-white mb-4">D&amp;O Insurance Coverage Types</h1>
           <p className="text-gray-300 text-xl max-w-2xl leading-relaxed">
-            From standalone D&amp;O to comprehensive management liability packages — compare the coverage options available to NZ directors and choose the right protection.
+            From standalone D&amp;O to comprehensive management liability packages — compare the coverage options available to directors and choose the right protection.
           </p>
         </div>
       </div>

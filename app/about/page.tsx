@@ -4,7 +4,7 @@ import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
   title: 'About DirectorsInsurance.co.nz | NZ D&O Insurance Referral Service',
-  description: 'About DirectorsInsurance.co.nz — NZ\'s specialist D&O insurance comparison and referral service. We connect directors with licensed NZ insurance brokers.',
+  description: 'About DirectorsInsurance.co.nz — NZ\'s specialist D&O insurance comparison and referral service. We connect directors with licensed insurance brokers.',
   alternates: { canonical: `${siteConfig.url}/about/` },
 }
 
@@ -65,13 +65,13 @@ export default function AboutPage() {
           <section className="mb-14">
             <h2 className="text-2xl font-extrabold text-gray-900 mb-4">Our Mission</h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-4">
-              New Zealand directors carry significant personal liability under the Companies Act 1993, the Health and Safety at Work Act 2015, and other legislation — yet many serve on boards without adequate personal insurance protection.
+              directors carry significant personal liability under the Companies Act 1993, the Health and Safety at Work Act 2015, and other legislation — yet many serve on boards without adequate personal insurance protection.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mb-4">
               DirectorsInsurance.co.nz was built to fix that. We provide clear, unbiased information about D&amp;O and management liability insurance, and connect directors with specialist brokers who can arrange the right cover quickly and efficiently.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed">
-              Our goal is simple: get NZ directors speaking with the right broker, so they end up with cover that actually protects their personal assets — not just a cheap policy that fails when they need it most.
+              Our goal is simple: get directors speaking with the right broker, so they end up with cover that actually protects their personal assets — not just a cheap policy that fails when they need it most.
             </p>
           </section>
 
@@ -95,7 +95,7 @@ export default function AboutPage() {
           <section className="mb-14">
             <h2 className="text-2xl font-extrabold text-gray-900 mb-4">How Our Service Works</h2>
             <p className="text-gray-600 leading-relaxed mb-4">
-              DirectorsInsurance.co.nz is a referral service. We do not sell insurance directly or act as a financial adviser. Instead, we connect you with licensed NZ insurance brokers who are regulated under the Financial Markets Conduct Act 2013.
+              DirectorsInsurance.co.nz is a referral service. We do not sell insurance directly or act as a financial adviser. Instead, we connect you with licensed insurance brokers who are regulated under the Financial Markets Conduct Act 2013.
             </p>
             <p className="text-gray-600 leading-relaxed mb-4">
               When you submit a quote request, we assess your director role, company type, and cover needs, then match you with the most appropriate specialist broker in our network. That broker contacts you to discuss your requirements in detail and provides comparative quotes from multiple D&amp;O insurers.
@@ -107,7 +107,7 @@ export default function AboutPage() {
 
           <section className="bg-gray-900 rounded-2xl p-8 text-center">
             <h2 className="text-2xl font-extrabold text-white mb-4">Ready to Get Started?</h2>
-            <p className="text-gray-400 mb-6">Connect with a specialist NZ D&amp;O insurance broker — it takes 2 minutes and costs nothing.</p>
+            <p className="text-gray-400 mb-6">Connect with a specialist D&amp;O insurance broker — it takes 2 minutes and costs nothing.</p>
             <div className="flex flex-wrap justify-center gap-4">
               <Link href="/contact/" className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-xl transition-colors">
                 Get Free Quote →

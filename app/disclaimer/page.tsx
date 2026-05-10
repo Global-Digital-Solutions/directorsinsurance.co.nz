@@ -33,8 +33,8 @@ export default function DisclaimerPage() {
 
             <section>
               <h2 className="text-xl font-bold text-gray-900 mb-3">Nature of This Website</h2>
-              <p>DirectorsInsurance.co.nz provides general information about D&amp;O insurance and management liability insurance in New Zealand. The information on this website is for educational and informational purposes only and does not constitute financial advice, insurance advice, or legal advice.</p>
-              <p className="mt-3">This website operates as a referral service, connecting individuals and companies with licensed NZ insurance brokers. We do not underwrite insurance, bind coverage, or act as an insurance intermediary.</p>
+              <p>DirectorsInsurance.co.nz provides general information about D&amp;O insurance and management liability insurance. The information on this website is for educational and informational purposes only and does not constitute financial advice, insurance advice, or legal advice.</p>
+              <p className="mt-3">This website operates as a referral service, connecting individuals and companies with licensed insurance brokers. We do not underwrite insurance, bind coverage, or act as an insurance intermediary.</p>
             </section>
 
             <section>

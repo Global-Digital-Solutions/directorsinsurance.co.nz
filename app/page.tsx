@@ -11,13 +11,13 @@ import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
   title: 'D&O Insurance NZ | Directors & Officers Insurance | DirectorsInsurance.co.nz',
-  description: 'Compare D&O insurance in New Zealand. Directors and officers cover from NZ$800/year. Free quotes from licensed NZ brokers — protect your directorship today.',
+  description: 'Compare D&O insurance. Directors and officers cover from NZ$800/year. Free quotes from licensed brokers — protect your directorship today.',
   alternates: { canonical: siteConfig.url + '/' },
 }
 
 const steps = [
   { num: '1', title: 'Tell Us About Your Role', desc: 'Share your director role, company type, and the cover you need using our simple online form.' },
-  { num: '2', title: 'We Match You with a Broker', desc: 'We connect you with a specialist NZ D&O insurance broker who understands your specific risk profile.' },
+  { num: '2', title: 'We Match You with a Broker', desc: 'We connect you with a specialist D&O insurance broker who understands your specific risk profile.' },
   { num: '3', title: 'Compare & Choose', desc: 'Your broker presents options from multiple insurers including Chubb, QBE, Vero, AIG, and Berkley. You choose.' },
 ]
 
@@ -28,18 +28,26 @@ export default function HomePage() {
   return (
     <>
       {/* Hero */}
-      <section className="bg-gray-900 py-16 lg:py-24">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <section
+        className="relative py-16 lg:py-24"
+        style={{
+          backgroundImage: 'url(https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=1920&q=80)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center top',
+        }}
+      >
+        <div className="absolute inset-0 bg-gray-900/82" />
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-6">
-                NZ Specialist D&amp;O Insurance
+                Specialist D&amp;O Insurance
               </span>
               <h1 className="text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-6">
-                D&amp;O Insurance <span className="text-orange-500">for NZ Directors</span>
+                D&amp;O Insurance <span className="text-orange-500">for Directors &amp; Officers</span>
               </h1>
-              <p className="text-gray-300 text-xl leading-relaxed mb-8">
-                Protect your personal assets with directors and officers insurance. From <strong className="text-orange-400">NZ$800/year</strong>. Free quotes from licensed NZ brokers — no obligation.
+              <p className="text-white drop-shadow text-xl leading-relaxed mb-8">
+                Protect your personal assets with directors and officers insurance. From <strong className="text-orange-400">NZ$800/year</strong>. Quotes from licensed brokers — no obligation.
               </p>
               <div className="flex flex-wrap gap-4 mb-8">
                 <div className="flex items-center gap-2 text-gray-300 text-sm">
@@ -240,7 +248,7 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-extrabold text-white mb-4">Protect Your Directorship Today</h2>
           <p className="text-orange-100 text-lg mb-8">
-            Join NZ directors who trust our free broker matching service to find the right D&amp;O cover. No obligation — connect with a licensed specialist today.
+            Join directors who trust our free broker matching service to find the right D&amp;O cover. No obligation — connect with a licensed specialist today.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link href="/contact/" className="bg-white text-orange-600 hover:bg-orange-50 font-bold px-8 py-3 rounded-xl transition-colors">

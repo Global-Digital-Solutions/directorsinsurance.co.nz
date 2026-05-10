@@ -6,7 +6,7 @@ import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
   title: 'Compare D&O Insurance NZ | Directors Cover Comparison',
-  description: 'Compare D&O insurance providers and coverage types in New Zealand. Chubb, QBE, Vero, AIG, Berkley compared. Free broker matching for NZ directors.',
+  description: 'Compare D&O insurance providers and coverage types. Chubb, QBE, Vero, AIG, Berkley compared. Free broker matching for directors.',
   alternates: { canonical: `${siteConfig.url}/compare/` },
 }
 
@@ -21,7 +21,7 @@ export default function ComparePage() {
             <span className="text-white">Compare</span>
           </nav>
           <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4">Provider Comparison</span>
-          <h1 className="text-4xl font-extrabold text-white mb-4">Compare D&amp;O Insurance Providers in NZ</h1>
+          <h1 className="text-4xl font-extrabold text-white mb-4">Compare D&amp;O Insurance Providers</h1>
           <p className="text-gray-300 text-xl max-w-2xl leading-relaxed">
             Compare leading D&amp;O insurers in the New Zealand market — including Chubb, QBE, Vero, AIG, and Berkley. Find the right policy for your director risk profile.
           </p>
@@ -33,7 +33,7 @@ export default function ComparePage() {
 
           {/* Providers */}
           <section className="mb-16">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-8">Leading D&amp;O Insurers in New Zealand</h2>
+            <h2 className="text-2xl font-extrabold text-gray-900 mb-8">Leading D&amp;O Insurers</h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {providers.map((p) => (
                 <div key={p.slug} className="bg-white border-2 border-gray-100 rounded-2xl p-6 hover:border-orange-200 transition-all hover:shadow-md">

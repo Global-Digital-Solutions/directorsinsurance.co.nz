@@ -5,7 +5,7 @@ import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
   title: 'Contact | Get a Free D&O Insurance Quote',
-  description: 'Contact DirectorsInsurance.co.nz for a free D&O insurance quote. Connect with a licensed NZ broker for directors and officers cover.',
+  description: 'Contact DirectorsInsurance.co.nz for a free D&O insurance quote. Connect with a licensed broker for directors and officers cover.',
   alternates: { canonical: `${siteConfig.url}/contact/` },
 }
 
@@ -22,7 +22,7 @@ export default function ContactPage() {
           <span className="inline-block bg-orange-500/20 border border-orange-400/40 text-orange-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-4">Free Quote</span>
           <h1 className="text-4xl font-extrabold text-white mb-4">Get a Free D&amp;O Insurance Quote</h1>
           <p className="text-gray-300 text-xl leading-relaxed max-w-2xl">
-            Connect with a specialist NZ D&amp;O insurance broker in minutes. No obligation, no cost.
+            Connect with a specialist D&amp;O insurance broker in minutes. No obligation, no cost.
           </p>
         </div>
       </div>
@@ -66,7 +66,7 @@ export default function ContactPage() {
                 <ol className="space-y-2">
                   {[
                     'We receive your enquiry and assess your requirements',
-                    'We match you with a specialist NZ D&O broker within 24 hours',
+                    'We match you with a specialist D&O broker within 24 hours',
                     'Your broker contacts you to discuss cover options',
                     'You receive comparative quotes from multiple insurers',
                     'Choose the best option — or ask us to help you decide',
@@ -81,7 +81,7 @@ export default function ContactPage() {
 
               <div className="bg-gray-100 rounded-2xl p-6">
                 <p className="text-xs text-gray-500 leading-relaxed">
-                  DirectorsInsurance.co.nz is a referral service only. We connect you with licensed NZ insurance brokers regulated under the Financial Markets Conduct Act 2013. We do not provide financial advice. See our <Link href="/disclaimer/" className="text-orange-500 underline">disclaimer</Link>.
+                  DirectorsInsurance.co.nz is a referral service only. We connect you with licensed insurance brokers regulated under the Financial Markets Conduct Act 2013. We do not provide financial advice. See our <Link href="/disclaimer/" className="text-orange-500 underline">disclaimer</Link>.
                 </p>
               </div>
             </div>
