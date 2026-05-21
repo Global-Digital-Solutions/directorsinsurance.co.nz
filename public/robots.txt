@@ -46,4 +46,4 @@ Disallow: /
 User-agent: cohere-ai
 Disallow: /
 
-Sitemap: https://directorsinsurance.co.nz/sitemap.xml
+Sitemap: https://www.directorsinsurance.co.nz/sitemap.xml
