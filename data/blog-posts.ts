@@ -1085,6 +1085,279 @@ D&O policy structure is one of the areas where specialist broker advice makes th
 
 Contact our specialist D&O brokers for a free review of your current D&O programme structure and recommendations on the right limits for your situation.`,
   },
+
+  {
+    slug: 'cbl-fma-case-nz-director-officer-liability',
+    title: 'The CBL/FMA Case: What It Means for NZ Director and Officer Liability in 2025',
+    metaTitle: 'CBL FMA Case 2025 — NZ Director Officer Liability | DirectorsInsurance.co.nz',
+    metaDesc: 'The CBL/FMA case confirmed personal liability for NZ CFOs. What the February 2025 decision means for directors and officers of financial services companies.',
+    date: '2025-09-10',
+    author: 'DirectorsInsurance.co.nz Editorial',
+    authorBio: 'Our editorial team brings together over 20 years of experience in New Zealand commercial insurance, governance, and financial services regulation.',
+    category: 'Regulatory',
+    readTime: '9 min read',
+    excerpt: "The FMA's enforcement action against CBL Insurance's former CFO confirmed something New Zealand directors have long been warned about: regulators will pursue individual officers personally. Here is what the case decided and what it means for your D&O programme.",
+    content: `## Why the CBL/FMA Case Matters
+
+In February 2025, the Financial Markets Authority confirmed the settlement of its enforcement proceedings against Carden Mulholland, the former Chief Financial Officer of CBL Insurance. The case was the first in which the FMA successfully pursued personal civil liability against an individual officer — not a director, not a company, but a CFO — for failures in continuous disclosure and financial reporting.
+
+The consequences of the CBL proceedings extend well beyond the individuals involved. They signal a fundamental shift in how New Zealand's financial regulator approaches officer accountability — and every director and officer of a financial services entity should understand what changed.
+
+## What CBL Insurance Was, and What Happened
+
+CBL Insurance was a New Zealand-based credit and financial risk insurer that achieved remarkable international growth through the 2010s, eventually listing on the NZX in 2015. At its peak, CBL was one of New Zealand's largest insurance companies by premium, with operations across Europe, the Americas, and the Pacific.
+
+In 2018, the RBNZ imposed a moratorium on CBL following concerns about the company's solvency and reserving practices. The company collapsed into liquidation and receivership, causing significant losses to shareholders, policyholders, and creditors.
+
+The FMA's subsequent investigation focused on whether CBL and its officers had met their continuous disclosure obligations under the Financial Markets Conduct Act 2013. The core allegation: that material information about CBL's financial position — including concerns about its French reinsurance arrangements and reserving adequacy — was not disclosed to the market as required.
+
+## The Significance of Officer-Level Prosecution
+
+What makes the CBL enforcement outcome remarkable is not the allegation itself — continuous disclosure failures are not uncommon. What is significant is the FMA's decision to pursue the CFO personally, as an individual, rather than limiting enforcement to company-level action.
+
+Under the FMCA 2013, "officers" of financial markets participants carry personal accountability for ensuring the entity meets its disclosure and reporting obligations. The Act's definition of "officer" is broad — it includes directors, CEOs, CFOs, compliance managers, and anyone who occupies a position allowing them to exercise significant influence over the management of the entity.
+
+The CBL outcome confirmed that this personal accountability is not theoretical. The FMA has demonstrated both the appetite and the legal tools to pursue individuals who hold officer-level responsibility for financial reporting failures — even when those individuals are not board directors.
+
+## What This Means for CFOs, Compliance Officers, and Senior Managers
+
+Before the CBL case, many compliance and finance professionals in New Zealand took comfort from the assumption that FMA enforcement risk was primarily a board-level concern. The CBL outcome removes that comfort.
+
+Any individual who occupies a role that gives them significant influence over a financial services entity's disclosure and reporting processes now carries personal FMA enforcement risk. This includes:
+
+- Chief Financial Officers and financial controllers with responsibility for market disclosures
+- Chief Compliance Officers and heads of compliance with responsibility for regulatory reporting
+- Company secretaries who manage NZX disclosure processes
+- Managing directors and CEOs of licensed financial advice providers
+
+The practical consequence: every person in these roles needs to understand their personal disclosure obligations under the FMCA, and every entity employing them needs to ensure those individuals have access to D&O insurance that specifically covers FMA investigation and civil penalty defence costs.
+
+## What D&O Insurance Needs to Cover Post-CBL
+
+The CBL case highlights several specific coverage requirements for financial services professionals.
+
+Extended insured persons: the policy must cover CFOs, compliance officers, and senior managers — not just board directors. Check your policy's definition of "insured persons" carefully.
+
+Investigation costs: FMA investigations generate substantial legal costs before any prosecution decision. The policy must cover investigation defence costs from the moment of first contact — not only when formal proceedings are filed.
+
+Civil penalty defence: the FMCA 2013 allows the FMA to seek civil monetary penalties against individuals. Ensure your policy covers civil penalty defence costs and — where available — the penalties themselves.
+
+Adequate limits: a complex FMA investigation can generate NZ$200,000–$500,000+ in legal fees before any prosecution decision. This is in addition to the costs of any formal proceedings. Policy limits must reflect this reality.
+
+Run-off cover: FMA investigations frequently commence months or years after the relevant conduct. Any officer departing a financial services entity should ensure run-off cover is in place — a claims-made policy that has lapsed will not respond to a subsequent investigation.
+
+## The Broader Lesson: Individual Accountability Is the FMA's Direction of Travel
+
+The CBL outcome is not an isolated event. It reflects a deliberate regulatory strategy. The FMA's 2024 strategic framework explicitly identified individual accountability — ensuring that senior leaders are personally accountable for the conduct of their organisations — as a core supervisory priority.
+
+This direction mirrors the approach taken by ASIC in Australia following the Hayne Royal Commission, where personal accountability for officers of financial services entities was significantly strengthened. ASIC's enforcement record since 2020 — featuring multiple personal liability actions against CFOs, compliance managers, and non-executive directors — is a reasonable indication of where New Zealand regulation is heading.
+
+For directors and officers of financial services entities, the message is clear: personal D&O insurance is not a governance nicety. It is a professional necessity.`,
+  },
+
+  {
+    slug: 'privacy-act-2020-director-personal-liability-nz',
+    title: "Directors' Personal Liability Under the Privacy Act 2020: What Every NZ Board Needs to Know",
+    metaTitle: 'Privacy Act 2020 Director Liability NZ | Personal Accountability | DirectorsInsurance.co.nz',
+    metaDesc: 'Privacy Act 2020 director obligations in NZ. IPP3A, mandatory breach notification, and personal liability for governance failures. D&O insurance for data protection.',
+    date: '2025-09-25',
+    author: 'DirectorsInsurance.co.nz Editorial',
+    authorBio: 'Our editorial team brings together over 20 years of experience in New Zealand commercial insurance, governance, and financial services regulation.',
+    category: 'Regulatory',
+    readTime: '8 min read',
+    excerpt: 'The Privacy Act 2020 significantly strengthened data protection obligations for New Zealand organisations — and created meaningful personal accountability for the directors who govern them. Here is what boards need to understand about their Privacy Act exposure.',
+    content: `## Privacy Law and Board Accountability
+
+The Privacy Act 2020 replaced New Zealand's original 1993 framework with a substantially strengthened set of obligations. While most board discussions focus on the operational requirements — breach notification, data security, retention periods — the governance implications for directors are receiving less attention than they deserve.
+
+Directors who govern organisations that collect, hold, or process personal information carry personal accountability for the organisation's Privacy Act compliance framework. When things go wrong — a data breach, a complaint upheld by the Privacy Commissioner, or a mandatory notification that reveals inadequate controls — the question of who was responsible for governance of the data protection programme falls directly to the board.
+
+## Information Privacy Principle 3A: The New Business Exception
+
+One of the most significant practical changes in the 2020 Act was the introduction of Information Privacy Principle 3A (IPP3A), which came into force in May 2026. IPP3A creates a positive obligation on organisations to take reasonable steps to ensure the accuracy of personal information they hold — and removes a previous safe harbour for business information.
+
+For directors, the practical consequence is that data quality governance — not just data security — is now a Privacy Act obligation. Boards must understand whether their organisation has processes in place to maintain accurate personal information and to respond to correction requests within the timeframes the Act requires.
+
+## Mandatory Breach Notification: What Directors Must Oversee
+
+The mandatory privacy breach notification regime is the most operationally visible change in the 2020 Act. When an organisation experiences a privacy breach that has caused, or is likely to cause, serious harm to an affected individual, it must notify the Privacy Commissioner and each affected individual as soon as practicable.
+
+For boards, the governance questions are: Does the organisation have a documented incident response process that includes a privacy breach assessment step? Is there clarity on who makes the notification decision and on what timeline? Does the board receive reporting on privacy incidents so that systemic issues can be identified? Is legal advice available at short notice when a significant privacy incident occurs?
+
+The OPC has been actively using its investigation powers since 2021 and has published formal findings and compliance orders against named organisations. Board-level governance failures — the absence of documented processes, inadequate breach response frameworks, or failure to take remedial action after known incidents — are noted in published findings.
+
+## Director Accountability in Privacy Commissioner Investigations
+
+When the Privacy Commissioner investigates a privacy breach, the investigation typically examines both the incident that caused the breach and the adequacy of the organisation's data governance framework. This means directors are in scope from the start of any significant investigation — not only the operational staff who managed the incident.
+
+The Privacy Commissioner can issue compliance orders requiring specific remedial actions. Non-compliance with a compliance order is an offence. For directors, the risk is not simply a fine — it is a formal finding of inadequate governance that becomes part of the public record and potentially triggers further regulatory scrutiny.
+
+D&O insurance that covers Privacy Commissioner investigation costs — including legal representation, expert evidence on data governance frameworks, and preparation for formal interviews — is now a practical necessity for boards of organisations that handle significant volumes of personal information.
+
+## What Boards Should Have in Place
+
+The Privacy Act 2020 does not impose a one-size-fits-all compliance standard. The key obligation is to have privacy policies and procedures that are appropriate to the size, nature, and data-processing activities of the organisation. For boards, this translates into a governance responsibility to ensure the organisation has a documented privacy programme proportionate to its data processing activities, an accountable Privacy Officer with authority and resources, regular board reporting on privacy risks and incidents, a documented incident response process, and privacy impact assessments for significant new data processing activities.
+
+These are not merely operational matters. They are governance obligations that sit at board level — and the quality of a board's oversight of these matters will be assessed if a significant breach occurs.
+
+## Insurance and Privacy Liability
+
+D&O insurance provides directors with financial protection when a Privacy Commissioner investigation leads to governance scrutiny of the board's conduct. Cyber and privacy liability insurance (a separate product from D&O, but often sold alongside it) covers the organisation's notification costs, credit monitoring for affected individuals, regulatory defence costs, and third-party claims arising from a data breach. For organisations that hold health information, financial data, or significant volumes of consumer personal information, combined D&O and cyber/privacy cover is the appropriate response to New Zealand's current data protection regulatory environment.`,
+  },
+
+  {
+    slug: 'incorporated-societies-act-2022-officer-duties-nz',
+    title: 'Incorporated Societies Act 2022: New Officer Duties and Personal Liability for NZ Community Organisations',
+    metaTitle: 'Incorporated Societies Act 2022 Officer Duties NZ | Personal Liability | DirectorsInsurance.co.nz',
+    metaDesc: "The Incorporated Societies Act 2022 created personal liability for officers of NZ's 24,000+ sports clubs and community groups. What the new duties mean and how to protect yourself.",
+    date: '2025-10-05',
+    author: 'DirectorsInsurance.co.nz Editorial',
+    authorBio: 'Our editorial team brings together over 20 years of experience in New Zealand commercial insurance, governance, and financial services regulation.',
+    category: 'Regulatory',
+    readTime: '7 min read',
+    excerpt: 'The Incorporated Societies Act 2022 is the most significant reform to the governance of NZ community organisations in over a century. For the first time, officers of sports clubs, professional associations, and community groups carry express personal liability duties.',
+    content: `## A Century of Regulatory Inertia — Then Everything Changed
+
+For most of New Zealand's modern history, the governance of incorporated societies operated under the Incorporated Societies Act 1908 — a piece of legislation that predates the First World War and that imposed essentially no personal liability on the officers who governed these organisations. Sports club presidents, school association chairs, and community group committee members took on these roles with the reasonable assumption that their volunteer status protected them from meaningful personal exposure.
+
+The Incorporated Societies Act 2022 fundamentally changed this assumption. It replaced the 1908 Act and introduced — for the first time in New Zealand — express, enforceable duties for officers of incorporated societies. These duties are modelled closely on the director duties that apply to company directors under the Companies Act 1993. The consequence is that officers of New Zealand's approximately 24,000 incorporated societies now carry a personal liability profile that most of them do not know about.
+
+## What the New Officer Duties Require
+
+The Incorporated Societies Act 2022 imposed six express duties on officers. An "officer" under the Act includes the committee, any person who holds a position that allows them to exercise significant influence over management, and in some cases key managers of larger organisations.
+
+Act in good faith in the best interests of the society. Exercise powers for a proper purpose. Comply with the Act and the society's constitution. Exercise the care, diligence, and skill of a reasonable person with the same responsibilities. Not cause the society to act in a way that creates a substantial risk of serious loss to creditors if the society cannot pay its debts. Disclose and manage conflicts of interest.
+
+## The Re-Registration Requirement
+
+All incorporated societies must re-register under the 2022 Act by 5 April 2026. Re-registration is not automatic — societies must actively apply through the Registrar of Incorporated Societies' online system and update their constitutions to comply with the new Act's requirements.
+
+For officers, the practical consequence of re-registration is that each officer of a re-registered society explicitly operates under the new duty framework — creating both clarity about obligations and direct accountability for compliance.
+
+## What Can Happen When Officers Breach Their Duties
+
+The society or members can bring proceedings against an officer who breaches their duties — seeking compensation for losses the society suffered as a result. An officer who acts in breach of the conflict of interest obligations can be required to account for any profit they received.
+
+The Registrar of Incorporated Societies has investigative powers and can take enforcement action against societies and officers who repeatedly breach the Act's requirements.
+
+For employment disputes — one of the most common claim types for community organisations with paid staff — the Employment Relations Authority can examine individual officer conduct in determining whether due process was followed.
+
+## Why Insurance Is Now Essential
+
+Most officers of incorporated societies serve as volunteers. The introduction of express personal liability duties under the 2022 Act does not change the value of this contribution — but it does change the risk profile.
+
+A single employment dispute from a paid employee, a WorkSafe investigation following a sports club event, or a member challenge to a governance decision can generate legal costs that an individual volunteer officer cannot absorb personally. Management liability and officer indemnity insurance for incorporated societies addresses this gap. Cover typically includes legal defence costs for claims against officers personally, employment practices liability for organisations with paid staff, statutory liability for WorkSafe prosecution defence, and crime cover for organisations handling significant funds.
+
+The cost of appropriate cover for most incorporated societies is modest — NZ$600–$2,000 per year — representing a small fraction of the cost of defending even a single employment or governance claim without insurance.
+
+## The Registration Deadline Is an Action Trigger
+
+With the April 2026 re-registration deadline, now is the time for officers of incorporated societies to take two concrete actions: ensure the society re-registers on time, and review whether the society's governance officers are protected by appropriate liability insurance.`,
+  },
+
+  {
+    slug: 'insolvent-trading-director-duties-nz-mainzeal',
+    title: 'Insolvent Trading and Director Duties in NZ: The Mainzeal Lessons for SME Directors',
+    metaTitle: 'Insolvent Trading Director Duties NZ | Mainzeal Lessons | DirectorsInsurance.co.nz',
+    metaDesc: 'The Mainzeal Supreme Court decision ordered $39.8M against directors. What NZ SME directors must do when their company faces financial distress — and why D&O insurance matters.',
+    date: '2025-10-15',
+    author: 'DirectorsInsurance.co.nz Editorial',
+    authorBio: 'Our editorial team brings together over 20 years of experience in New Zealand commercial insurance, governance, and financial services regulation.',
+    category: 'Case Studies',
+    readTime: '10 min read',
+    excerpt: "The Mainzeal Supreme Court decision is the most important director liability case in New Zealand's recent history. The $39.8 million judgment against the directors contains practical lessons that every SME director needs to understand — not just those in construction.",
+    content: `## The Mainzeal Decision: Numbers That Changed the Conversation
+
+In August 2023, New Zealand's Supreme Court delivered its judgment in Mainzeal Property and Construction v Yan and Others. The outcome — NZ$39.8 million in personal liability for the former directors of Mainzeal — is the largest director liability judgment in New Zealand's history and the one that has most changed the practical conversation about D&O risk for company directors.
+
+The Mainzeal judgment is not simply a story about a failed construction company. It is the clearest statement yet from New Zealand's highest court about what director duties require when a company faces financial difficulty — and the consequences when those duties are not met.
+
+## What Mainzeal Was, and What Went Wrong
+
+Mainzeal Property and Construction was one of New Zealand's largest construction companies, with revenues exceeding NZ$500 million annually at its peak. The company collapsed in 2013, leaving hundreds of subcontractors and creditors with substantial unpaid claims.
+
+The Supreme Court's analysis confirmed that Mainzeal had been technically insolvent for an extended period — relying on informal financial support from its Chinese parent company, Richina Pacific — without adequate formal commitments to ensure that support would continue. The directors had maintained trading on the basis of this informal arrangement, without obtaining formal written commitments from Richina Pacific or ensuring that independent financial and legal advice was obtained about the adequacy of the arrangement.
+
+The core legal findings: the directors had breached section 135 of the Companies Act 1993 (reckless trading) and section 136 (incurring obligations when insolvent).
+
+## The Key Practical Lessons for Directors
+
+The Mainzeal decision contains specific factual findings that translate directly into practical guidance for any director of a company facing financial difficulty.
+
+Informal parent company support is not enough. Mainzeal's directors relied on an informal understanding that Richina Pacific would support the company financially. The Supreme Court found this was insufficient. For any director of a company receiving financial support from a related party, the support must be formally documented — with written commitments, adequate security, and independent legal review.
+
+The insolvency threshold is prospective, not retrospective. Directors cannot simply wait until insolvency is legally certain before changing their conduct. The Companies Act imposes duties that operate when there is a substantial risk of serious loss — not only when the company has definitely crossed into insolvency.
+
+Board minutes must document the financial assessment. The Supreme Court placed significant weight on whether the directors had adequately documented their assessment of the company's financial position and the basis for continuing to trade.
+
+Independent advice must be sought promptly. When a company's financial position is deteriorating, directors must actively seek independent advice about their legal obligations — not just reassurance that things will improve.
+
+## How D&O Insurance Applies in Insolvent Trading Claims
+
+When a company enters liquidation, the liquidator has a duty to investigate whether the directors have breached their obligations — including sections 135 and 136 of the Companies Act. D&O insurance provides directors with the financial capacity to respond to a liquidator's investigation and, if proceedings are commenced, to mount an effective legal defence.
+
+Without insurance, directors facing a liquidator's claim often have no practical alternative to negotiating an early settlement at whatever the liquidator demands — regardless of the merits of the claim.
+
+D&O insurance covers legal defence costs for engaging specialist insolvency and directors' duties lawyers, expert forensic accounting evidence of the company's financial position over the relevant period, and settlement contribution if the claim is meritorious and settlement is commercially rational.
+
+## What SME Directors Should Do Now
+
+Any director of a company whose financial position is under stress should arrange an urgent board review of the company's financial position, obtain independent legal advice on obligations under sections 135 and 136, document the basis for any decision to continue trading, review the company's D&O insurance to confirm it is current and adequate, and consider voluntary administration as a restructuring tool.
+
+The Mainzeal decision is a serious reminder that director duties in financial distress are real, enforceable, and expensive when breached. The cost of acting early is a fraction of the cost of the alternative.`,
+  },
+
+  {
+    slug: 'climate-reporting-reform-nz-directors-personal-liability-2025',
+    title: 'Climate Reporting Reform: Why NZ Directors No Longer Face Personal Liability for Climate Disclosures',
+    metaTitle: 'NZ Climate Reporting Reform 2025 | Director Personal Liability Removed | DirectorsInsurance.co.nz',
+    metaDesc: 'October 2025: NZ Government removed personal director liability from mandatory climate reporting. What changed, why it matters, and the governance obligations that remain.',
+    date: '2025-11-01',
+    author: 'DirectorsInsurance.co.nz Editorial',
+    authorBio: 'Our editorial team brings together over 20 years of experience in New Zealand commercial insurance, governance, and financial services regulation.',
+    category: 'Regulatory',
+    readTime: '7 min read',
+    excerpt: 'In October 2025, the New Zealand Government removed personal director liability from mandatory climate-related disclosure obligations — a significant and widely welcomed governance reform. Here is what changed, what the IoD said, and what climate-related governance obligations remain.',
+    content: `## A Welcome Reform to Director Liability in Climate Reporting
+
+In October 2025, New Zealand's Government announced amendments to the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021 — removing the provision that had imposed personal civil liability on directors for material misstatements in their organisations' climate-related disclosures.
+
+The reform was widely welcomed by the Institute of Directors New Zealand (IoD). The IoD had advocated for the removal of personal director liability from the climate reporting regime since the original legislation was enacted, arguing that the liability provision created inappropriate risk for directors seeking to make good-faith, forward-looking climate disclosures in a context of genuine scientific and commercial uncertainty.
+
+## What the Original Legislation Required
+
+The Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021 created mandatory climate-related disclosure (CRD) obligations for NZX-listed issuers, banks and insurers with assets over NZ$1 billion, non-bank deposit takers with assets over NZ$1 billion, and investment managers managing funds over NZ$1 billion.
+
+These entities were required to prepare annual climate-related disclosure statements following the XRB's climate standards, based on the TCFD framework. The original legislation included a provision making directors personally liable for material misstatements or omissions in climate disclosure statements.
+
+This provision placed directors in the difficult position of making forward-looking disclosures about uncertain scenarios while carrying personal liability if those disclosures were subsequently found to be materially inaccurate.
+
+## Why Personal Liability for Climate Disclosures Was Problematic
+
+The Institute of Directors consistently argued that personal director liability for climate disclosures created a liability profile that was disproportionate to the nature of climate reporting. Climate-related disclosures involve scientific uncertainty, commercial uncertainty about transition risks, and data limitations — particularly for Scope 3 emissions from value chains, where estimation uncertainty is material.
+
+The IoD argued that imposing personal liability in this context would deter capable directors from serving on boards of climate reporting entities and encourage defensive, minimalistic disclosure — undermining the policy objective of creating genuinely informative climate-related disclosures.
+
+## What Changed in October 2025
+
+The October 2025 amendments removed the provision imposing personal director civil liability for material misstatements in climate disclosure statements. The FMA retains the ability to take enforcement action against the entity — but directors are no longer personally exposed to civil liability for the content of climate disclosures made in good faith.
+
+The reform did not remove any director's obligation to oversee the organisation's climate reporting process. Directors of climate reporting entities remain responsible for ensuring that the organisation produces a climate disclosure statement prepared in accordance with XRB standards, and that the board's governance of climate risk is reflected in the disclosures.
+
+## What Climate Governance Obligations Remain for NZ Directors
+
+Board oversight of climate risk remains a disclosure obligation — directors must be able to demonstrate genuine governance engagement with climate risk, not just sign off on a disclosure prepared by management.
+
+Climate disclosures must include scenario analysis examining the organisation's resilience to different climate outcomes, and disclosure of how climate-related risks are identified, assessed, and managed at board level.
+
+The annual obligation to produce and publish climate disclosure statements is unchanged.
+
+## The Governance Lesson
+
+The October 2025 reform is a good-faith adjustment that recognises the distinctive nature of climate reporting. It is also a reminder that the regulatory environment for directors is not static — the liability profile facing New Zealand directors changes as legislation evolves, sometimes increasing exposure (as the Incorporated Societies Act 2022 did for community organisation officers), sometimes reducing it (as this reform does for climate reporting directors).
+
+Directors and their governance advisers need to stay current with these changes and ensure that insurance programmes reflect the actual liability profile at any given time.`,
+  },
 ]
 
 export function getBlogBySlug(slug: string): BlogPost | undefined {

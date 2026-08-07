@@ -429,6 +429,105 @@ export const landingPages: LandingPage[] = [
       },
     ],
   },
+  {
+    slug: 'hamilton',
+    title: 'D&O Insurance Hamilton | Directors & Officers Cover Waikato',
+    metaTitle: 'D&O Insurance Hamilton NZ | Directors Cover Waikato | DirectorsInsurance.co.nz',
+    metaDesc: 'D&O insurance for Hamilton and Waikato company directors. Local broker referral. Protect your directorship from personal liability. From NZ$800/year.',
+    hero: 'D&O Insurance for Hamilton & Waikato Directors',
+    intro: "Hamilton is the commercial heart of the Waikato — home to agribusiness, manufacturing, engineering, education, and a growing technology sector. Directors of Waikato companies carry the same personal liability obligations as directors anywhere in New Zealand, and deserve access to specialist D&O insurance that reflects their specific industry and company profile.",
+    sections: [
+      {
+        heading: 'Director Liability in the Waikato',
+        body: "Waikato's economy is anchored by agriculture and food processing (Fonterra, Zespri, and dozens of agri-supply businesses), engineering and manufacturing, and a growing professional services sector around Hamilton's CBD and Ruakura Inland Port. Directors across all of these sectors face personal liability exposure under the Companies Act 1993, the Health and Safety at Work Act 2015, and employment law.\n\nAgri-business directors face specific risks: WorkSafe prosecutions in food processing and farming environments are among the most common in the Waikato. Manufacturing directors carry HSWA due diligence obligations for machinery and process safety. Directors of family-owned agri-businesses face the added complexity of minority shareholder and succession disputes that frequently escalate to formal legal proceedings.",
+      },
+      {
+        heading: 'What D&O Insurance Covers in the Waikato Context',
+        body: "D&O insurance for Hamilton directors covers personal legal defence costs and damages arising from:\n\n- Claims by shareholders, creditors, or liquidators alleging wrongful trading or breach of director duty\n- WorkSafe NZ prosecution of individual directors as 'officers' under the HSWA 2015\n- Employment Relations Authority claims from staff alleging unjustified dismissal, discrimination, or harassment\n- FMA investigations for directors of financial services or investment entities\n- Creditor claims following company financial distress or insolvency\n\nA management liability package — combining D&O, employment practices liability, and statutory liability — typically represents the best value for SME directors in the Waikato.",
+      },
+      {
+        heading: 'How to Get D&O Cover as a Waikato Director',
+        body: "Our referral network includes specialist insurance brokers who advise Waikato directors on D&O and management liability insurance. When you submit a quote request, we refer you to a licensed broker who understands the Waikato business environment and can find the most competitive policy for your company's size, sector, and risk profile.\n\nBasic D&O cover for smaller Waikato companies typically starts from NZ$800–$1,200/year. A full management liability package for an SME with staff generally costs NZ$2,000–$5,000/year. Contact us for a broker referral and comparison quote.",
+      },
+    ],
+  },
+
+  {
+    slug: 'dunedin',
+    title: 'D&O Insurance Dunedin | Directors & Officers Cover Otago',
+    metaTitle: 'D&O Insurance Dunedin NZ | Directors Cover Otago | DirectorsInsurance.co.nz',
+    metaDesc: 'D&O insurance for Dunedin and Otago company directors. Local broker referral. Protect your directorship from personal liability. From NZ$800/year.',
+    hero: 'D&O Insurance for Dunedin & Otago Directors',
+    intro: "Dunedin is a city of genuine commercial and academic depth — home to the University of Otago, significant healthcare infrastructure, tourism and hospitality, technology ventures, and a strong professional services sector. Directors of Dunedin and Otago companies face real personal liability obligations and deserve specialist D&O insurance matched to their business.",
+    sections: [
+      {
+        heading: 'Director Liability in Dunedin and Otago',
+        body: "Otago's economy spans university-adjacent technology and research spin-offs, tourism and hospitality (Queenstown and surrounds), construction and property development, agriculture and food processing in Central Otago, and professional services in Dunedin's CBD.\n\nDirectors of technology companies — including university spin-outs — face investor dispute risk and Privacy Act governance obligations. Hospitality and tourism directors carry HSWA obligations for staff and visitor safety. Construction directors in the Queenstown-Lakes market carry WorkSafe prosecution exposure alongside the insolvent trading risk that has affected construction firms during the post-boom correction. Healthcare directors at Dunedin's private medical and aged care facilities carry Health NZ regulatory obligations alongside HSWA and Privacy Act requirements.",
+      },
+      {
+        heading: 'What D&O Insurance Covers in the Otago Context',
+        body: "Management liability insurance for Dunedin and Otago directors typically covers:\n\n- Personal legal defence costs for claims by shareholders, creditors, or employees\n- Employment practices liability — unjustified dismissal, discrimination, and harassment claims\n- Statutory liability — WorkSafe prosecution defence costs and fines under the HSWA 2015\n- Privacy Act investigation defence for businesses processing personal data\n- Fiduciary duty claims in charity boards, incorporated societies, and governance roles\n\nThe Otago market includes a higher-than-average proportion of directors serving on incorporated society boards (sports clubs, community organisations, university-related bodies) — all of whom now carry personal liability under the Incorporated Societies Act 2022.",
+      },
+      {
+        heading: 'Getting D&O Cover for Dunedin Directors',
+        body: "Our specialist broker referral network covers the Otago and Southland regions. We can match Dunedin and Otago directors with licensed brokers who understand the local business environment and have access to competitive D&O and management liability products.\n\nBasic D&O cover for smaller Otago companies starts from NZ$800/year. Management liability packages for companies with staff typically cost NZ$2,000–$4,500/year. For incorporated society officers, specialist community organisation cover can be arranged from NZ$500–$1,200/year. Contact us for a broker referral.",
+      },
+    ],
+  },
+
+  {
+    slug: 'insolvent-company-directors',
+    title: 'Insolvent Company Director Liability NZ | D&O Cover',
+    metaTitle: 'Insolvent Company Director Liability NZ | D&O Insurance | DirectorsInsurance.co.nz',
+    metaDesc: 'D&O insurance for NZ directors facing insolvent trading claims. Mainzeal Supreme Court lessons. Personal liability cover for directors in financial distress.',
+    hero: 'D&O Insurance for Directors of Insolvent or Financially Distressed Companies',
+    intro: "The Mainzeal Supreme Court decision — ordering the company's former directors to pay NZ$39.8 million — established that the personal financial consequences of insolvent trading are real, immediate, and life-changing. D&O insurance provides the financial protection that every director of a company under financial stress urgently needs.",
+    sections: [
+      {
+        heading: 'Director Duties When a Company Is in Financial Distress',
+        body: "When a company enters financial difficulty, directors face a critical inflection point where their legal obligations shift significantly. Under sections 135 and 136 of the Companies Act 1993, directors must not:\n\n- Agree to or cause or allow the business of the company to be carried on in a manner that creates a substantial risk of serious loss to the company's creditors (section 135 — reckless trading)\n- Agree to the company incurring an obligation unless the director believes at the time that the company will be able to perform the obligation when required (section 136 — insolvent obligations)\n\nThe Mainzeal case confirmed that these duties operate on a prospective basis — directors cannot simply wait until insolvency is legally certain before adjusting their conduct. The moment a company faces serious financial risk, directors must obtain independent advice and take concrete steps to protect creditors.\n\nThe practical lesson: when cash flow is materially deteriorating, directors must act immediately — seek legal and financial advice, document their decision-making, and be prepared to consider restructuring, voluntary administration, or liquidation if the company cannot trade through the difficulty.",
+      },
+      {
+        heading: 'What D&O Insurance Covers for Insolvent Trading Claims',
+        body: "D&O insurance for insolvent trading claims covers:\n\n**Legal defence costs:** The primary value of D&O cover in a liquidator's claim is funding an expert legal defence. Liquidators have access to company records and can construct detailed factual narratives — directors need equivalent expert legal and accounting assistance to mount an effective defence.\n\n**Settlements:** Most liquidator claims against directors are resolved through negotiated settlement. D&O insurance provides the financial capacity to engage in a commercially rational settlement process rather than being forced to capitulate through inability to fund a defence.\n\n**Judgments:** If a claim proceeds to judgment, the D&O policy responds to judgments arising from covered wrongful acts.\n\n**Expert evidence costs:** Complex insolvent trading claims require forensic accounting evidence — D&O policies cover the costs of expert witnesses and technical advisers.\n\nNote: deliberate dishonesty and fraud are always excluded from D&O cover. D&O insurance responds to allegations of judgment failure — not intentional wrongdoing.",
+      },
+      {
+        heading: 'The Mainzeal Precedent and What It Means for Directors',
+        body: "The Mainzeal Property and Construction case is the most important director liability precedent in New Zealand's recent history. The Supreme Court's August 2023 decision confirmed NZ$39.8 million in liability for the Mainzeal directors — making it the largest director liability judgment in New Zealand.\n\nThe key findings: the Mainzeal directors had continued to trade for years while the company was technically insolvent, relying on informal financial support from its parent company without adequate formal commitments. The Supreme Court found this constituted both reckless trading (section 135) and incurring obligations while insolvent (section 136).\n\nThe practical lessons for directors:\n\n- Financial support from related parties must be formally documented — oral commitments or informal understandings do not protect directors\n- Independent financial and legal advice must be obtained promptly when the company shows signs of financial distress\n- Board minutes must document the financial assessment and the basis for continuing to trade\n- D&O insurance must be in place and must be reviewed when the company's financial position deteriorates\n\nFor any director of a company facing financial difficulty, the priority is: take independent advice now, document every decision, and ensure D&O cover is current.",
+      },
+      {
+        heading: 'When to Seek Advice and Review Your D&O Cover',
+        body: "Directors should review their D&O cover and seek independent advice immediately if any of the following apply:\n\n- Revenue is materially below forecast and the shortfall is not expected to be temporary\n- The company is unable to meet obligations as they fall due, or is relying on deferred payment arrangements with creditors\n- The company is dependent on related-party financial support that is not formally documented\n- A major customer, contract, or project has been lost and the financial impact is not yet clear\n- The company is in litigation that could result in a material judgment\n\nD&O insurance responds to claims notified during the policy period — including claims that arise from conduct that occurred before the policy was taken out (subject to prior acts coverage). Waiting until a claim is made to review cover is too late: the insurer will not respond to known circumstances not disclosed at renewal. Act early.",
+      },
+    ],
+  },
+
+  {
+    slug: 'fma-investigation-insurance',
+    title: 'FMA Investigation Insurance NZ | D&O Cover for FMA Inquiries',
+    metaTitle: 'FMA Investigation Insurance NZ | D&O Cover for FMA Inquiries | DirectorsInsurance.co.nz',
+    metaDesc: 'D&O insurance covering FMA investigations, enforcement actions, and civil penalties in NZ. CBL precedent and FMCA officer liability. Licensed broker referral.',
+    hero: 'D&O Insurance for FMA Investigations and Enforcement Actions',
+    intro: "The Financial Markets Authority's enforcement posture has changed significantly since the CBL/Carden Mulholland decision in February 2025 confirmed that the FMA will pursue individual officers — not just companies — for disclosure failures and financial reporting breaches. D&O insurance that specifically covers FMA investigation costs is now essential for any director or officer of a financial services entity.",
+    sections: [
+      {
+        heading: 'What the FMA Can Do to Individual Officers',
+        body: "The Financial Markets Authority has broad powers under the Financial Markets Conduct Act 2013 and the Financial Markets Authority Act 2011. In an investigation, the FMA can:\n\n- Require production of documents and information from companies and individuals\n- Require individuals to appear for formal interviews on oath\n- Apply for search warrants to seize documents and electronic records\n- Apply to the courts for civil penalty orders against individuals\n- Seek injunctions, banning orders, and compensation orders\n- Refer matters for criminal prosecution by the Serious Fraud Office\n\nThe FMA does not merely regulate companies — it directly targets the conduct of directors, officers, and key personnel. The CBL case confirmed that the FMA will make civil penalty applications against individual CFOs and officers who it believes have personally failed to meet disclosure and reporting obligations, independently of any action against the company.\n\nAn FMA investigation generates significant legal costs from the moment the first information request is received — not only if prosecution follows. Responding to document production obligations, preparing for formal interviews, and engaging with the investigative process requires specialist financial regulation counsel at every stage.",
+      },
+      {
+        heading: 'What D&O Insurance Covers for FMA Matters',
+        body: "D&O insurance for FMA investigations should cover:\n\n**Investigation defence costs:** Legal representation from the moment of the first FMA contact — not just when formal proceedings are filed. Many D&O policies cover 'investigation costs' as a distinct sub-limit; ensure your policy does so explicitly.\n\n**Document production costs:** The cost of legal review of documents to assert privilege and manage the document production process can be substantial in complex investigations.\n\n**Interview preparation:** Specialist financial regulation counsel to prepare for and attend FMA interviews is covered under investigation defence provisions.\n\n**Civil penalty defence:** If the FMA pursues a civil penalty application in court, defence costs are covered under the D&O policy's legal defence provisions.\n\n**Civil penalties themselves:** Some D&O policies cover civil monetary penalties; others exclude them. In the New Zealand market, coverage for civil penalties is available but must be confirmed in the policy wording — it is not universal.\n\nNote: fines and penalties imposed for deliberate wrongdoing are not insurable under New Zealand public policy. D&O cover responds to civil allegations of judgment failure — not intentional fraudulent conduct.",
+      },
+      {
+        heading: 'Which Financial Services Entities Need FMA Investigation Cover',
+        body: "FMA investigation insurance is essential for directors and officers of:\n\n- Licensed financial advice providers (FAPs) under the Financial Markets Conduct Act 2013\n- RBNZ-regulated entities — banks, non-bank deposit takers, and licensed insurers\n- NZX-listed companies subject to continuous disclosure obligations\n- KiwiSaver scheme providers and trustees\n- Crowdfunding and peer-to-peer lending platforms\n- Investment managers and MIS managers\n- Fintech companies providing financial services under FMCA licensing\n\nThe FMA's supervisory perimeter has expanded significantly since the Conduct Licensing regime came into effect in 2020. Any entity providing regulated financial services to retail clients in New Zealand is potentially subject to FMA supervisory review — and its officers face personal accountability if the FMA finds systemic governance failures.",
+      },
+      {
+        heading: 'Choosing the Right D&O Policy for FMA Risk',
+        body: "When reviewing D&O cover for FMA investigation exposure, look for:\n\n**Explicit investigation cover:** The policy should specifically cover investigation costs as an insuring agreement — not just as part of 'defence costs' that may require a formal claim or proceeding to be triggered.\n\n**Extended definition of 'insured person':** FMA investigations cover CFOs, compliance managers, and key personnel — not just board directors. Confirm the policy definition.\n\n**Adequate limit:** A complex FMA investigation can generate NZ$200,000–$500,000+ in legal costs before any prosecution decision is made. Ensure your limit reflects this.\n\n**Civil penalty coverage:** Confirm whether civil penalties are covered — and at what sub-limit — before renewing or placing.\n\n**Run-off cover:** FMA investigations can commence months or years after the conduct under review. Departing officers need run-off cover to ensure continued protection.\n\nContact our specialist brokers for a review of your current D&O policy and FMA investigation coverage.",
+      },
+    ],
+  },
 ]
 
 export function getLandingPageBySlug(slug: string): LandingPage | undefined {

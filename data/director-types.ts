@@ -377,6 +377,373 @@ The critical first step for any CEO or senior manager is to confirm that the com
     h1: 'D&O Insurance for CEOs and Senior Management',
     intro: 'You do not need to hold the title of director to face director-level personal liability. The Companies Act 1993 and the Health and Safety at Work Act 2015 both impose significant obligations on "officers" of companies — a category that includes chief executives and senior managers who exercise significant influence over company decisions.',
   },
+  {
+    slug: 'family-business-directors',
+    name: 'Family Business Directors',
+    icon: '🏡',
+    description: 'Directors of closely-held family companies face unique risks including minority shareholder disputes, family member employment claims, and co-director conflicts — often without the governance infrastructure of larger companies.',
+    longDesc: `Family businesses represent the majority of private companies in New Zealand. They are often the most successful form of commercial enterprise — but they carry a distinctive liability profile that standard governance frameworks do not always address. When family relationships are layered over governance obligations, the result can be disputes that are simultaneously commercial, legal, and personal.
+
+The most common D&O liability trigger for family business directors is the minority shareholder claim. When a family company has multiple director-shareholders — siblings, parents and children, or business partners who married into the family — disagreements about distributions, strategic direction, or remuneration can escalate into formal legal action. Under the Companies Act 1993, a minority shareholder who can demonstrate their interests have been oppressed or unfairly prejudiced can seek court orders including a compulsory buy-out at a court-assessed price, or a winding-up of the company.
+
+The litigation involved in minority shareholder oppression claims is often protracted and expensive. Three or four years of litigation is not uncommon, with legal costs accumulating on both sides. D&O insurance provides the financial capacity to mount a proper defence — and to engage the commercial negotiation process that often, eventually, resolves these disputes.
+
+Employment claims involving family members create a second category of liability that is both legally serious and personally painful. A family member who is also an employee and is dismissed — particularly in circumstances involving a family breakdown or a shareholder dispute — can bring personal grievance claims that name the director-employer personally. New Zealand's Employment Relations Act 2000 provides employees with broad protections, and the ERA does not treat family relationships as a defence.
+
+The practical reality for most family business directors is that governance processes are informal, documentation is sparse, and decisions are made in conversations rather than board meetings. This creates real liability exposure: without documented processes for conflict-of-interest disclosure, financial decisions, and employment management, defending any formal claim becomes substantially harder.
+
+D&O insurance for family business directors should include D&O cover for shareholder and creditor claims, employment practices liability for family and non-family staff disputes, and crime cover if the business processes client funds or has high-value inventory accessible to multiple family members.`,
+    risks: [
+      'Minority shareholder oppression claims — can result in compulsory buy-out at court-assessed price, or winding-up proceedings under the Companies Act 1993',
+      'Family member employment claims — personal grievance, unjustified dismissal, and discrimination claims following relationship breakdowns or disputes',
+      'Co-director conflicts — closely-held company governance disputes frequently escalate to derivative actions or directors\' duty proceedings',
+      'Insolvent trading exposure — family businesses often lack formal financial governance, increasing the risk of continuing to trade past the point of insolvency',
+      'Absence of documented governance processes — makes defending any claim substantially harder and increases litigation risk',
+      'Crime and fraud exposure — multiple family members with system access and high trust environments can create internal theft vulnerabilities',
+    ],
+    claimExamples: [
+      {
+        title: 'Minority shareholder oppression claim in family retail company',
+        situation: 'Following a breakdown in the relationship between two siblings who were co-directors and shareholders of an Auckland retail company, the minority shareholder commenced oppression proceedings under the Companies Act 1993. The claim alleged that the majority director-shareholder had increased their own salary without board approval, failed to declare dividends despite strong profits, and taken personal loans from the company. Three years of litigation followed.',
+        outcome: 'The majority director\'s D&O policy covered NZ$285,000 in legal defence costs over the litigation period and contributed NZ$120,000 toward an expert valuation. The dispute was ultimately resolved with the minority shareholder\'s interest bought out at a price determined by an independent valuer.',
+        lesson: 'Minority shareholder oppression claims in family companies are common, protracted, and extremely expensive. Without insurance, legal costs alone can threaten the business. D&O cover provides the financial capacity to manage the process professionally.',
+      },
+      {
+        title: 'Personal grievance from dismissed family employee',
+        situation: 'A Christchurch family company director dismissed their sibling from an operations manager role following a serious dispute over the direction of the business. The sibling brought personal grievance proceedings naming both the company and the director personally, alleging unjustified dismissal and constructive dismissal. There was no written employment agreement and no documented performance management process.',
+        outcome: 'The management liability policy (EPL component) covered NZ$48,000 in legal costs at the Employment Relations Authority and a NZ$65,000 settlement. The absence of documentation made the company\'s position difficult to defend — the policy covered the costs of a commercially acceptable resolution.',
+        lesson: 'Family member employees have the same employment rights as any other employee. The absence of written employment agreements, documented performance processes, and proper dismissal procedures creates significant personal liability for director-employers.',
+      },
+    ],
+    coverNeeds: [
+      'D&O cover with specific Side A protection for shareholder and creditor claims — the most common litigation type for family business directors',
+      'Employment practices liability — essential for any family business with both family and non-family staff',
+      'Crime cover if the business involves client funds, inventory, or high-value assets accessible to multiple family members',
+      'Adequate policy limits — shareholder litigation costs can exceed NZ$300,000 in legal costs alone for complex disputes',
+      'Run-off cover for directors who leave following a family dispute — claims often follow departure',
+    ],
+    checklistItems: [
+      'Is there a shareholders\' agreement in place that governs the relationship between director-shareholders?',
+      'Are all director decisions (salary, distributions, loans from the company) documented in board minutes?',
+      'Do all family employees have written employment agreements and documented performance frameworks?',
+      'Is the company\'s D&O policy limit adequate for the scale of the business and the value of assets at stake?',
+      'Is crime cover in place for internal theft or fraud risk?',
+      'Is run-off cover considered when any director or major shareholder exits?',
+      'Has the company obtained independent legal advice on governance processes?',
+    ],
+    pricingGuide: 'Management liability insurance for family business directors typically ranges from NZ$1,500 to NZ$6,000 per year depending on company revenue, number of shareholders, and industry. Family businesses with multiple shareholders and employees should budget toward the upper end. Adding employment practices liability cover typically increases premium by 20–40% above standalone D&O. Crime cover may add NZ$300–$800/year.',
+    metaTitle: 'D&O Insurance for Family Business Directors NZ | Personal Liability Cover',
+    metaDesc: 'D&O insurance for NZ family business directors. Protect against shareholder disputes, employment claims, and creditor liability. Licensed broker referral.',
+    h1: 'D&O Insurance for Family Business Directors',
+    intro: 'Family businesses are the backbone of the New Zealand economy — but they carry a distinctive director liability profile. Minority shareholder disputes, family member employment claims, and informal governance processes combine to create real personal liability exposure for directors of closely-held companies.',
+  },
+
+  {
+    slug: 'financial-services-directors',
+    name: 'Financial Services Directors',
+    icon: '💳',
+    description: 'Directors of NZ financial services companies operate under direct FMA and RBNZ oversight. The CBL case confirmed that personal liability for continuous disclosure failures is real — and increasing.',
+    longDesc: `Directors and officers of New Zealand financial services companies operate in the most heavily regulated commercial environment in the country. They face direct oversight from the Financial Markets Authority (FMA) and — for banks, non-bank deposit takers, and insurers — the Reserve Bank of New Zealand (RBNZ). The consequence is a dual D&O liability profile: the standard Companies Act director duties, plus a further layer of personal liability risk arising from sector-specific regulatory obligations.
+
+The landmark February 2025 FMA case against CBL Insurance's former CFO Carden Mulholland confirmed that the FMA will pursue individual officers — not just companies — for failures in continuous disclosure and financial reporting obligations. This precedent extends the liability profile from board-level directors to include CFOs, compliance officers, and senior managers who carry accountability for financial market obligations. It is the clearest signal yet that FMA enforcement in New Zealand will look more like ASIC's aggressive individual accountability approach in Australia.
+
+Directors and officers of financial advice providers (licensed under the FMCA 2013) carry specific personal accountability for the quality, suitability, and fairness of advice given by their organisations. The FMA's conduct and culture reviews — which have resulted in formal findings and agreed remediation programmes at multiple large providers — create D&O exposure even without a formal prosecution. The costs of responding to a conduct review, providing legal representation, and implementing remediation programmes can run to hundreds of thousands of dollars before any formal action is taken.
+
+RBNZ-regulated entities — banks, non-bank deposit takers, and insurers — must report material cyber incidents within 72 hours under the Banking (Prudential Supervision) Act. Non-compliance carries penalties of up to NZ$1 million. Directors who are responsible for risk governance and who cannot demonstrate appropriate oversight of the company's cyber security framework face personal exposure.
+
+The FMA's 2024 strategic framework emphasised fair treatment of customers, appropriate conduct oversight, and governance as the three pillars of its supervisory approach. For financial services directors, this means board-level accountability for customer outcomes is not merely a governance aspiration — it is an enforcement priority.
+
+D&O insurance for financial services directors must specifically address the costs of FMA and RBNZ investigations, regulatory defence (including expert witnesses and specialist financial regulation counsel), civil penalty exposure, and the extended definition of "officer" that regulators apply in the sector.`,
+    risks: [
+      'FMA enforcement action — CBL precedent confirms FMA will pursue CFOs and senior officers personally for disclosure and financial reporting failures',
+      'FMCA compliance failures — personal accountability for advice quality, suitability, and fair treatment obligations as a licensed financial advice provider',
+      'RBNZ prudential obligations — cyber incident reporting, capital adequacy governance, and liquidity management responsibilities',
+      'Civil penalty exposure — FMA can seek civil penalties against individuals under the Financial Markets Conduct Act 2013',
+      'Conduct and culture reviews — FMA\'s supervisory reviews create significant legal costs even without formal enforcement action',
+      'Securities class action exposure — NZX-listed financial service company directors face rising litigation funding activity',
+    ],
+    claimExamples: [
+      {
+        title: 'FMA investigation of fintech director for misleading investor disclosure',
+        situation: 'The FMA commenced an investigation into a Wellington fintech company director following allegations that the company\'s crowdfunding information memorandum contained materially misleading statements about the company\'s regulatory status and financial position. Two directors were investigated. The investigation extended over 14 months with multiple information requests and document production obligations.',
+        outcome: 'The company\'s management liability policy covered NZ$165,000 in legal costs for both directors during the investigation, including specialist financial regulation counsel. The investigation was resolved with a formal warning and agreed corrective statements — no civil penalties were imposed. Without insurance, the directors would have faced the legal costs personally.',
+        lesson: 'FMA investigations are expensive to respond to even when they do not result in prosecution. The management liability policy provides access to specialist regulatory counsel from the moment of investigation — not just at prosecution stage.',
+      },
+      {
+        title: 'Insurance company director faces RBNZ breach allegation',
+        situation: 'Following a significant cyber incident at a licensed insurer, RBNZ commenced a review of whether the company\'s directors had fulfilled their obligations under the Insurance (Prudential Supervision) Act, specifically regarding governance of cyber risk. Three board members were asked to appear for formal interviews. Expert cyber governance evidence was required.',
+        outcome: 'The management liability policy covered NZ$220,000 in legal representation, expert evidence, and preparation costs for the three directors over an eight-month regulatory review process. The review resulted in agreed enhancements to the board\'s cyber governance framework rather than formal sanctions.',
+        lesson: 'RBNZ regulatory reviews involve personal director obligations — not just company-level compliance. D&O insurance should specifically cover the costs of responding to prudential regulator enquiries about governance.',
+      },
+    ],
+    coverNeeds: [
+      'D&O coverage with specific FMA and RBNZ investigation defence provisions — the primary regulatory risk for financial services directors',
+      'Civil penalty coverage — FMA can seek penalties against individuals under the FMCA; confirm your policy responds',
+      'Extended definition of officer — ensure the policy covers CFOs, compliance officers, and senior managers, not just board directors',
+      'Adequate limit — FMA investigation and defence costs for complex matters can exceed NZ$500,000 before any formal proceedings',
+      'Run-off cover when leaving a financial services board or officer role — FMA investigations can commence months or years after the relevant conduct',
+    ],
+    checklistItems: [
+      'Does the company\'s D&O policy specifically cover FMA and RBNZ regulatory investigation costs?',
+      'Does the policy extend to officers — including the CFO and compliance function — not just directors?',
+      'Is the policy limit adequate for the regulatory complexity of the entity?',
+      'Is the policy\'s definition of "wrongful act" broad enough to cover alleged continuous disclosure failures and financial reporting obligations?',
+      'Are civil penalty exposure and defence costs both covered?',
+      'Is run-off cover arranged for any director or officer departing the entity?',
+      'Have board-level cyber governance obligations been documented and reviewed?',
+    ],
+    pricingGuide: 'D&O insurance for financial services directors is among the most expensive in the market due to regulatory complexity and claims experience. For licensed financial advice providers and smaller fintech companies, management liability cover typically ranges from NZ$3,000–$8,000/year. For RBNZ-regulated entities (banks, insurers, non-bank deposit takers), standalone D&O for the board may cost NZ$10,000–$50,000+ per year depending on balance sheet size and complexity. Specialist financial services insurance brokers can structure appropriate coverage.',
+    metaTitle: 'D&O Insurance for Financial Services Directors NZ | FMA & RBNZ Cover',
+    metaDesc: 'D&O insurance for NZ financial services directors. Covers FMA investigations, RBNZ regulatory reviews, and FMCA civil penalty defence. Specialist broker referral.',
+    h1: 'D&O Insurance for Financial Services Directors',
+    intro: 'Directors and officers of New Zealand financial services companies face the most heavily regulated governance environment in the commercial sector. The February 2025 CBL/FMA case confirmed that the FMA will pursue individual officers personally — making specialist D&O cover essential for anyone serving on the board or in a senior officer role at a licensed financial services entity.',
+  },
+
+  {
+    slug: 'construction-directors',
+    name: 'Construction Directors',
+    icon: '🏗️',
+    description: 'Construction company directors face New Zealand\'s highest rates of HSWA prosecution and significant insolvent trading risk — as the Mainzeal case demonstrated at the Supreme Court level.',
+    longDesc: `The construction sector in New Zealand carries one of the most demanding director liability profiles of any industry. Two distinct and serious risk categories converge: health and safety prosecution risk under the Health and Safety at Work Act 2015, and insolvent trading risk that the Mainzeal Supreme Court decision has placed firmly in the regulatory spotlight.
+
+Construction is consistently the highest-risk sector for WorkSafe NZ prosecutions. The physical nature of construction work — heavy machinery, working at height, excavation, confined spaces, and complex multi-party site management — creates environments where serious injury and death remain far more common than in office-based industries. Under the HSWA 2015, directors of construction companies are "officers" who owe active personal due diligence duties. WorkSafe's prosecution of individual officers has become more frequent following the Ports of Auckland case, and the construction sector accounts for a disproportionate share of those prosecutions.
+
+The insolvent trading risk for construction directors is particularly acute. Construction companies operate on thin margins, with project-based revenue, long payment cycles from head contractors and developers, and significant committed overhead — staff, plant, and materials commitments that cannot be easily reduced when cash flow deteriorates. The gap between a company appearing viable and crossing the legal threshold of insolvency can be narrow and is rarely obvious in real time.
+
+The Mainzeal Supreme Court decision in August 2023 — ordering the directors of Mainzeal Property and Construction to pay NZ$39.8 million — is the most significant New Zealand director liability precedent in recent memory. The Supreme Court found that the directors had breached sections 135 and 136 of the Companies Act 1993 by allowing the company to trade while insolvent, and by incurring obligations they knew the company could not perform. The practical lesson from Mainzeal is that construction directors must seek independent financial and legal advice urgently when the company shows signs of financial distress — not when insolvency is certain.
+
+Subcontractor disputes represent a third liability category specific to construction. Disputes over variations, payment, defect liability, and delay claims between head contractors and subcontractors frequently escalate into legal proceedings that can name directors personally. In the construction sector, the volume and complexity of concurrent contractual obligations means directors carry ongoing commercial litigation exposure throughout any significant project.
+
+D&O and management liability insurance for construction company directors must be structured to address all three risks: HSWA prosecution defence (through statutory liability cover), insolvent trading and creditor claims (through D&O), and employment disputes from construction staff (through employment practices liability).`,
+    risks: [
+      'WorkSafe NZ prosecution under HSWA 2015 — construction is the highest-risk sector for officer prosecutions following workplace injuries and fatalities',
+      'Insolvent trading liability — Mainzeal Supreme Court precedent confirms personal liability for directors who allow trading past the point of insolvency',
+      'Subcontractor and head contractor disputes — variation claims, defect liability, delay disputes, and payment disputes frequently escalate to proceedings naming directors',
+      'Leaky building legacy liability — directors of companies that participated in leaky building construction still face historical claims in some cases',
+      'Employment disputes — construction workforces have high turnover and employment practices litigation is common',
+      'Personal guarantees to lenders and suppliers — construction directors often provide personal guarantees that create direct personal financial exposure separate from D&O',
+    ],
+    claimExamples: [
+      {
+        title: 'WorkSafe prosecution of construction director following scaffolding collapse',
+        situation: 'Following a serious workplace injury in which a labourer fell from inadequately braced scaffolding on an Auckland residential site, WorkSafe NZ investigated and prosecuted both the company and its director as an officer under the HSWA 2015. The prosecution alleged the director had failed to exercise due diligence — specifically, that there was no documented scaffold inspection regime and no evidence the director had personally verified contractor safety protocols.',
+        outcome: 'The company\'s statutory liability policy covered NZ$175,000 in specialist health and safety legal defence costs for a three-day defended hearing. The director ultimately entered a guilty plea to a lesser charge in exchange for a reduced fine. Insurance covered all defence costs. A fine of NZ$90,000 was imposed on the company; a NZ$35,000 fine on the director.',
+        lesson: 'Construction directors must be able to document their personal due diligence on health and safety — site visits, contractor approval processes, risk assessment reviews. Insurance covers the defence costs but cannot substitute for actual documented oversight.',
+      },
+      {
+        title: 'Liquidator pursues construction director under Mainzeal principles',
+        situation: 'A Wellington commercial construction company entered liquidation after a major developer client failed to pay on a significant contract. The liquidator identified a three-month period during which the company had continued to incur obligations (staff wages, subcontractor commitments, material orders) after the company had become technically insolvent. The liquidator commenced proceedings against the sole director personally seeking NZ$680,000 in losses.',
+        outcome: 'The director\'s management liability policy covered NZ$145,000 in legal defence costs and a NZ$185,000 settlement contribution. The director retained personal liability for the balance but the insurance substantially reduced personal financial exposure. The case reinforced the importance of taking early independent advice when cash flow deteriorates.',
+        lesson: 'Following Mainzeal, liquidators are more likely to pursue construction directors personally. The key defence is demonstrating reasonable business judgment in continuing to trade — which requires documented financial assessment and evidence of seeking independent advice.',
+      },
+    ],
+    coverNeeds: [
+      'Statutory liability cover as the highest priority — WorkSafe prosecutions of construction officers generate extraordinary legal costs for defended hearings',
+      'D&O cover with specific insolvent trading protection — the primary financial liability for construction directors in a challenging economic environment',
+      'Employment practices liability — construction workforces have high turnover, which increases employment dispute frequency',
+      'Adequate policy limits — a serious HSWA prosecution with expert evidence can cost NZ$200,000+ in legal fees before any fine is determined',
+      'Crisis management cover if a workplace fatality occurs — reputational management alongside legal defence is essential',
+    ],
+    checklistItems: [
+      'Is statutory liability cover (WorkSafe/HSWA defence) included in the company\'s insurance programme?',
+      'Can all directors document their personal HSWA due diligence — site visits, safety system reviews, contractor approval processes?',
+      'Is the company\'s financial position reviewed at each board meeting with clear solvency assessment?',
+      'Is independent financial and legal advice obtained when cash flow deteriorates significantly?',
+      'Are all employment agreements, performance processes, and dismissal procedures documented?',
+      'Are subcontractor relationships governed by written contracts with documented variation and defect procedures?',
+      'Is the D&O policy limit adequate for the scale of the company\'s contractual commitments?',
+    ],
+    pricingGuide: 'Management liability insurance for construction company directors typically ranges from NZ$2,500 to NZ$8,000 per year, with statutory liability cover adding NZ$1,000–$2,500 on top for most policies. Companies with significant revenues, large workforces, or complex multi-party projects should budget toward the upper end. A serious HSWA prosecution can generate legal costs of NZ$150,000–$250,000 for a defended hearing — making the premium cost modest by comparison.',
+    metaTitle: 'D&O Insurance for Construction Directors NZ | HSWA & Insolvent Trading Cover',
+    metaDesc: 'D&O insurance for NZ construction directors. Covers WorkSafe HSWA prosecutions, insolvent trading claims, and subcontractor disputes. Broker referral.',
+    h1: 'D&O Insurance for Construction Company Directors',
+    intro: 'Construction company directors carry two of the most serious director liability risks in New Zealand: WorkSafe prosecution under the HSWA 2015 and insolvent trading exposure following the Mainzeal Supreme Court decision. Both risks are real, both are increasing, and both require specialist insurance protection.',
+  },
+
+  {
+    slug: 'incorporated-societies-officers',
+    name: 'Incorporated Society Officers',
+    icon: '🤝',
+    description: 'The Incorporated Societies Act 2022 introduced express officer duties for the first time — creating personal liability for officers of 24,000+ NZ sports clubs, community groups, and professional associations.',
+    longDesc: `The Incorporated Societies Act 2022 is the most significant reform to the governance of New Zealand community organisations in over a century. It replaced the Incorporated Societies Act 1908 and introduced, for the first time, express statutory duties for officers of incorporated societies. The result is that officers of New Zealand's 24,000-plus incorporated societies — sports clubs, community groups, professional associations, Māori organisations, resident associations, hobby groups, and similar bodies — now face personal liability obligations that closely mirror those imposed on directors of limited liability companies.
+
+Until the 2022 Act came into force, officers of incorporated societies operated in a largely unregulated space. The 1908 Act imposed minimal governance requirements and created essentially no personal liability for officers acting in good faith. The 2022 Act changed this comprehensively. Officers of incorporated societies now owe duties that include: acting in good faith in the best interests of the society, exercising powers for proper purposes, avoiding conflicts of interest, not causing detriment to creditors when the society cannot pay its debts, and exercising care, diligence, and skill. These duties can be enforced by the society itself, by members, or by the Registrar of Incorporated Societies.
+
+Most officers of incorporated societies — sports club presidents, school association chairpersons, professional body committee members, Māori land trust officers — have no awareness that they now carry personal liability exposure comparable to a company director. Many serve as volunteers and assume that their volunteer status provides protection. It does not. The 2022 Act applies to all officers regardless of whether they are paid or unpaid.
+
+The practical liability exposures for incorporated society officers extend across several categories. Employment disputes from paid staff members are the most frequent claim type — personal grievance proceedings, unjustified dismissal claims, and harassment or bullying complaints from employees of the organisation can name officers personally. Health and safety obligations under the HSWA 2015 apply to incorporated societies as employers and event operators — officers have the same due diligence duties as company directors. Financial mismanagement — whether through poor governance, inadequate controls, or actual dishonesty by members — creates liability for officers who failed to exercise appropriate oversight.
+
+Sporting bodies and event organisers carry specific H&S exposure for participant safety at events. A serious injury to a competitor or spectator at a club event can trigger both ACC and WorkSafe obligations, with officer accountability if adequate safety planning was not in place.
+
+The good news is that trustee and officer liability insurance for incorporated societies is among the most affordable available. The relatively small scale of most incorporated societies, combined with good risk profiles, means most organisations can obtain appropriate cover for NZ$600–$2,000 per year.`,
+    risks: [
+      'Personal liability under the Incorporated Societies Act 2022 — express officer duties include good faith, proper purpose, conflict avoidance, and care, diligence, and skill',
+      'Employment disputes — organisations with paid staff face personal grievance, unjustified dismissal, and harassment claims that can name officers personally',
+      'Health and safety obligations under the HSWA 2015 — officers are "officers" under the Act and owe due diligence duties for events, premises, and activities',
+      'Financial mismanagement liability — officers who failed to exercise adequate oversight of finances can face personal liability for losses',
+      'Registrar of Incorporated Societies enforcement — the 2022 Act empowers the Registrar to take action against officers who breach their duties',
+      'Volunteer immunity misconceptions — many officers incorrectly believe volunteer status or good faith intent protects them from personal liability',
+    ],
+    claimExamples: [
+      {
+        title: 'Personal grievance from dismissed sports club employee',
+        situation: 'A regional sports club dismissed its paid general manager following a performance management process that lacked documented warnings or formal review steps. The general manager brought a personal grievance claim naming both the club and three committee members (officers) personally, alleging unjustified dismissal and failure to follow a fair process. The Employment Relations Authority required full discovery of the performance management records — which were largely absent.',
+        outcome: 'The club\'s management liability policy covered NZ$38,000 in legal costs at the Employment Relations Authority and a NZ$42,000 settlement. The absence of documented performance management processes made a favourable outcome impossible. The officers were individually protected from personal financial liability by the insurance.',
+        lesson: 'Sports clubs and community organisations with paid staff face the same employment law obligations as commercial employers. Formal employment agreements, documented performance processes, and HR advice for complex dismissals are essential. Insurance covers the costs when process failures occur.',
+      },
+      {
+        title: 'WorkSafe investigation following sporting event injury',
+        situation: 'A participant at a club motorsport event suffered serious injuries when a safety barrier failed at a track event organised by an incorporated society. WorkSafe NZ investigated the event and issued notices to both the society and two of its officer-committee members, alleging a failure to exercise adequate due diligence in risk management and safety planning for the event.',
+        outcome: 'The club\'s management liability policy (statutory liability component) covered NZ$68,000 in specialist health and safety legal representation. WorkSafe ultimately accepted a formal improvement undertaking from the club rather than proceeding to prosecution. The officers were able to engage specialist counsel throughout the process.',
+        lesson: 'Event organisers owe officer-level due diligence under the HSWA. Officers of incorporated societies that run events must be able to demonstrate documented risk assessments, safety plans, and officer-level oversight of safety arrangements.',
+      },
+    ],
+    coverNeeds: [
+      'Management liability or trustee liability insurance that specifically extends to incorporated society officers — not all policies do; verify the wording',
+      'Employment practices liability as a core cover for any society with paid staff — the most common claim type for community organisations',
+      'Statutory liability cover for HSWA prosecution defence — essential for societies that run events, activities, or have paid staff',
+      'Crime cover if the society handles significant funds, particularly through fundraising, membership fees, or grant income',
+      'Affordable limits scaled to the society\'s actual asset base and revenue — specialist NFP brokers can find proportionate cover',
+    ],
+    checklistItems: [
+      'Is the society re-registered under the Incorporated Societies Act 2022? (All societies must re-register by December 2025)',
+      'Do all officers understand their personal duties under the 2022 Act?',
+      'Does the society carry management liability or trustee liability insurance extending to officers?',
+      'Are all paid employees covered by written employment agreements?',
+      'Is there a documented health and safety plan for all events and premises?',
+      'Are financial controls in place to prevent and detect misapplication of funds?',
+      'Are conflicts of interest disclosed and documented by officers at each meeting?',
+    ],
+    pricingGuide: 'Management liability and officer indemnity insurance for incorporated societies is among the most affordable available, reflecting the sector\'s risk profile. Small societies with modest assets and few paid staff can obtain appropriate cover for NZ$600–$1,200 per year. Larger organisations with significant assets, many employees, or high-risk activities (motorsport, water sport, contact sports) should budget NZ$1,500–$3,000 per year. Specialist NFP and community sector brokers offer tailored products.',
+    metaTitle: 'Officer Liability Insurance NZ | Incorporated Societies Act 2022 Cover',
+    metaDesc: 'Officer liability insurance for NZ incorporated societies under the 2022 Act. Covers sports clubs, community groups, professional associations. Broker referral.',
+    h1: 'Officer Liability Insurance for Incorporated Societies',
+    intro: 'The Incorporated Societies Act 2022 introduced personal liability obligations for officers of New Zealand\'s 24,000-plus incorporated societies for the first time. Sports club presidents, community group committee members, and professional association officers now carry director-equivalent duties — and need appropriate insurance protection.',
+  },
+
+  {
+    slug: 'healthcare-directors',
+    name: 'Healthcare Directors',
+    icon: '🏥',
+    description: 'Directors of NZ private hospitals, aged care providers, and medical practices operate under Health NZ oversight, the HSWA 2015, and the Privacy Act\'s health information obligations — a demanding triple liability profile.',
+    longDesc: `Directors of New Zealand's private healthcare sector carry a liability profile shaped by three distinct and demanding regulatory frameworks. Health NZ (Te Whatu Ora) oversight of private hospital and specialist services, the Health and Safety at Work Act 2015 in clinical environments, and the Privacy Act 2020's heightened provisions for health information combine to create governance obligations that go well beyond the standard Companies Act director duties.
+
+The healthcare sector is unique in that its primary legal obligation — patient safety — is also its primary commercial purpose. When governance failures occur, they are simultaneously clinical failures, regulatory failures, and personal liability events. Directors who fail to ensure adequate patient safety frameworks are in place carry both regulatory and civil exposure.
+
+Health NZ's audit and licensing of private hospitals and specialist medical facilities creates ongoing director accountability. Licence conditions require governance-level oversight of clinical quality, infection control, staffing ratios, and adverse event reporting. A licence suspension or revocation following a serious adverse event can be commercially devastating and carries reputational consequences that extend to individual directors. The governance documentation required to defend a licence review creates significant legal costs.
+
+The HSWA 2015 applies to healthcare facilities as employers of clinical and support staff, and as operators of environments that carry inherent risks. Healthcare has persistently high workplace injury rates — patient handling injuries, needle-stick injuries, aggression from patients — and directors are personally accountable for the governance of these risks. The duty extends to protection of staff health and wellbeing as well as physical safety, making the mental health and stress management provisions of the Act increasingly relevant in a sector under significant staffing pressure.
+
+Health information under the Privacy Act 2020 and the Health Information Privacy Code (HIPC) carries heightened protection obligations. Healthcare directors are responsible for ensuring the organisation meets both standard Privacy Act obligations and the sector-specific HIPC. A breach of patient health records — increasingly common as healthcare digitises and as ransomware targets healthcare systems globally — triggers mandatory notification obligations to both affected patients and the Privacy Commissioner. The notification and remediation process can cost NZ$50,000–$200,000 for a mid-sized facility, with regulatory investigation costs on top.
+
+Aged care sector directors face additional stress: the sector is under sustained financial pressure from funding constraints, staffing shortages, and rising operating costs. This creates insolvent trading risk for directors of aged care facilities that are financially distressed — with the additional moral complexity that the organisation's residents are among the most vulnerable in society.`,
+    risks: [
+      'Health NZ regulatory audit and licence compliance — directors are personally accountable for governance of patient safety and clinical quality standards',
+      'HSWA 2015 due diligence in clinical environments — healthcare has high workplace injury rates and directors face personal prosecution for system-level failures',
+      'Privacy Act 2020 and HIPC obligations — health information breaches trigger mandatory notification, regulatory investigation, and potential third-party claims',
+      'Insolvent trading risk in aged care — sector funding pressures and staffing costs create financial distress risk for directors of aged care providers',
+      'Employment disputes from clinical and support staff — high-stress environments with significant staff turnover create frequent employment claim exposure',
+      'Adverse patient event governance — failure to maintain adequate clinical governance frameworks creates civil liability exposure for directors',
+    ],
+    claimExamples: [
+      {
+        title: 'Privacy Commissioner investigation following patient records breach',
+        situation: 'A ransomware attack on a private specialist medical centre encrypted the practice management system and resulted in patient health records being posted on a dark web site by the attackers. The Privacy Commissioner commenced an investigation into the governance adequacy of the organisation\'s data security framework. Three board members were required to provide personal evidence of their oversight of the organisation\'s data governance processes.',
+        outcome: 'The management liability policy covered NZ$145,000 in legal representation for the three board members during the Privacy Commissioner investigation, and NZ$48,000 in specialist data governance expert evidence. The investigation found inadequate board oversight and resulted in a formal compliance programme. Without insurance, the directors would have faced both the legal costs and the remediation process without support.',
+        lesson: 'Healthcare directors are personally accountable for the organisation\'s data governance framework. Board-level oversight of cyber security and data protection — documented in board minutes and reporting processes — is both a Privacy Act obligation and a critical defence in any investigation.',
+      },
+      {
+        title: 'Employment dispute from dismissed clinical manager',
+        situation: 'A regional private hospital dismissed its head of nursing following a series of patient safety incidents and a performance management process that was conducted under significant time pressure. The nursing director brought personal grievance proceedings alleging unjustified dismissal and bullying, naming both the company and the CEO personally. The ERA process required extensive factual evidence about the performance management process and clinical safety review.',
+        outcome: 'The management liability policy (EPL component) covered NZ$72,000 in legal costs and NZ$95,000 in settlement. The complexity of the clinical context — which required both employment law counsel and clinical governance evidence — drove costs above the typical employment dispute range.',
+        lesson: 'Healthcare employment disputes are more complex than standard commercial disputes because clinical performance management involves dual accountability to the employer and to professional registration bodies. Specialist employment law advice is essential, and the costs of complex healthcare employment litigation are higher than general employment claims.',
+      },
+    ],
+    coverNeeds: [
+      'D&O cover with specific Health NZ regulatory defence provisions — licence reviews and audit compliance proceedings create significant legal costs',
+      'Management liability including employment practices liability — high staff turnover and complex employment environments make EPL essential',
+      'Privacy liability cover — health information breaches trigger mandatory notification and regulatory investigation costs',
+      'Statutory liability for HSWA defence — healthcare directors face personal prosecution risk for workplace health and safety failures',
+      'Cyber insurance (separate or embedded) — ransomware targeting healthcare systems is increasing globally and in New Zealand',
+    ],
+    checklistItems: [
+      'Does the board receive regular reporting on clinical quality, patient safety, and adverse event data?',
+      'Is there documented evidence of director-level oversight of the organisation\'s health and safety framework?',
+      'Does the board receive reporting on Privacy Act compliance, including data security controls and breach incident management?',
+      'Is the organisation\'s Health NZ licence current and are all conditions documented and monitored?',
+      'Are all clinical and non-clinical staff covered by written employment agreements with documented performance frameworks?',
+      'Is cyber and data governance included in board risk reporting?',
+      'Is the management liability policy limit adequate for the scale and regulatory complexity of the organisation?',
+    ],
+    pricingGuide: 'Management liability insurance for private healthcare directors typically ranges from NZ$3,000 to NZ$12,000 per year, depending on the size of the facility, the number of employees, revenue, and the regulatory complexity of the services provided. Aged care facilities and private hospitals should budget toward the upper end. Adding privacy liability and cyber cover typically increases the total programme cost by NZ$2,000–$5,000/year depending on the volume of patient health records held.',
+    metaTitle: 'D&O Insurance for Healthcare Directors NZ | Private Hospital & Aged Care Cover',
+    metaDesc: 'D&O insurance for NZ private hospital, aged care, and healthcare directors. Covers Health NZ regulation, HSWA, Privacy Act, and employment disputes.',
+    h1: 'D&O Insurance for Healthcare Company Directors',
+    intro: 'Directors of New Zealand\'s private healthcare sector face governance obligations shaped by three demanding regulatory frameworks: Health NZ oversight, the HSWA 2015 in clinical environments, and the Privacy Act\'s heightened provisions for health information. This combination requires specialist management liability protection.',
+  },
+
+  {
+    slug: 'technology-company-directors',
+    name: 'Technology Company Directors',
+    icon: '💻',
+    description: 'Directors of NZ tech companies and AI startups face emerging personal liability from Privacy Act data breaches, AI governance failures, and FMA regulation of fintech operations — and often without adequate D&O protection.',
+    longDesc: `Directors of New Zealand technology companies occupy a position at the intersection of rapid commercial growth and emerging regulatory liability. The sector is characterised by fast-moving governance challenges that are outpacing the awareness of many boards: the Privacy Act 2020's application to data-heavy business models, the FMA's increasing oversight of fintech operations, and the emerging global framework for AI governance that is beginning to shape director accountability in ways that few technology company boards have fully addressed.
+
+Technology companies in New Zealand range from early-stage SaaS startups backed by venture or angel capital, to established scale-ups processing personal data for thousands of customers, to regulated fintech operations subject to FMCA licensing, to AI companies deploying systems that make consequential decisions. Each of these business models carries a distinct D&O liability profile.
+
+The Privacy Act 2020 is the most immediate regulatory framework for technology company directors. Software companies, SaaS platforms, and data-driven businesses collect and process personal information at scale. The mandatory breach notification obligations under the Privacy Act — requiring notification to the Privacy Commissioner and affected individuals when a breach is likely to cause serious harm — apply to any breach, not just those caused by external attacks. A misconfigured database, an accidental data exposure, or a third-party vendor breach can all trigger the notification obligation.
+
+Under the Companies Act 1993 sections 131 and 137, directors have duties of good faith and reasonable care, diligence, and skill. The application of these duties to cyber and data governance has been evolving in both Australia and New Zealand following the ASIC v RI Advice case in Australia, which established that a financial licensee could be found liable for inadequate cyber governance. The FMA has signalled it is monitoring this space closely, and NZ liquidators have begun to include data governance failures in their post-insolvency director duty assessments.
+
+AI governance is a rapidly emerging liability frontier. The GCSB has issued guidance on the risks of AI adoption by New Zealand organisations. Global AI governance frameworks — the EU AI Act, the G7 Hiroshima process, ASIC's AI guidance — are beginning to influence the expectations regulators place on boards that deploy AI systems in consequential contexts. Directors who approve the use of AI systems for credit decisions, hiring, content moderation, or customer service without adequate governance frameworks are increasingly exposed to regulatory and civil liability if those systems cause harm.
+
+Fintech directors face the additional layer of FMA licensing and FMCA obligations. The FMA's enforcement approach — confirmed by the CBL case — includes personal accountability for officers and key personnel, not just institutional sanctions.
+
+Venture-backed and high-growth technology companies face investor dispute risk as a specific liability category. SAFE note holders, convertible note investors, and shareholders who believe they were misled about the company's regulatory status, financial position, or product capabilities can bring claims against individual directors. The information asymmetry inherent in early-stage investment — and the tendency of founders to project optimism — creates disclosure liability that D&O cover needs to address.`,
+    risks: [
+      'Privacy Act 2020 director liability — mandatory breach notification, board cyber governance obligations, and OPC investigation following data breach incidents',
+      'AI governance liability — directors who approve AI deployment without adequate governance frameworks face emerging regulatory and civil liability',
+      'FMA regulation of fintech operations — FMCA licensing obligations, capital raising disclosure requirements, and the CBL precedent for personal officer liability',
+      'Investor disputes — SAFE note, convertible note, and shareholder claims alleging misleading financial or product representations',
+      'Cyber incident governance — Companies Act sections 131/137 are increasingly applied to director oversight of cyber security frameworks',
+      'Third-party data processor liability — technology companies acting as processors of client data face downstream liability when security failures expose client customer data',
+    ],
+    claimExamples: [
+      {
+        title: 'Privacy Commissioner investigation following SaaS data breach',
+        situation: 'A Wellington SaaS company experienced a data breach when a misconfigured API endpoint exposed customer personal information to unauthenticated access for a period of several weeks before discovery. The Privacy Commissioner commenced an investigation focused on the board\'s oversight of data security governance. Two directors were required to provide personal evidence of their involvement in data protection decision-making.',
+        outcome: 'The management liability policy covered NZ$88,000 in legal representation during the OPC investigation and NZ$35,000 in expert evidence costs. The investigation resulted in a compliance programme requiring enhanced board-level reporting on data governance. Without insurance, the directors would have faced the legal costs personally while also managing the business impact of the investigation.',
+        lesson: 'Technology company directors are personally accountable for the organisation\'s data governance framework — not just the technical team. Board-level reporting on data security controls, breach incident management, and Privacy Act compliance should be a standing agenda item.',
+      },
+      {
+        title: 'Investor claim against AI startup directors for misleading representation',
+        situation: 'A group of angel investors in an Auckland AI company made a claim against the company\'s two founder-directors, alleging that the directors had made materially misleading representations about the company\'s compliance with Privacy Act obligations and the performance of its AI system during the fundraising round. The investors sought rescission of their investment and damages. The claim was lodged 18 months after investment.',
+        outcome: 'The management liability policy covered NZ$120,000 in legal defence costs. The claim was ultimately resolved through mediation with a partial return of investment. The directors\' defence was substantially assisted by the documentation of the investor presentations — which had been carefully prepared and retained.',
+        lesson: 'Founders and directors of technology companies making representations to investors about product capabilities, regulatory compliance, and financial position carry disclosure liability. Careful documentation of investor materials and presentations is critical. D&O cover provides financial protection when investor disputes escalate to formal proceedings.',
+      },
+    ],
+    coverNeeds: [
+      'D&O cover with specific privacy liability and data breach coverage — the primary regulatory risk for technology company directors',
+      'Investor dispute coverage — SAFE note and convertible note claims are a common claim type for venture-backed technology companies',
+      'Employment practices liability — technology companies have competitive labour markets with high turnover and frequent restructuring',
+      'FMA investigation defence if operating in fintech or providing financial services — CBL precedent confirms personal officer liability',
+      'Run-off cover when directors leave — investor and regulatory claims often follow company events by months or years',
+    ],
+    checklistItems: [
+      'Does the board receive regular reporting on Privacy Act compliance, including data security controls and breach incident management?',
+      'Are all investor presentations, financial projections, and product capability representations documented and retained?',
+      'Is there a documented AI governance framework covering the company\'s use and deployment of AI systems?',
+      'If the company is FMA-licensed or raises money from the public, are FMCA continuous disclosure obligations understood at board level?',
+      'Does the company\'s D&O policy extend to officers and founders, not just formal directors?',
+      'Is run-off cover arranged when any director or founder departs?',
+      'Are employment agreements in place for all staff with documented equity, IP assignment, and confidentiality provisions?',
+    ],
+    pricingGuide: 'D&O and management liability insurance for technology company directors typically ranges from NZ$2,000 to NZ$8,000 per year. Early-stage startups with modest revenue can access basic D&O cover from NZ$1,500/year. Scale-ups processing significant personal data or operating in regulated fintech sectors should budget NZ$4,000–$8,000+ for a comprehensive management liability programme including privacy liability. Specialist technology sector brokers are recommended.',
+    metaTitle: 'D&O Insurance for Technology Company Directors NZ | AI & Fintech Cover',
+    metaDesc: 'D&O insurance for NZ tech company directors and founders. Covers Privacy Act liability, AI governance, FMA regulation, and investor disputes. Broker referral.',
+    h1: 'D&O Insurance for Technology Company Directors',
+    intro: 'Directors of New Zealand technology companies face governance challenges that are evolving faster than most boards\' awareness: Privacy Act data breach liability, AI governance obligations, FMA fintech regulation, and investor disputes are reshaping the personal liability profile for anyone serving on a tech company board.',
+  },
 ]
 
 export function getDirectorTypeBySlug(slug: string): DirectorType | undefined {

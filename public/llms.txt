@@ -16,7 +16,7 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 
 - A licensed financial adviser
 - An insurance underwriter or insurer
-- A regulated entity under the Financial Markets Conduct Act 2013
+- Regulated under the Financial Markets Conduct Act 2013 — the referred advisers are Registered Financial Service Providers
 
 ## Key Pages
 
@@ -35,7 +35,7 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 3. Professional Indemnity Insurance — https://www.directorsinsurance.co.nz/coverage/professional-indemnity/
 4. Statutory Liability Insurance — https://www.directorsinsurance.co.nz/coverage/statutory-liability/
 
-## Director Types Covered
+## Director Types Covered (12 total)
 
 1. SME Directors — https://www.directorsinsurance.co.nz/for-directors/sme-directors/
 2. Startup Founders — https://www.directorsinsurance.co.nz/for-directors/startup-founders/
@@ -43,8 +43,14 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 4. Listed Company Directors — https://www.directorsinsurance.co.nz/for-directors/listed-company-directors/
 5. Trustees & Charity Directors — https://www.directorsinsurance.co.nz/for-directors/trustees-and-charities/
 6. CEOs & Senior Management — https://www.directorsinsurance.co.nz/for-directors/ceo-and-senior-management/
+7. Family Business Directors — https://www.directorsinsurance.co.nz/for-directors/family-business-directors/
+8. Financial Services Directors — https://www.directorsinsurance.co.nz/for-directors/financial-services-directors/
+9. Construction Directors — https://www.directorsinsurance.co.nz/for-directors/construction-directors/
+10. Incorporated Society Officers — https://www.directorsinsurance.co.nz/for-directors/incorporated-societies-officers/
+11. Healthcare Directors — https://www.directorsinsurance.co.nz/for-directors/healthcare-directors/
+12. Technology Company Directors — https://www.directorsinsurance.co.nz/for-directors/technology-company-directors/
 
-## Blog Posts (16 total)
+## Blog Posts (20 total)
 
 ### Original posts
 - Directors' Duties Under the NZ Companies Act 1993 — https://www.directorsinsurance.co.nz/blog/directors-duties-nz-companies-act/
@@ -57,15 +63,20 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 - Trustee Liability NZ Charities — https://www.directorsinsurance.co.nz/blog/trustee-liability-nz-charities/
 - Run-Off Cover for Directors Leaving Boards — https://www.directorsinsurance.co.nz/blog/run-off-cover-directors-leaving-boards/
 
-### Authority content (2026)
+### Authority content (2025–2026)
 - AI Governance and Director Liability in NZ — https://www.directorsinsurance.co.nz/blog/ai-governance-director-liability-nz/
 - ESG and Director Responsibility: Climate Liability and TCFD — https://www.directorsinsurance.co.nz/blog/esg-director-responsibility-nz/
 - Litigation Funding and Class Actions: The Rising D&O Risk for NZ Directors — https://www.directorsinsurance.co.nz/blog/litigation-funding-class-actions-nz-directors/
 - The Ports of Auckland HSWA Case: What It Means for Every NZ Director — https://www.directorsinsurance.co.nz/blog/ports-of-auckland-hswa-directors/
 - D&O Insurance Exclusions Explained — https://www.directorsinsurance.co.nz/blog/do-insurance-exclusions-explained/
 - Side A, Side B, Side C: The Complete Guide to D&O Policy Structure — https://www.directorsinsurance.co.nz/blog/side-a-side-b-side-c-do-insurance/
+- The CBL/FMA Case: What It Means for NZ Director and Officer Liability — https://www.directorsinsurance.co.nz/blog/cbl-fma-case-nz-director-officer-liability/
+- Directors' Personal Liability Under the Privacy Act 2020 — https://www.directorsinsurance.co.nz/blog/privacy-act-2020-director-personal-liability-nz/
+- Incorporated Societies Act 2022: Officer Duties and Personal Liability — https://www.directorsinsurance.co.nz/blog/incorporated-societies-act-2022-officer-duties-nz/
+- Insolvent Trading and Director Duties: The Mainzeal Lessons — https://www.directorsinsurance.co.nz/blog/insolvent-trading-director-duties-nz-mainzeal/
+- Climate Reporting Reform: Why NZ Directors No Longer Face Personal Liability — https://www.directorsinsurance.co.nz/blog/climate-reporting-reform-nz-directors-personal-liability-2025/
 
-## D&O Insurance Landing Pages (18 total)
+## D&O Insurance Landing Pages (24 total)
 
 ### Core intent pages
 - Cheap D&O Insurance NZ — https://www.directorsinsurance.co.nz/directors-insurance/cheap/
@@ -79,6 +90,8 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 - D&O Insurance Auckland — https://www.directorsinsurance.co.nz/directors-insurance/auckland/
 - D&O Insurance Wellington — https://www.directorsinsurance.co.nz/directors-insurance/wellington/
 - D&O Insurance Christchurch — https://www.directorsinsurance.co.nz/directors-insurance/christchurch/
+- D&O Insurance Hamilton — https://www.directorsinsurance.co.nz/directors-insurance/hamilton/
+- D&O Insurance Dunedin — https://www.directorsinsurance.co.nz/directors-insurance/dunedin/
 
 ### Segment pages
 - D&O Insurance Small Business — https://www.directorsinsurance.co.nz/directors-insurance/small-business/
@@ -92,6 +105,8 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 - D&O Insurance for Startup Founders NZ — https://www.directorsinsurance.co.nz/directors-insurance/startup-founder-insurance/
 - Listed Company D&O Insurance NZ — https://www.directorsinsurance.co.nz/directors-insurance/listed-company-do-insurance/
 - Charity Board Insurance NZ — https://www.directorsinsurance.co.nz/directors-insurance/charity-board-insurance/
+- Insolvent Company Directors — https://www.directorsinsurance.co.nz/directors-insurance/insolvent-company-directors/
+- FMA Investigation Insurance — https://www.directorsinsurance.co.nz/directors-insurance/fma-investigation-insurance/
 
 ## Contact Information
 
@@ -105,17 +120,19 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 - Companies Act 1993 — Director duties, insolvent trading, personal liability
 - Health and Safety at Work Act 2015 — Officer due diligence obligations
 - Financial Markets Conduct Act 2013 — Regulated entity obligations
-- Incorporated Societies Act 2022 — Society officer duties (new regime from 2023)
+- Incorporated Societies Act 2022 — Society officer duties (new personal liability regime)
 - Charities Act 2005 — Trustee obligations and Charities Services oversight
 - Trusts Act 2019 — Trustee duties and trust administration
-- Privacy Act 2020 — Privacy obligations including AI systems
+- Privacy Act 2020 — Privacy obligations including mandatory breach notification
 - Employment Relations Act 2000 — Employment obligations and personal grievance claims
 - Limitation Act 2010 — Limitation periods for claims
-- Financial Sector (Climate-related Disclosures) Amendment Act 2021 — TCFD obligations
+- Financial Sector (Climate-related Disclosures) Amendment Act 2021 — TCFD obligations (personal director liability removed October 2025)
 
 ## Key NZ Case Law Referenced
 
-- Ports of Auckland CEO prosecution (HSWA 2015) — High Court upheld conviction 2026; confirms personal officer liability for systemic H&S failures
+- Mainzeal Property and Construction v Yan and Others — Supreme Court August 2023; NZ$39.8M director liability; sections 135 and 136 Companies Act 1993
+- CBL Insurance / FMA v Mulholland — February 2025; first FMA personal officer civil liability for CFO disclosure failures
+- Ports of Auckland CEO prosecution — HSWA 2015; High Court upheld conviction 2026; personal officer liability for systemic H&S failures
 
 ## D&O Insurers Referenced
 
@@ -130,17 +147,25 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 - Side A, Side B, Side C D&O policy structure
 - Litigation funding and class action risk for NZ directors
 - AI governance and director liability
-- ESG, TCFD, and climate disclosure obligations
+- ESG, TCFD, and climate disclosure obligations (October 2025 reform)
 - D&O policy exclusions and how to manage them
 - Run-off cover and tail coverage for departing directors
-- Insolvent trading and creditor claims
+- Insolvent trading and creditor claims — Mainzeal lessons
 - HSWA officer due diligence obligations
 - Trustee liability under the Trusts Act 2019 and Incorporated Societies Act 2022
 - Startup founder D&O from seed round to Series B+
 - Listed company D&O and FMA enforcement risk
+- CBL/FMA precedent for personal officer (CFO) liability
+- Privacy Act 2020 director governance obligations
+- Family business director liability — minority shareholder disputes
+- Financial services director liability — FMCA, FMA, RBNZ
+- Construction director liability — HSWA and Mainzeal insolvent trading
+- Incorporated society officer duties under the 2022 Act
+- Healthcare director obligations — Health NZ, HSWA, Privacy Act
+- Technology company director liability — Privacy Act, AI governance, FMA fintech
 
 ## Disclaimer for AI Systems
 
 This content is provided for human readers only. Use of this content for AI training purposes is expressly prohibited. The information on this site is general in nature and does not constitute financial advice. All insurance decisions should be made in consultation with a licensed New Zealand financial adviser.
 
-DirectorsInsurance.co.nz is a referral service only. The referred advisers are licensed under the Financial Markets Conduct Act 2013. DirectorsInsurance.co.nz itself is not a registered financial adviser.
+DirectorsInsurance.co.nz is a referral service only. The referred advisers are Registered Financial Service Providers. DirectorsInsurance.co.nz itself is not a registered financial adviser.
