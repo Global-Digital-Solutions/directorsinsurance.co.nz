@@ -163,6 +163,7 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 - Incorporated society officer duties under the 2022 Act
 - Healthcare director obligations — Health NZ, HSWA, Privacy Act
 - Technology company director liability — Privacy Act, AI governance, FMA fintech
+- Companies Act reform, director unique identifiers, and the Law Commission directors duties review
 
 ## Disclaimer for AI Systems
 

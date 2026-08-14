@@ -1358,6 +1358,78 @@ The October 2025 reform is a good-faith adjustment that recognises the distincti
 
 Directors and their governance advisers need to stay current with these changes and ensure that insurance programmes reflect the actual liability profile at any given time.`,
   },
+  {
+    slug: 'company-law-reform-directors-duties-review-nz',
+    title: 'Company Law Reform and the Directors\' Duties Review: What Boards Should Expect',
+    metaTitle: "Directors' Duties Review & Company Law Reform 2026",
+    metaDesc: 'Company law reform brings director identifiers, longer insolvency claw-backs and a Law Commission review of directors duties. What boards need to know.',
+    date: '2026-08-14',
+    author: 'DirectorsInsurance.co.nz Editorial',
+    authorBio: 'Our editorial team brings together over 20 years of experience in commercial insurance, governance, and financial services regulation.',
+    category: 'Regulatory',
+    readTime: '9 min read',
+    excerpt: 'A phased overhaul of company law is underway — unique director identifiers, longer claw-back periods for related-party transactions, and a Law Commission review of directors duties, liability and sanctions. Here is what it means for personal board exposure.',
+    content: `## Why Company Law Is Being Rewritten
+
+The Companies Act 1993 governs how roughly 730,000 companies are established, operated and wound up. It is now more than three decades old, and while much of it still works, successive governments have accepted that parts of it are out of date, ambiguous or unnecessarily complex. In August 2024 Cabinet agreed to a phased package of reforms to company law and related corporate governance legislation, and that programme is now working its way through Parliament and the Law Commission.
+
+For directors, this is not an abstract legislative housekeeping exercise. The reform package touches the two things that determine personal exposure at board level: how easily a director can be identified and traced across entities, and how directors' duties are defined and enforced when a company fails.
+
+## Phase One: What Is Already Moving
+
+The first phase concentrates on four areas — modernising and digitising the Act, introducing a unique identifier for directors, improving outcomes for creditors in insolvency, and driving uptake of the Business Number.
+
+### A Unique Identifier for Every Director
+
+The most consequential change for individual directors is the introduction of a unique identifier for company directors and general partners of limited partnerships. At present, tracing an individual's full directorship history across the Companies Register relies on name matching, which is unreliable where names are common or spelling varies between filings.
+
+A permanent identifier removes that friction. The stated policy purpose is to make it easier to identify and act against poor and illegal business practices, particularly phoenixing — the practice of allowing a failing company to collapse and relaunching essentially the same business through a new entity, leaving creditors behind.
+
+The practical effect for legitimate directors is greater visibility. Regulators, liquidators, litigation funders and plaintiff lawyers will be able to assemble a complete picture of an individual's directorships in a single query. A director who serves on eight boards, one of which fails badly, becomes easier to find in connection with the other seven. That is not a new legal liability, but it does change the practical likelihood of being drawn into proceedings.
+
+### Address for Service Instead of a Home Address
+
+The same tranche of reform allows directors and shareholders to list an address for service — typically a lawyer's or accountant's office — in place of their residential address on the public register. This responds to safety and privacy concerns that have been raised consistently by directors of companies operating in contentious sectors.
+
+Boards should treat this as an administrative task worth completing promptly once the provisions commence. Removing home addresses from a public register is a meaningful risk reduction for directors who face activist attention or aggrieved customers.
+
+### Longer Claw-Back Periods in Insolvency
+
+The creditor-focused reforms follow recommendations of the Insolvency Working Group. Among them is an extension of the period during which transactions with related parties can be voided when a business is insolvent — proposed to move to four years.
+
+For directors, related-party transactions entered into well before a company's difficulties became obvious will remain open to challenge for considerably longer. Board minutes recording the commercial rationale for related-party dealings need to be kept and kept properly, because the record may be examined years after the event.
+
+## Phase Two: The Law Commission Review of Directors' Duties
+
+The second phase is the one that will matter most to personal liability. Rather than drafting amendments directly, the Government referred directors' duties to the Law Commission for a full review covering the duties themselves, director liability, sanctions and more effective enforcement.
+
+### The Mainzeal Question
+
+The review was framed expressly to address the issues raised by the Mainzeal litigation. The Supreme Court's 2023 decision left directors and their advisers with an uncomfortable outcome: the law on reckless trading and the law on assessing compensation for breach did not sit together neatly, and the size of an award bore an uncertain relationship to the seriousness of the breach.
+
+Directors want to know, before they act, what standard they are being held to and what the financial consequences of getting it wrong might be. The current sections 135 and 136 of the Companies Act do not deliver that clarity, and the Law Commission's terms of reference acknowledge as much.
+
+### Liability, Sanctions and Enforcement
+
+The review also covers the enforcement architecture — who can bring proceedings, what sanctions are available, and whether the balance between civil, criminal and regulatory responses is right. Outcomes here could move in either direction. A clearer safe harbour for directors who take proper advice during financial distress would reduce exposure. A broader suite of sanctions, or easier routes to bringing claims, would increase it.
+
+Because the Commission's work is a full law reform project rather than a targeted amendment, boards should not expect final legislation quickly. The sensible planning assumption is a period of consultation and reporting, followed by a Government response and then a bill.
+
+## What This Means for Board Risk in the Meantime
+
+Nothing in the reform programme reduces a director's current obligations. The duties in sections 131 to 137 apply exactly as they did before, and the case law developed through Mainzeal and its successors remains good law until Parliament changes it.
+
+What does change is the operating environment. Directorship histories become easier to compile, related-party transactions stay reviewable for longer, and the entire question of how directors are held to account is under public examination. Periods of legal uncertainty tend to be periods of increased claims activity, because plaintiffs test boundaries while they are still being drawn.
+
+## How Directors and Officers Cover Responds
+
+D&O insurance is designed for precisely this kind of environment. A well-structured policy funds defence costs from the first regulatory letter or liquidator's demand, rather than after liability is established, and it does so for the individual director rather than the company.
+
+Two features deserve particular attention in light of the reform programme. Side A cover protects the director personally where the company cannot or will not indemnify — which is the position that arises in almost every insolvency-related claim. Run-off cover protects a director after they leave a board, and matters more as claw-back and review periods lengthen; a claim arising from a transaction entered into four years earlier is of no use to a director whose cover ended on resignation.
+
+Directors joining or leaving boards during this period of reform should confirm both points with their broker rather than assume the company policy handles them. Get a quote through an adviser who can explain how the policy responds to an insolvency claim in practice, not just what the schedule says.
+`,
+  },
 ]
 
 export function getBlogBySlug(slug: string): BlogPost | undefined {
