@@ -3,6 +3,7 @@ import './globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import ExitIntentPopup from '@/components/ExitIntentPopup'
+import Analytics from '@/components/Analytics'
 import { siteConfig } from '@/data/site-config'
 
 export const metadata: Metadata = {
@@ -104,6 +105,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main>{children}</main>
         <Footer />
         <ExitIntentPopup />
+        <Analytics />
       </body>
     </html>
   )
