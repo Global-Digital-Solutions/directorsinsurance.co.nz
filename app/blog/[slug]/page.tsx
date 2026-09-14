@@ -18,13 +18,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = getBlogBySlug(slug)
   if (!post) return {}
   return {
-    title: post.title,
-    description: post.excerpt,
+    title: post.metaTitle || post.title,
+    description: post.metaDesc || post.excerpt,
     alternates: { canonical: `${siteConfig.url}/blog/${slug}/` },
     openGraph: {
       type: 'article',
-      title: post.title,
-      description: post.excerpt,
+      title: post.metaTitle || post.title,
+      description: post.metaDesc || post.excerpt,
       url: `${siteConfig.url}/blog/${slug}/`,
       publishedTime: post.date,
       authors: [post.author],

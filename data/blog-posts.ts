@@ -1,11 +1,14 @@
 export interface BlogPost {
   slug: string
   title: string
+  metaTitle?: string
+  metaDesc?: string
   excerpt: string
   category: string
   readTime: string
   date: string
   author: string
+  authorBio?: string
   content: string
 }
 
@@ -1428,6 +1431,78 @@ D&O insurance is designed for precisely this kind of environment. A well-structu
 Two features deserve particular attention in light of the reform programme. Side A cover protects the director personally where the company cannot or will not indemnify — which is the position that arises in almost every insolvency-related claim. Run-off cover protects a director after they leave a board, and matters more as claw-back and review periods lengthen; a claim arising from a transaction entered into four years earlier is of no use to a director whose cover ended on resignation.
 
 Directors joining or leaving boards during this period of reform should confirm both points with their broker rather than assume the company policy handles them. Get a quote through an adviser who can explain how the policy responds to an insolvency claim in practice, not just what the schedule says.
+`,
+  },
+  {
+    slug: 'cartel-conduct-bid-rigging-director-criminal-liability',
+    title: "Cartel Conduct, Bid-Rigging and Personal Criminal Liability for Directors",
+    metaTitle: "Cartel Conduct & Director Criminal Liability",
+    metaDesc: 'Cartel conduct carries up to seven years imprisonment for individuals, and the Commerce Act restricts company indemnities. What directors need to know.',
+    date: '2026-09-14',
+    author: 'DirectorsInsurance.co.nz Editorial',
+    authorBio: 'Our editorial team brings together over 20 years of experience in commercial insurance, governance, and financial services regulation.',
+    category: 'Regulatory',
+    readTime: '9 min read',
+    excerpt: 'The first criminal cartel prosecution has run its full course, and it reveals two things boards routinely underestimate: how easily a tender arrangement becomes a crime, and how little of the resulting liability a company is legally permitted to indemnify.',
+    content: `## Why Competition Law Became a Personal Risk
+
+Competition law used to sit in the category of corporate risk that boards delegated downwards. A breach meant a pecuniary penalty against the company, a regulator's media release, and an uncomfortable quarter. It did not threaten the liberty of the people sitting around the board table.
+
+That changed on 8 April 2021, when cartel conduct became a criminal offence. Section 30 of the Commerce Act prohibits any person entering into a contract or arrangement, or arriving at an understanding, that contains a cartel provision — a provision between competitors with the purpose or likely effect of fixing prices, restricting output or allocating markets. Since April 2021, intentionally engaging in that conduct is punishable by up to seven years imprisonment, alongside the civil pecuniary penalties that already applied.
+
+The first prosecution brought under those provisions has now run its full course. It tells directors a good deal about how the regime works in practice, and about where their own cover stops.
+
+## What the First Criminal Cartel Case Established
+
+The Commerce Commission investigation began in April 2022, triggered by an accident. An employee of one of the companies involved inadvertently sent a spreadsheet containing competitor tender pricing to the joint venture managing the Northern Corridor Improvement Project. The employee had attended meetings about the tender and knew of the plan to rig the bids.
+
+In May 2022 the Commission executed six early-morning search warrants simultaneously across two commercial and four residential properties, an operation involving roughly 40 Commission staff, police officers and specialist digital forensic investigators. The evidence seized revealed the refurbishment of Auckland Transport's Middlemore Bridge had also been subject to the same conduct.
+
+### The Sentences Handed Down
+
+In December 2024 the Auckland High Court sentenced company director Munesh Kumar and his construction company, MaxBuild Limited. Both had pleaded guilty to four charges of price fixing. Justice Michele Wilkinson-Smith described the offending as "serious and deliberate" and as a "deliberate and concerted strategy to rig bids for financial gain".
+
+Two figures from that judgment deserve a board's attention. The Court accepted that, were it not for a number of mitigating factors, a sentence of two years imprisonment would have been appropriate for Mr Kumar personally, and a penalty of around $1 million for MaxBuild. What was actually imposed — six months community detention, 200 hours community work, and a $500,000 fine on the company — reflected an early guilty plea and other mitigation. The starting point, rather than the discount, is the honest measure of the exposure.
+
+### The Junior Party Was Not Excused
+
+The case concluded in October 2025 with the sentencing of a second company, which holds interim name suppression. Justice Sally Fitzgerald assessed an appropriate fine of $595,000 but imposed $30,000, being all the company could pay, taking into account that it was no longer actively trading and was in a negative financial position.
+
+The reasoning matters more than the number. The second company did not instigate the scheme and did not directly benefit from it. It submitted bids that kept it in contention for future work from the procurer. The Court nonetheless found it had taken "active steps in the collusive behaviour" and that "but for them, the conduct could not have taken place". Being the accommodating party to someone else's arrangement is not a defence.
+
+## Bid-Rigging Is Easier to Fall Into Than Boards Assume
+
+Cover pricing sits at the centre of most bid-rigging cases. One party submits a deliberately inflated tender so that a designated competitor wins. It rarely arrives at a business looking like a conspiracy. It arrives as a favour to a long-standing peer, or as a way of staying on a procurer's shortlist during a period when the firm lacks capacity to deliver.
+
+Commission Chair Dr John Small has said cover pricing is an issue the Commission is detecting more of, that cartel detection and enforcement remain an enforcement priority, and that the Commission is particularly concerned by conduct targeting taxpayer-funded projects. Construction, civil works and professional services firms that tender for public contracts sit squarely in that field of view.
+
+A director's exposure is not confined to conduct they personally arranged. Directors who knew of an arrangement, who were in the room when it was discussed, or who approved tender documents prepared on that basis are all within scope for scrutiny.
+
+## The Indemnity Restriction Boards Overlook
+
+This is the provision that catches most boards by surprise. Section 80A of the Commerce Act restricts a body corporate from indemnifying a director, servant or agent against liability for a pecuniary penalty under section 80 arising from a deemed cartel provision, or against costs incurred in defending or settling proceedings relating to that liability. An indemnity given in contravention of the section is void. Under section 80B, the Court may order the body corporate to pay a penalty of up to twice the value of the indemnity it gave.
+
+The general indemnity in a company constitution, which most directors rely on without ever reading closely, does not extend to this category of liability. A director drawn into a cartel investigation can find themselves funding their own defence from personal assets while the company is legally barred from helping.
+
+## Where Directors and Officers Cover Fits
+
+D&O insurance does not pay a criminal fine or a pecuniary penalty imposed for deliberate cartel conduct. No insurer offers that, and public policy would not allow it. A board that assumes otherwise has misread its policy.
+
+What a properly structured policy does provide is cover for the cost of responding to a regulatory investigation, and that is where the real protection lies. Most individuals caught up in a Commerce Commission investigation are never charged. They are interviewed, they answer statutory notices, they surrender documents and devices, and they need independent legal representation throughout, separate from the company's counsel, because the interests of the company and the individual diverge quickly once investigators arrive.
+
+Three features are worth confirming with an adviser rather than assuming:
+
+- Whether investigation costs are triggered by a search warrant or statutory notice, or only once formal proceedings are filed
+- Whether Side A cover responds in the situation section 80A creates, where the company is legally prohibited from indemnifying
+- How the deliberate conduct exclusion is drafted, and in particular whether defence costs are advanced until a final adjudication rather than withdrawn on allegation alone
+
+That last point determines whether a policy is useful during a cartel investigation.
+
+## What Boards Should Do Now
+
+Competition compliance belongs on the board agenda in any business that tenders competitively, not solely in the legal function. Directors should be able to say who in the organisation has contact with competitors, on what terms, and what training those people have had. Tender approvals should record why a price was set where it was, and any approach from a competitor about a tender should be declined and documented.
+
+Get a quote through an adviser who can explain how a policy responds to a regulatory investigation in practice, and who can confirm what happens to defence costs at the point an allegation of deliberate conduct is made.
 `,
   },
 ]
