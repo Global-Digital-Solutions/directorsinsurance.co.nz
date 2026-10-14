@@ -32,6 +32,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
+function formatInline(text: string) {
+  return text
+    .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+    .replace(
+      /\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,
+      (_m, label: string, url: string) => {
+        const internal = url.startsWith('https://www.directorsinsurance.co.nz/')
+        const attrs = internal ? '' : ' target="_blank" rel="noopener noreferrer"'
+        return `<a href="${url}" class="text-orange-500 hover:text-orange-600 underline"${attrs}>${label}</a>`
+      }
+    )
+}
+
 function renderContent(content: string) {
   const lines = content.split('\n')
   const elements: React.ReactNode[] = []
@@ -79,7 +92,7 @@ function renderContent(content: string) {
       }
       elements.push(
         <ul key={i} className="list-disc list-inside space-y-1 my-4 text-gray-600">
-          {items.map((item, j) => <li key={j} dangerouslySetInnerHTML={{ __html: item.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') }} />)}
+          {items.map((item, j) => <li key={j} dangerouslySetInnerHTML={{ __html: formatInline(item) }} />)}
         </ul>
       )
       continue
@@ -91,14 +104,14 @@ function renderContent(content: string) {
       }
       elements.push(
         <ol key={i} className="list-decimal list-inside space-y-1 my-4 text-gray-600">
-          {items.map((item, j) => <li key={j} dangerouslySetInnerHTML={{ __html: item.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') }} />)}
+          {items.map((item, j) => <li key={j} dangerouslySetInnerHTML={{ __html: formatInline(item) }} />)}
         </ol>
       )
       continue
     } else if (line.trim() === '') {
       // skip blank lines
     } else {
-      const text = line.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+      const text = formatInline(line)
       elements.push(<p key={i} className="text-gray-600 leading-relaxed mb-4" dangerouslySetInnerHTML={{ __html: text }} />)
     }
     i++

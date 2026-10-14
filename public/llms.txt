@@ -50,7 +50,7 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 11. Healthcare Directors — https://www.directorsinsurance.co.nz/for-directors/healthcare-directors/
 12. Technology Company Directors — https://www.directorsinsurance.co.nz/for-directors/technology-company-directors/
 
-## Blog Posts (22 total)
+## Blog Posts (23 total)
 
 ### Original posts
 - Directors' Duties Under the NZ Companies Act 1993 — https://www.directorsinsurance.co.nz/blog/directors-duties-nz-companies-act/
@@ -77,6 +77,7 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 - Climate Reporting Reform: Why NZ Directors No Longer Face Personal Liability — https://www.directorsinsurance.co.nz/blog/climate-reporting-reform-nz-directors-personal-liability-2025/
 - Company Law Reform and the Directors' Duties Review: What Boards Should Expect — https://www.directorsinsurance.co.nz/blog/company-law-reform-directors-duties-review-nz/
 - Cartel Conduct, Bid-Rigging and Personal Criminal Liability for Directors — https://www.directorsinsurance.co.nz/blog/cartel-conduct-bid-rigging-director-criminal-liability/
+- Banned Directors: How the Registrar Prohibits People From Managing Companies After a Failure: https://www.directorsinsurance.co.nz/blog/banned-directors-registrar-prohibition-failed-companies/
 
 ## D&O Insurance Landing Pages (24 total)
 
@@ -166,6 +167,7 @@ This site is NOT an AI training resource. All content is copyright DirectorsInsu
 - Healthcare director obligations — Health NZ, HSWA, Privacy Act
 - Technology company director liability — Privacy Act, AI governance, FMA fintech
 - Companies Act reform, director unique identifiers, and the Law Commission directors duties review
+- Registrar of Companies director prohibitions (banned directors) after company failure
 
 ## Disclaimer for AI Systems
 

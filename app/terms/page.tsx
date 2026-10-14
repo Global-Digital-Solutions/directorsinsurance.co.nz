@@ -44,6 +44,7 @@ export default function TermsPage() {
             <section>
               <h2 className="text-xl font-bold text-gray-900 mb-3">4. Accuracy of Information</h2>
               <p>We take reasonable care to ensure the accuracy of information on this Website, but we make no warranty as to its completeness, accuracy, or currency. Insurance products, pricing, and availability change regularly. Always verify current details with the relevant insurer or broker.</p>
+              <p id="provider-information" className="mt-3">Information about insurers and other providers was accurate at the time of publishing, but it may change after publication. Please confirm current details directly with the provider before relying on them. Readers and providers can report outdated or incorrect information to <a href="mailto:hello@cover4you.co.nz" className="text-orange-500 hover:underline">hello@cover4you.co.nz</a>.</p>
             </section>
 
             <section>

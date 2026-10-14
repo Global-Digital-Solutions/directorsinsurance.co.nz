@@ -1210,52 +1210,73 @@ D&O insurance provides directors with financial protection when a Privacy Commis
 
   {
     slug: 'incorporated-societies-act-2022-officer-duties-nz',
-    title: 'Incorporated Societies Act 2022: New Officer Duties and Personal Liability for NZ Community Organisations',
-    metaTitle: 'Incorporated Societies Act 2022 Officer Duties NZ | Personal Liability | DirectorsInsurance.co.nz',
-    metaDesc: "The Incorporated Societies Act 2022 created personal liability for officers of NZ's 24,000+ sports clubs and community groups. What the new duties mean and how to protect yourself.",
-    date: '2025-10-05',
+    title: 'Incorporated Societies Act 2022: Officer Duties and Personal Liability for Community Organisations',
+    metaTitle: 'Incorporated Societies Act 2022: Officer Duties & Liability',
+    metaDesc: 'The reregistration deadline has passed. What the Incorporated Societies Act 2022 officer duties require, and how indemnity and insurance are restricted.',
+    date: '2026-10-14',
     author: 'DirectorsInsurance.co.nz Editorial',
-    authorBio: 'Our editorial team brings together over 20 years of experience in New Zealand commercial insurance, governance, and financial services regulation.',
     category: 'Regulatory',
-    readTime: '7 min read',
-    excerpt: 'The Incorporated Societies Act 2022 is the most significant reform to the governance of NZ community organisations in over a century. For the first time, officers of sports clubs, professional associations, and community groups carry express personal liability duties.',
-    content: `## A Century of Regulatory Inertia — Then Everything Changed
+    readTime: '6 min read',
+    excerpt: 'The Incorporated Societies Act 2022 gave officers of sports clubs and community groups express legal duties. With the reregistration deadline now passed, here is what those duties require and why the Act restricts how societies can indemnify and insure their officers.',
+    content: `## Volunteer Roles With Real Legal Duties
 
-For most of New Zealand's modern history, the governance of incorporated societies operated under the Incorporated Societies Act 1908 — a piece of legislation that predates the First World War and that imposed essentially no personal liability on the officers who governed these organisations. Sports club presidents, school association chairs, and community group committee members took on these roles with the reasonable assumption that their volunteer status protected them from meaningful personal exposure.
+Sports club presidents, treasurers and community group committee members have long taken on their roles assuming that volunteer status kept personal exposure low. The Incorporated Societies Act 2022 changed that picture. It replaced the Incorporated Societies Act 1908, came into force on 5 October 2023, and for the first time set out express duties for the officers who run incorporated societies.
 
-The Incorporated Societies Act 2022 fundamentally changed this assumption. It replaced the 1908 Act and introduced — for the first time in New Zealand — express, enforceable duties for officers of incorporated societies. These duties are modelled closely on the director duties that apply to company directors under the Companies Act 1993. The consequence is that officers of New Zealand's approximately 24,000 incorporated societies now carry a personal liability profile that most of them do not know about.
+The transition period has now ended. The Companies Office confirms that the [reregistration deadline was 5 April 2026](https://is-register.companiesoffice.govt.nz/help-centre/getting-started/how-recent-law-changes-affect-incorporated-societies/) and that from 6 April 2026 only the 2022 Act applies. Every society still on the register now operates under the new duty framework.
 
-## What the New Officer Duties Require
+## Who Counts as an Officer
 
-The Incorporated Societies Act 2022 imposed six express duties on officers. An "officer" under the Act includes the committee, any person who holds a position that allows them to exercise significant influence over management, and in some cases key managers of larger organisations.
+According to the Companies Office guidance on [committees and officers](https://is-register.companiesoffice.govt.nz/help-centre/running-your-incorporated-society/committees-and-officers/), every committee member is an officer. Others can be officers too, including anyone who holds a position with significant influence over the society's management or administration, even if they do not sit on the committee. A committee must have at least three officers.
 
-Act in good faith in the best interests of the society. Exercise powers for a proper purpose. Comply with the Act and the society's constitution. Exercise the care, diligence, and skill of a reasonable person with the same responsibilities. Not cause the society to act in a way that creates a substantial risk of serious loss to creditors if the society cannot pay its debts. Disclose and manage conflicts of interest.
+Officers must be at least 16 and must consent and certify in writing that they are not disqualified. Grounds for disqualification include being a current bankrupt, being prohibited from acting as a company director or promoter, and certain convictions in the previous seven years, such as dishonesty offences.
 
-## The Re-Registration Requirement
+## The Six Officer Duties
 
-All incorporated societies must re-register under the 2022 Act by 5 April 2026. Re-registration is not automatic — societies must actively apply through the Registrar of Incorporated Societies' online system and update their constitutions to comply with the new Act's requirements.
+The Companies Office describes the officer duties in sections 54 to 61 of the [Incorporated Societies Act 2022](https://www.legislation.govt.nz/act/public/2022/12/en/latest/) as modelled on the duties of company directors. Officers must:
 
-For officers, the practical consequence of re-registration is that each officer of a re-registered society explicitly operates under the new duty framework — creating both clarity about obligations and direct accountability for compliance.
+- Act in good faith and in the best interests of the society
+- Exercise powers for proper purposes only
+- Comply with the Act and the society's constitution
+- Exercise reasonable care and diligence
+- Not create a substantial risk of serious loss to the society's creditors
+- Not incur an obligation they do not reasonably believe the society can perform
 
-## What Can Happen When Officers Breach Their Duties
+Section 61 states that these duties are owed to the society rather than to members.
 
-The society or members can bring proceedings against an officer who breaches their duties — seeking compensation for losses the society suffered as a result. An officer who acts in breach of the conflict of interest obligations can be required to account for any profit they received.
+## How the Duties Are Enforced
 
-The Registrar of Incorporated Societies has investigative powers and can take enforcement action against societies and officers who repeatedly breach the Act's requirements.
+Under section 133 of the Act, a court may make orders against an officer or former officer who has breached a duty. Section 134 sets out who may apply: the society itself, a member or officer through the routes the Act provides, or the Registrar. The Registrar may apply only where the breach is serious and it is in the public interest to do so.
 
-For employment disputes — one of the most common claim types for community organisations with paid staff — the Employment Relations Authority can examine individual officer conduct in determining whether due process was followed.
+The Companies Office also lists six new criminal offences under the 2022 Act in its summary of [key changes from the 1908 Act](https://is-register.companiesoffice.govt.nz/law-changes-for-societies/key-changes/), including making false statements, fraudulent use or destruction of property, and breaching a banning order.
 
-## Why Insurance Is Now Essential
+## Indemnity and Insurance Are Restricted
 
-Most officers of incorporated societies serve as volunteers. The introduction of express personal liability duties under the 2022 Act does not change the value of this contribution — but it does change the risk profile.
+This is the part of the Act many committees have not read closely. Section 94 says a society must not indemnify, or directly or indirectly effect insurance for, its officers, members or employees except as the Act permits. An indemnity given in breach is void.
 
-A single employment dispute from a paid employee, a WorkSafe investigation following a sports club event, or a member challenge to a governance decision can generate legal costs that an individual volunteer officer cannot absorb personally. Management liability and officer indemnity insurance for incorporated societies addresses this gap. Cover typically includes legal defence costs for claims against officers personally, employment practices liability for organisations with paid staff, statutory liability for WorkSafe prosecution defence, and crime cover for organisations handling significant funds.
+The permitted routes are narrow:
 
-The cost of appropriate cover for most incorporated societies is modest — NZ$600–$2,000 per year — representing a small fraction of the cost of defending even a single employment or governance claim without insurance.
+- Section 96 allows a society to indemnify for liability to people other than the society, but not for criminal liability or for a failure to act in good faith and in the society's best interests
+- Section 97 allows insurance only with the prior approval of the committee, excludes criminal liability (although defence costs can be covered if the person is acquitted), and requires the officers who vote for it to sign a certificate that the cost is fair to the society
+- Section 98 allows indemnity or insurance for a breach of the officer duties only if it is expressly authorised by the society's constitution
 
-## The Registration Deadline Is an Action Trigger
+The practical consequence is simple. If a society's constitution is silent on indemnity and insurance for breaches of officer duties, a policy bought to protect the committee may not be able to respond to the very claims volunteers most worry about. When a society next reviews its constitution, this is worth checking.
 
-With the April 2026 re-registration deadline, now is the time for officers of incorporated societies to take two concrete actions: ensure the society re-registers on time, and review whether the society's governance officers are protected by appropriate liability insurance.`,
+## Societies That Did Not Reregister
+
+According to the Companies Office, any society that did not reregister, appoint a liquidator or apply to be dissolved by the deadline has been [removed from the register](https://is-register.companiesoffice.govt.nz/law-changes-for-societies/what-happens-if-your-society-doesnt-reregister/) and has ceased to legally exist. The guidance warns that such a group loses its separate legal identity, its bank account access and its name protection, and that members could become personally liable for its debts, financial obligations or leases.
+
+A removed society can apply to be restored before 6 April 2032. The Companies Office states that an application needs a constitution that complies with the 2022 Act, contact details and details of committee members and officers, and that the restoration fee is $177.78 plus GST. Any group that has carried on operating after removal should treat restoration as urgent, because until it is restored the people running it are acting without the protection of an incorporated body.
+
+## Protecting Committee Members
+
+Most officers are volunteers, and the Act does not change the value of that contribution. It does change the risk. An employment dispute with a paid staff member, a member challenge to a governance decision, or a health and safety investigation after an event can all generate legal costs that a volunteer could not comfortably absorb.
+
+Management liability and officers' liability policies are designed to fund the defence of claims against officers personally. Before arranging cover, a committee should confirm three things: that the committee has approved the insurance in the way section 97 requires, that the constitution expressly authorises cover for breaches of officer duties if that protection is wanted, and that the policy wording responds to the kinds of claims the society is realistically likely to face.
+
+For more on governance roles in the not-for-profit sector, see our guide to [trustee liability for charity board members](https://www.directorsinsurance.co.nz/blog/trustee-liability-nz-charities/).
+
+Get a Quote through an adviser who can review the policy alongside the society's constitution.
+`,
   },
 
   {
@@ -1503,6 +1524,83 @@ That last point determines whether a policy is useful during a cartel investigat
 Competition compliance belongs on the board agenda in any business that tenders competitively, not solely in the legal function. Directors should be able to say who in the organisation has contact with competitors, on what terms, and what training those people have had. Tender approvals should record why a price was set where it was, and any approach from a competitor about a tender should be declined and documented.
 
 Get a quote through an adviser who can explain how a policy responds to a regulatory investigation in practice, and who can confirm what happens to defence costs at the point an allegation of deliberate conduct is made.
+`,
+  },
+  {
+    slug: 'banned-directors-registrar-prohibition-failed-companies',
+    title: 'Banned Directors: How the Registrar Prohibits People From Managing Companies After a Failure',
+    metaTitle: 'Banned Directors: How Registrar Prohibitions Work',
+    metaDesc: 'The Registrar of Companies can ban a director of a failed company for up to ten years. How prohibitions work, what they cover, and where D&O cover fits.',
+    date: '2026-10-14',
+    author: 'DirectorsInsurance.co.nz Editorial',
+    category: 'Legal Guide',
+    readTime: '6 min read',
+    excerpt: 'Between March and July 2026 the Companies Office published prohibition notices covering 20 people. How the Registrar decides to ban a director after a company failure, what a ban covers, and what directors of struggling companies should do now.',
+    content: `## Why a Company Failure Can Follow a Director
+
+When a company collapses, most directors expect the consequences to stay with the company: a liquidator, unpaid creditors, perhaps a difficult conversation with the bank. Few expect the failure to follow them personally into their next venture. Yet the Companies Act 1993 gives the Registrar of Companies a direct way to stop a person from running any company at all, and the Registrar is using it steadily.
+
+Between March and July 2026, the Companies Office published prohibition notices covering 20 people. Its [March 2026 notice](https://companies-register.companiesoffice.govt.nz/news-and-notices/director-prohibitions-issued-in-march-2026/) named seven people, the [April and May 2026 notice](https://companies-register.companiesoffice.govt.nz/news-and-notices/director-prohibitions-imposed-in-april-and-may-2026/) named eight people linked to 16 failed companies, and the [June and July 2026 notice](https://companies-register.companiesoffice.govt.nz/news-and-notices/director-prohibitions-imposed-in-june-and-july-2026/) named five people linked to seven companies. The bans ran from two years to the full ten.
+
+For anyone sitting on a board of a business under financial strain, it is worth understanding how this power works before it is needed.
+
+## The Three Routes to a Ban
+
+The Companies Office explains on its [banned directors guidance page](https://companies-register.companiesoffice.govt.nz/help-centre/company-directors/banned-directors/) that a person can be prevented from acting as a director in several ways.
+
+### Mismanagement of a Failed Company
+
+The Registrar can prohibit a person who was a director or manager of a company that failed within the previous five years, for example through voluntary administration, receivership or liquidation. The Registrar assesses whether mismanagement contributed to the failure. If it did, the ban can last up to a maximum of ten years. The power sits in [section 385 of the Companies Act](https://www.legislation.govt.nz/act/public/1993/0105/latest/DLM323259.html), which also gives the FMA a parallel power.
+
+The Companies Office describes the purpose of these prohibitions as removing "higher risk individuals from the commercial arena", protecting the public and deterring poor management.
+
+### Conviction for a Company or Dishonesty Offence
+
+Under [section 382](https://www.legislation.govt.nz/act/public/1993/0105/latest/DLM323249.html), a person convicted of certain offences connected with the promotion, formation or management of a company, or of a crime involving dishonesty as defined in the Crimes Act 1961, may not act as a director or promoter, or take part in management, for five years after the conviction. The restriction can be lifted only with the leave of the court. The Companies Office notes that a convicted person is prohibited even if their name does not appear on the banned directors database.
+
+### Court Orders and Overseas Prohibitions
+
+The courts have their own disqualification power under [section 383](https://www.legislation.govt.nz/act/public/1993/0105/latest/DLM323252.html). Separately, the Companies Office states that a person prohibited under Australian law from acting as a director, or from taking part in managing a company, cannot be a director here either. Undischarged bankrupts also cannot act as directors, although current bankruptcies are recorded on the Insolvency Register rather than the banned directors database.
+
+## What a Ban Actually Covers
+
+A prohibition is broader than losing a seat at the board table. Section 382 frames the restriction as being unable to act as a director or promoter of a company, or to take part in its management, whether directly or indirectly. The Companies Office guidance repeats that a banned person cannot take part in management directly or indirectly.
+
+That wording matters for anyone tempted to step off the register and keep running the business from behind a spouse, a relative or a trusted employee. Informal control is still management. The consequences of breaching a prohibition, according to the Companies Office, are imprisonment for up to five years or a fine of up to $200,000.
+
+The effect also reaches beyond companies. The Incorporated Societies Register lists being prohibited from acting as a company director among the grounds that [disqualify a person from being an officer](https://is-register.companiesoffice.govt.nz/help-centre/running-your-incorporated-society/committees-and-officers/) of an incorporated society. A director banned over a business failure can find they have to leave the committee of their sports club or community group as well.
+
+## How the Registrar's Process Works
+
+A mismanagement prohibition is an administrative decision, not a court case. According to the Companies Office, a person facing a possible ban will have an opportunity to respond before the Registrar makes a final decision. Prohibitions are then recorded on the disqualified directors database, which anyone can search through the Companies Register, and may be published in the New Zealand Gazette. Entries are removed automatically when the prohibition ends.
+
+Because the process starts with a company failure, the record of how the board behaved while the company was struggling is often the most important evidence. A director who can show what information the board had, what advice it took, and why it decided to keep trading or to stop, is in a far stronger position than one relying on memory.
+
+## Practical Steps for Directors of a Struggling Company
+
+None of the following guarantees any outcome, but each makes the board's decisions easier to explain later:
+
+- Keep board minutes that record the financial information considered and the reasons for decisions, not just the decisions themselves
+- Take independent accounting or insolvency advice early, and minute that it was taken and how the board responded
+- Track tax, employee and supplier obligations at board level, and record what the board knew about any arrears and when
+- Keep your own copies of the board papers and correspondence that show how decisions were reached
+- If a notice arrives from the Registrar, read it carefully and seek legal advice before responding
+
+## Where Directors and Officers Cover Fits
+
+A prohibition is not a fine and not a damages award, so the question for a director is less about what a policy pays out and more about whether it funds a response. Responding properly to a Registrar's notice, or to a liquidator's inquiries that may lead to one, can require legal and accounting help at exactly the moment the company can no longer pay for it.
+
+D&O wordings differ in how they define a "claim" and an "investigation", and in whether administrative processes such as a disqualification proceeding are included. Points worth confirming with an adviser include:
+
+- Whether the policy responds to proceedings seeking to disqualify or prohibit an insured person from managing a company
+- Whether cover continues after the company enters liquidation, and how run-off cover applies once a board has resigned
+- Whether Side A cover responds when the company is insolvent and cannot indemnify its directors
+
+Breaching a prohibition is a criminal offence, and insurance is not a route around that. The value of cover lies earlier, in helping a director present an accurate account of their conduct while the outcome is still open.
+
+For a fuller picture of how personal exposure arises when a company is in trouble, see our guide to [insolvent trading and director duties](https://www.directorsinsurance.co.nz/blog/insolvent-trading-director-duties-nz-mainzeal/) and our explanation of [run-off cover for directors leaving boards](https://www.directorsinsurance.co.nz/blog/run-off-cover-directors-leaving-boards/).
+
+Get a Quote through an adviser who can explain how a policy responds to regulatory and administrative proceedings, not only to claims for compensation.
 `,
   },
 ]
