@@ -1160,52 +1160,71 @@ For directors and officers of financial services entities, the message is clear:
 
   {
     slug: 'privacy-act-2020-director-personal-liability-nz',
-    title: "Directors' Personal Liability Under the Privacy Act 2020: What Every NZ Board Needs to Know",
-    metaTitle: 'Privacy Act 2020 Director Liability NZ | Personal Accountability | DirectorsInsurance.co.nz',
-    metaDesc: 'Privacy Act 2020 director obligations in NZ. IPP3A, mandatory breach notification, and personal liability for governance failures. D&O insurance for data protection.',
-    date: '2025-09-25',
+    title: "Directors' Personal Liability Under the Privacy Act 2020: What Every Board Needs to Know",
+    metaTitle: 'Privacy Act 2020 and Director Liability: A Board Guide',
+    metaDesc: 'Breach notification, the new IPP3A duty from 1 May 2026, compliance notices and Tribunal damages: what the Privacy Act 2020 means for directors and boards.',
+    date: '2026-11-14',
     author: 'DirectorsInsurance.co.nz Editorial',
-    authorBio: 'Our editorial team brings together over 20 years of experience in New Zealand commercial insurance, governance, and financial services regulation.',
     category: 'Regulatory',
-    readTime: '8 min read',
-    excerpt: 'The Privacy Act 2020 significantly strengthened data protection obligations for New Zealand organisations — and created meaningful personal accountability for the directors who govern them. Here is what boards need to understand about their Privacy Act exposure.',
+    readTime: '7 min read',
+    excerpt: 'The Privacy Act 2020 places its obligations on organisations, but boards answer for how those obligations are governed. Mandatory breach notification, the new IPP3A notification duty that took effect on 1 May 2026, and what directors should have in place.',
     content: `## Privacy Law and Board Accountability
 
-The Privacy Act 2020 replaced New Zealand's original 1993 framework with a substantially strengthened set of obligations. While most board discussions focus on the operational requirements — breach notification, data security, retention periods — the governance implications for directors are receiving less attention than they deserve.
+The Privacy Act 2020 replaced the 1993 framework with a stronger set of obligations, including mandatory notification of serious privacy breaches and a power for the Privacy Commissioner to issue compliance notices. Most board discussion focuses on the operational side: breach response, data security and retention. The governance side deserves more attention than it usually gets.
 
-Directors who govern organisations that collect, hold, or process personal information carry personal accountability for the organisation's Privacy Act compliance framework. When things go wrong — a data breach, a complaint upheld by the Privacy Commissioner, or a mandatory notification that reveals inadequate controls — the question of who was responsible for governance of the data protection programme falls directly to the board.
+The Act's obligations fall on the "agency", meaning the organisation that collects and holds personal information, rather than on its directors personally. But when something goes wrong, such as a data breach, a complaint upheld by the Privacy Commissioner or a notification that reveals weak controls, the question of how the board oversaw the organisation's privacy programme comes up quickly.
 
-## Information Privacy Principle 3A: The New Business Exception
+## IPP3A: A New Duty When Information Is Collected Indirectly
 
-One of the most significant practical changes in the 2020 Act was the introduction of Information Privacy Principle 3A (IPP3A), which came into force in May 2026. IPP3A creates a positive obligation on organisations to take reasonable steps to ensure the accuracy of personal information they hold — and removes a previous safe harbour for business information.
+The most recent change is Information Privacy Principle 3A. According to the [Office of the Privacy Commissioner](https://www.privacy.org.nz/resources-and-learning/a-z-topics/ipp3a/), IPP3A was added by the Privacy Amendment Act 2025 and came into force on 1 May 2026.
 
-For directors, the practical consequence is that data quality governance — not just data security — is now a Privacy Act obligation. Boards must understand whether their organisation has processes in place to maintain accurate personal information and to respond to correction requests within the timeframes the Act requires.
+IPP3A applies when an organisation collects personal information about someone from a source other than that person, for example from a referee, a data provider, another business or a public source. The organisation must take reasonable steps to make the individual aware of certain matters, including the purpose of collection, the intended recipients, and the individual's rights to access and correct the information. The OPC says this generally has to happen "as soon as reasonably practicable after the information has been collected", unless the individual is already aware.
 
-## Mandatory Breach Notification: What Directors Must Oversee
+There are exceptions. The OPC lists situations such as where the information is already publicly available, where notification would prejudice the purpose of collection (a fraud investigation, for example), where it is not reasonably practicable because the organisation has no contact details, or where it would disclose a trade secret.
 
-The mandatory privacy breach notification regime is the most operationally visible change in the 2020 Act. When an organisation experiences a privacy breach that has caused, or is likely to cause, serious harm to an affected individual, it must notify the Privacy Commissioner and each affected individual as soon as practicable.
+For boards, IPP3A is a reason to ask management a simple question: where does the organisation receive personal information from third parties, and what has changed since May 2026 to tell those people about it? Recruitment, credit checking, lead generation and customer data shared between group companies are common places to look.
 
-For boards, the governance questions are: Does the organisation have a documented incident response process that includes a privacy breach assessment step? Is there clarity on who makes the notification decision and on what timeline? Does the board receive reporting on privacy incidents so that systemic issues can be identified? Is legal advice available at short notice when a significant privacy incident occurs?
+## Mandatory Breach Notification: What Directors Should Oversee
 
-The OPC has been actively using its investigation powers since 2021 and has published formal findings and compliance orders against named organisations. Board-level governance failures — the absence of documented processes, inadequate breach response frameworks, or failure to take remedial action after known incidents — are noted in published findings.
+The breach notification regime is the most visible part of the 2020 Act. The OPC explains that a [notifiable privacy breach](https://www.privacy.org.nz/resources-and-learning/knowledge-base/view/536/) is one where personal information has been accessed, disclosed, altered, lost or destroyed without authorisation, and it is reasonable to believe an affected person has suffered, or is likely to suffer, serious harm as a result.
 
-## Director Accountability in Privacy Commissioner Investigations
+The organisation must report a notifiable breach to the Privacy Commissioner as soon as practicable, and may also need to make sure affected people are told. The OPC says it expects a report within 72 hours of the organisation becoming aware that a breach is notifiable. In a [May 2024 statement](https://privacy.org.nz/news/statements-media-releases/how-long-is-72-hours) it described the 72 hours as a guide rather than a fixed deadline, and noted that awareness can come from any employee or agent, not only the privacy officer. The OPC also states that [failing to notify](https://www.privacy.org.nz/resources-and-learning/knowledge-base/view/209/) is an offence under section 118 of the Act.
 
-When the Privacy Commissioner investigates a privacy breach, the investigation typically examines both the incident that caused the breach and the adequacy of the organisation's data governance framework. This means directors are in scope from the start of any significant investigation — not only the operational staff who managed the incident.
+For boards, the governance questions are practical:
 
-The Privacy Commissioner can issue compliance orders requiring specific remedial actions. Non-compliance with a compliance order is an offence. For directors, the risk is not simply a fine — it is a formal finding of inadequate governance that becomes part of the public record and potentially triggers further regulatory scrutiny.
+- Does the organisation have a documented incident response process that includes a privacy breach assessment step?
+- Is it clear who decides whether to notify, and how quickly that decision is made?
+- Does the board receive reporting on privacy incidents, so that systemic issues are identified?
+- Can legal advice be obtained at short notice when a significant incident occurs?
 
-D&O insurance that covers Privacy Commissioner investigation costs — including legal representation, expert evidence on data governance frameworks, and preparation for formal interviews — is now a practical necessity for boards of organisations that handle significant volumes of personal information.
+## Compliance Notices, Complaints and Tribunal Damages
+
+The Privacy Commissioner can issue a [compliance notice](https://www.privacy.org.nz/resources-and-learning/knowledge-base/view/587/) telling an organisation that it is breaching its obligations and setting out the steps it must take. If the organisation does not comply or appeal, the Commissioner can bring enforcement proceedings in the Human Rights Review Tribunal, which can order compliance. The OPC states that failing to comply with a Tribunal order could lead to a fine of up to $10,000.
+
+The larger financial exposure usually comes from complaints. Individuals can complain to the Privacy Commissioner, and unresolved complaints can reach the Human Rights Review Tribunal. The OPC's [guidance on consequences](https://www.privacy.org.nz/resources-and-learning/knowledge-base/view/209/) describes Tribunal awards in bands, with the most serious cases ranging from $50,000 to $350,000, and notes that the highest award so far for a privacy matter is just over $168,000.
+
+Investigations and complaints usually look both at the incident and at whether the organisation's privacy practices were adequate. That makes board oversight relevant from the start, even though the legal obligations sit with the organisation.
 
 ## What Boards Should Have in Place
 
-The Privacy Act 2020 does not impose a one-size-fits-all compliance standard. The key obligation is to have privacy policies and procedures that are appropriate to the size, nature, and data-processing activities of the organisation. For boards, this translates into a governance responsibility to ensure the organisation has a documented privacy programme proportionate to its data processing activities, an accountable Privacy Officer with authority and resources, regular board reporting on privacy risks and incidents, a documented incident response process, and privacy impact assessments for significant new data processing activities.
+The Act does not impose a one-size-fits-all compliance standard. For boards, a proportionate privacy programme usually includes:
 
-These are not merely operational matters. They are governance obligations that sit at board level — and the quality of a board's oversight of these matters will be assessed if a significant breach occurs.
+- A documented privacy programme suited to the organisation's size and the personal information it handles
+- A privacy officer with clear authority and resources
+- Regular board reporting on privacy risks and incidents
+- A tested incident response process, including the notification decision
+- A record of where personal information is collected indirectly, and how IPP3A is being met
+- Privacy impact assessments for significant new uses of personal information
+
+The quality of the board's oversight of these matters is likely to be examined if a significant breach occurs.
 
 ## Insurance and Privacy Liability
 
-D&O insurance provides directors with financial protection when a Privacy Commissioner investigation leads to governance scrutiny of the board's conduct. Cyber and privacy liability insurance (a separate product from D&O, but often sold alongside it) covers the organisation's notification costs, credit monitoring for affected individuals, regulatory defence costs, and third-party claims arising from a data breach. For organisations that hold health information, financial data, or significant volumes of consumer personal information, combined D&O and cyber/privacy cover is the appropriate response to New Zealand's current data protection regulatory environment.`,
+Directors and officers cover is designed for claims and investigations against individual directors and officers, while the organisation's own costs after a data breach, such as notification, forensic work and third-party claims, are more commonly the territory of cyber insurance. The two are separate products, although they are often arranged together.
+
+Policy wordings vary, so points worth confirming with an adviser include whether a Privacy Commissioner investigation or a Human Rights Review Tribunal proceeding counts as a claim, which policy responds to costs incurred by the organisation rather than individual directors, and how any fines and penalties are treated. Our guides to [D&O insurance exclusions](https://www.directorsinsurance.co.nz/blog/do-insurance-exclusions-explained/) and [AI governance and director liability](https://www.directorsinsurance.co.nz/blog/ai-governance-director-liability-nz/) cover related ground.
+
+Get a Quote through an adviser who can explain how D&O and cyber cover work together for privacy incidents.`,
   },
 
   {
@@ -1601,6 +1620,92 @@ Breaching a prohibition is a criminal offence, and insurance is not a route arou
 For a fuller picture of how personal exposure arises when a company is in trouble, see our guide to [insolvent trading and director duties](https://www.directorsinsurance.co.nz/blog/insolvent-trading-director-duties-nz-mainzeal/) and our explanation of [run-off cover for directors leaving boards](https://www.directorsinsurance.co.nz/blog/run-off-cover-directors-leaving-boards/).
 
 Get a Quote through an adviser who can explain how a policy responds to regulatory and administrative proceedings, not only to claims for compensation.
+`,
+  },
+  {
+    slug: 'director-personal-liability-unpaid-wages-employment-standards',
+    title: 'Unpaid Wages and Holiday Pay: When Directors Become Personally Liable for Employment Breaches',
+    metaTitle: 'Director Liability for Unpaid Wages and Holiday Pay',
+    metaDesc: 'Directors can be ordered to pay wage arrears and penalties personally when a company breaches employment standards. How the law works and where cover fits.',
+    date: '2026-11-14',
+    author: 'DirectorsInsurance.co.nz Editorial',
+    category: 'Legal Guide',
+    readTime: '7 min read',
+    excerpt: 'In November 2026 the Employment Relations Authority held a director personally liable for more than $203,000 after his company was liquidated. How the "person involved in a breach" rules work, what they cost directors, and what boards should check now.',
+    content: `## A Company Failure Does Not End the Wage Claim
+
+Many directors assume that if their company cannot pay its staff, the debt dies with the company. Under the Employment Relations Act 2000 that assumption is unsafe. Since 2016, the Act has allowed a Labour Inspector or an employee to pursue a director personally for unpaid wages and other money owed, and to seek penalties against them, where the director was involved in a breach of employment standards.
+
+The Labour Inspectorate is using those powers. On 5 November 2026, Employment New Zealand reported that the Employment Relations Authority had ordered the sole director of a renovation company to pay [more than $203,000](https://www.employment.govt.nz/news-and-updates/company-director-ordered-to-pay-more-than-203000-after-migrant-worker-breaches) to three former employees and the Crown. The company had entered liquidation in March 2025 and been removed from the Companies Register. The order against the director covered $132,291.14 in wage arrears, holiday pay and unlawfully received employment premiums, plus $71,178.75 in penalties.
+
+For directors of small and medium businesses in particular, this is one of the most direct routes by which a company's problems become a personal bill.
+
+## How the Law Reaches a Director
+
+The relevant provisions were inserted into the Employment Relations Act by the [Employment Relations Amendment Act 2016](https://legislation.govt.nz/act/public/2016/9/en/2017-03-01.pdf) and sit in Part 9A of the [current Act](https://legislation.govt.nz/act/public/2000/24/en/latest/).
+
+### Who Counts as "Involved in a Breach"
+
+Section 142W says a person is involved in a breach of employment standards if they have aided, abetted, counselled or procured the breach; induced it, by threats, promises or otherwise; been "in any way, directly or indirectly, knowingly concerned in, or party to" it; or conspired with others to bring it about.
+
+Where the employer is a company, only an officer can be treated as involved. The definition of officer includes a director, and also any other person "in a position to exercise significant influence over the management or administration" of the employer. That second limb can catch a chief executive, an owner who is not on the register, or anyone else who is effectively running the business.
+
+The word "knowingly" matters. In the November 2026 case, Employment New Zealand reported that the Authority found the director was "actively involved" in the breaches and had knowledge of the essential facts that made them up. A director who simply did not know about a payroll error is in a different position from one who knew what staff were being paid and why.
+
+### Liability for the Arrears Themselves
+
+Section 142Y allows a Labour Inspector or an employee to recover unpaid wages or other money from a person involved in the breach who is not the employer. Two limits apply. An employee needs the prior leave of the Authority or the Employment Court, and recovery is available only to the extent that the employer itself is unable to pay.
+
+That second limit explains why these claims so often follow a liquidation. In a case [reported in August 2024](https://www.employment.govt.nz/news-and-updates/restaurant-director-must-pay-employee-more-than-40000-in-wages-arrears), the company's liquidators did not allow the Labour Inspectorate to continue its claims against the company, so the Inspectorate pursued the sole director as a person involved in the breaches. He was ordered to pay $40,421 in arrears, covering minimum wage, holiday pay and public holiday entitlements, plus a $12,000 penalty, costs and interest. The Head of the Labour Inspectorate said business owners "should not expect to escape sanctions even if the business is no longer operating".
+
+### Penalties
+
+Section 142X makes a person involved in a breach liable to a penalty where the Act provides one, and only a Labour Inspector can apply for it. Under section 135, the ordinary maximum penalty is $10,000 for an individual and $20,000 for a company.
+
+For serious breaches, a Labour Inspector can apply to the Employment Court for a declaration of breach under section 142B and then a pecuniary penalty order. As inserted in 2016, section 142G sets the maximum for an individual at $50,000. For a body corporate it is the greater of $100,000 or three times the financial gain made from the breach. Section 142B lists factors the court may take into account in deciding whether a breach is serious, including the amount of money involved, whether there was a single breach or a series, and whether the breach was intentional or reckless.
+
+## What the Recent Cases Show
+
+### Penalties Are Calibrated, Not Automatic
+
+In [St Arnaud Alpine Store 2019 Ltd v Labour Inspector [2026] NZEmpC 86](https://www.employment.govt.nz/employment-new-zealand/cases-of-interest/2026/may), the employer and its sole director admitted breaches of the Minimum Wage Act 1983, the Holidays Act 2003 and the Employment Relations Act, and agreed employees were owed $108,618.93. The Authority had penalised the company $91,000 and the director $45,500 as a person involved in the breaches. On challenge, the Employment Court reduced those to $30,000 and $15,000, finding the Authority had given insufficient weight to their financial circumstances. The Court declined to suppress their names.
+
+The lesson for directors is two-sided. Ability to pay is taken into account, but a director's name and the penalty against them can still end up in a published judgment.
+
+### Long-Running Arrears Still Attract Penalties
+
+In December 2024 Employment New Zealand reported that a horticulture labour company and its sole director had been [penalised $100,000](https://www.employment.govt.nz/news-and-updates/kiwifruit-labour-company-director-penalised-100000-for-underpaying-workers) by the Authority: $70,000 against the company, which was by then in liquidation, and $30,000 against the director. The Inspectorate described the record-keeping breaches as "systemic" and noted it had taken three years for the arrears to be paid in full. Paying up late did not prevent the penalty.
+
+### Records Are the Common Thread
+
+Across these releases the same weakness recurs: poor wage, time and holiday records. In the November 2026 case, the Acting Head of the Labour Inspectorate said employers "cannot avoid their obligations through inadequate systems or poor record keeping." When records are missing, a director loses the best evidence of what was paid and why.
+
+## Practical Steps for Directors
+
+None of these steps guarantees an outcome, but each reduces the chance that a payroll problem becomes a personal one:
+
+- Ask for regular board or management reporting on payroll compliance, including minimum wage rates, holiday pay and public holiday entitlements
+- Make sure wage, time, holiday and leave records are complete and kept in a form the company could produce if asked
+- Treat any request or complaint from a Labour Inspector as a board-level matter, and take employment law advice early
+- Do not ask staff, directly or through recruiters, for payments in return for a job; Employment New Zealand notes the Wages Protection Act 1983 prohibits this
+- If the company is struggling, record what the board knew about any wage or holiday pay arrears and what it decided to do about them
+
+Our guides to [insolvent trading and director duties](https://www.directorsinsurance.co.nz/blog/insolvent-trading-director-duties-nz-mainzeal/) and [banned directors](https://www.directorsinsurance.co.nz/blog/banned-directors-registrar-prohibition-failed-companies/) cover the other personal risks that tend to surface at the same time.
+
+## Where Directors and Officers Cover Fits
+
+Unpaid wages are a debt the employer always owed, so a director should not expect an insurance policy to pay them. The more useful questions concern the cost of responding to a Labour Inspector investigation or Authority proceedings, and what happens to penalties.
+
+Policy wordings differ, and the following are worth confirming with an adviser:
+
+- Whether the policy treats a Labour Inspector investigation, or an application to the Authority or Employment Court against an individual director, as a claim
+- How the policy defines loss, and whether wages, entitlements and statutory penalties are excluded
+- Whether employment-related claims sit under the D&O section or a separate employment practices section of a management liability policy, and which limits apply
+- Whether cover continues after the company enters liquidation, since that is often when these claims arrive
+
+For more on how these sections fit together, see our explanation of [management liability versus D&O insurance](https://www.directorsinsurance.co.nz/blog/management-liability-vs-do-insurance/) and our overview of [statutory liability cover](https://www.directorsinsurance.co.nz/coverage/statutory-liability/).
+
+Get a Quote through an adviser who can explain how a policy responds to employment standards investigations, not only to claims from former employees.
 `,
   },
 ]
